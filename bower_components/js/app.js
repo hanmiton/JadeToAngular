@@ -13,6 +13,9 @@
     app.config(['$routeProvider', function ($routeProvider) {
 
     $routeProvider
+      .when('/home', {
+        templateUrl: 'views/home.html',
+      })
       .when('/convenios', {
         templateUrl: 'views/convedex.html',
         controller: 'ConvedexController'
