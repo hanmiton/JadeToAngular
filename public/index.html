@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html ng-app="ingedex">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>{{title && 'Ing | ' + title || 'Ing' }}</title>
+
+    <link rel="stylesheet" type="text/css" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href='http://fonts.googleapis.com/css?family=Pacifico'>
+    <link rel="stylesheet" type="text/css" href='http://fonts.googleapis.com/css?family=Lato:300,400'>
+    <link rel="stylesheet" type="text/css" href='css/animate.css'>
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/bootstrap-theme.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="/dropzone/dist/dropzone.css">
+    <meta name="csrf-token" content="XYZ123">
+  </head>
+  <body>
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation"> 
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand lato" href="#">
+            Docentes
+          </a>
+          <a class="navbar-brand lato" href="#/convenios">
+            Convenios
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+    	<div ng-view></div>  
+    	</div>
+    </div>
+
+    <section class="full-height text-center" id="main-content">
+    	<div class="data">
+    		<div class="col-md-3 center-block no-float top-space">
+    			<img src="imgs/UCE-logo.jpg" class="animated fadeIn">
+    			<h1 class="pacifico big green animated fadeIn delay-1">UCE</h1>
+    			<div class="animated fadeInDown delay-2">
+    				<h2> Sistema Doctorados UCE</h2>
+    				<nav>
+    					<a href="/menu" class="right-space"> Menú</a>
+    					<a href="menu.html" class="right-space"> Contacto </a>
+    					<a href="menu.html" class="right-space">Acerca de</a>
+    				</nav>
+    			</div>
+    			
+    		</div>
+    	</div>
+    </section>
+    <!--subida archivos drag and drop-->
+<!--
+   <div class="container-fluid">
+    <div ng-view></div>  
+    </div>
+  <div class="container">
+    <div>
+      <form id="upload-widget" method="post" action="/upload" class="dropzone">
+        <div class="fallback">
+          <input name="file" type="file" />
+        </div>
+      </form>
+    </div>
+</div>-->
+    <script type="text/javascript" src="/dropzone/dist/dropzone.js"></script>
+    <script type="text/javascript"  src="/js/dropzone.js">
+      Dropzone.options.uploadWidget = {
+        paramName: 'file',
+        maxFilesize: 2, // MB
+        maxFiles: 1,
+        dictDefaultMessage: 'Drag an image here to upload, or click to select one',
+        headers: {
+          'x-csrf-token': document.querySelectorAll('meta[name=csrf-token]')[0].getAttributeNode('content').value,
+        },
+        acceptedFiles: 'image/*','application/pdf',
+        init: function() {
+          this.on('success', function( file, resp ){
+            console.log( file );
+            console.log( resp );
+          });
+          this.on('thumbnail', function(file) {
+            if ( file.width < 640 || file.height < 480 ) {
+              file.rejectDimensions();
+            } else {
+              file.acceptDimensions();
+            }
+          });
+        },
+        accept: function(file, done) {
+          file.acceptDimensions = done;
+          file.rejectDimensions = function() {
+            done('The image must be at least 640  x  480px')
+
+
+          };
+        }
+      };
+
+
+
+
+      
+    </script>
+    <!-- Google Maps -->
+    <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+
+    <script src="js/lib/underscore-min.js"></script>
+
+    <script src="js/lib/angular.min.js"></script>
+    <!-- angular-goole-maps -->
+    <script src="js/lib/lodash.underscore.min.js"></script>
+    <!-- Google Maps -->
+     <script src="js/lib/angular-google-maps.min.js"></script>
+
+    <script src="js/lib/angular-route.min.js"></script>
+    <script src="js/lib/angular-resource.min.js"></script>
+    <script src="js/lib/angular-md5.min.js"></script>
+    <script src="js/app.js"></script>
+    <script src="js/controllers.js"></script>
+    <script src="js/directives.js"></script>
+    <script src="js/filters.js"></script>
+    <script src="js/services.js"></script>
+    <!--modula pra controladore sdentor del hteml-->
+  </body>
+</html>
+

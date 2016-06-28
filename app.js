@@ -11,6 +11,8 @@ mongoose.connect('mongodb://node:node@ds023644.mlab.com:23644/hanmilton');
 
 var cloudinary = require("cloudinary");
 
+
+
 cloudinary.config( {
 	cloud_name: "dot6c5g5b",
 	api_key: "113749932721945",
@@ -42,7 +44,7 @@ productSchema.virtual("image.url").get(function(){
 
 var Product = mongoose.model("Product", productSchema);
 
-app.set("view engine","jade");
+//app.set("view engine","jade");
 
 app.use(express.static("public"));
 
