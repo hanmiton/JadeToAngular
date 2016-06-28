@@ -53,13 +53,14 @@ productSchema.virtual("image.url").get(function(){
 
 var Product = mongoose.model("Product", productSchema);
 
-//app.set("view engine","jade");
+app.set("view engine","jade");
 app.use( express.static( __dirname + '/bower_components' ) );
 //app.use(express.static("public"));
 /*
 app.get("/",function(req,res){
 	res.render("index");
 });
+*/
 
 app.get("/menu",function(req,res){
 	
@@ -179,7 +180,8 @@ app.delete("/menu/:id",function(req,res){
 		res.redirect("/menu");
 	}
 
-});*/
+});
+
 //get proyecto Principal
 
 app.get('/api/ingenieros', function (req, res) {
