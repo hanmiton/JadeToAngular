@@ -1,0 +1,9 @@
+<div class="text-center" ng-repeat="ingeniero in ingeniero.evolution">
+  <a href="/#/ingeniero/{{ingeniero | normalize}}">
+    <img src="{{ingeniero | imageify}}" width="160">
+    <p>
+      <strong>{{ingeniero}}</strong>
+    </p>
+  </a>
+  <span ng-hide="$last" class="glyphicon glyphicon-arrow-down"></span>
+</div>

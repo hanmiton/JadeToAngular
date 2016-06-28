@@ -1,0 +1,4337 @@
+[
+  {
+    "id": "001",
+    "name": "Ingeniero000001",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad1",
+      "Facultad2"
+    ],
+    "edad": "2′4″ (0.71m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad1",
+      "habilidad2"
+    ],
+    "stats": {
+      "st1": 45,
+      "st2": 49,
+      "st3": 49,
+      "sp.st4": 65,
+      "sp.st5": 65,
+      "st6": 45,
+      "total": 318
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "002",
+    "name": "Ingeniero000002",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad1",
+      "Facultad2"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad1",
+      "habilidad2"
+    ],
+    "stats": {
+      "st1": 60,
+      "st2": 62,
+      "st3": 63,
+      "sp.st4": 80,
+      "sp.st5": 80,
+      "st6": 60,
+      "total": 405
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "003",
+    "name": "Ingeniero000003",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad1",
+      "Facultad2"
+    ],
+    "edad": "6′7″ (2.01m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad1",
+      "habilidad2"
+    ],
+    "stats": {
+      "st1": 80,
+      "st2": 82,
+      "st3": 83,
+      "sp.st4": 100,
+      "sp.st5": 100,
+      "st6": 80,
+      "total": 525
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "004",
+    "name": "Ingeniero000004",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad3"
+    ],
+    "edad": "2′0″ (0.61m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad3",
+      "habilidad4"
+    ],
+    "stats": {
+      "st1": 39,
+      "st2": 52,
+      "st3": 43,
+      "sp.st4": 60,
+      "sp.st5": 50,
+      "st6": 65,
+      "total": 309
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "005",
+    "name": "Ingeniero000005",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad3"
+    ],
+    "edad": "3′7″ (1.09m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad3",
+      "habilidad4"
+    ],
+    "stats": {
+      "st1": 58,
+      "st2": 64,
+      "st3": 58,
+      "sp.st4": 80,
+      "sp.st5": 65,
+      "st6": 80,
+      "total": 405
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "006",
+    "name": "Ingeniero000006",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad3",
+      "Facultad4"
+    ],
+    "edad": "5′7″ (1.70m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad3",
+      "habilidad4"
+    ],
+    "stats": {
+      "st1": 78,
+      "st2": 84,
+      "st3": 78,
+      "sp.st4": 109,
+      "sp.st5": 85,
+      "st6": 100,
+      "total": 534
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "007",
+    "name": "Ingeniero000007",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "1′8″ (0.51m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad5",
+      "habilidad6"
+    ],
+    "stats": {
+      "st1": 44,
+      "st2": 48,
+      "st3": 65,
+      "sp.st4": 50,
+      "sp.st5": 64,
+      "st6": 43,
+      "total": 314
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "008",
+    "name": "Ingeniero000008",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad5",
+      "habilidad6"
+    ],
+    "stats": {
+      "st1": 59,
+      "st2": 63,
+      "st3": 80,
+      "sp.st4": 65,
+      "sp.st5": 80,
+      "st6": 58,
+      "total": 405
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "009",
+    "name": "Ingeniero000009",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "5′3″ (1.60m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad5",
+      "habilidad6"
+    ],
+    "stats": {
+      "st1": 79,
+      "st2": 83,
+      "st3": 100,
+      "sp.st4": 85,
+      "sp.st5": 105,
+      "st6": 78,
+      "total": 530
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "010",
+    "name": "Ingeniero000010",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad6"
+    ],
+    "edad": "1′0″ (0.30m)",
+    "facultad": "6.4 lbs (2.9 kg)",
+    "abilities": [
+      "Shield Dust",
+      "Run Away"
+    ],
+    "stats": {
+      "st1": 45,
+      "st2": 30,
+      "st3": 35,
+      "sp.st4": 20,
+      "sp.st5": 20,
+      "st6": 45,
+      "total": 195
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "011",
+    "name": "Ingeniero000011",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad6"
+    ],
+    "edad": "2′4″ (0.71m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Shed Skin"
+    ],
+    "stats": {
+      "st1": 50,
+      "st2": 20,
+      "st3": 55,
+      "sp.st4": 25,
+      "sp.st5": 25,
+      "st6": 30,
+      "total": 205
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "012",
+    "name": "Ingeniero000012",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad6",
+      "Facultad4"
+    ],
+    "edad": "3′7″ (1.09m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Compound Eyes",
+      "Tinted Lens"
+    ],
+    "stats": {
+      "st1": 60,
+      "st2": 45,
+      "st3": 50,
+      "sp.st4": 90,
+      "sp.st5": 80,
+      "st6": 70,
+      "total": 395
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "013",
+    "name": "Ingeniero000013",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad6",
+      "Facultad2"
+    ],
+    "edad": "1′0″ (0.30m)",
+    "facultad": "7.1 lbs (3.2 kg)",
+    "abilities": [
+      "Shield Dust",
+      "Run Away"
+    ],
+    "stats": {
+      "st1": 40,
+      "st2": 35,
+      "st3": 30,
+      "sp.st4": 20,
+      "sp.st5": 20,
+      "st6": 50,
+      "total": 195
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "014",
+    "name": "Ingeniero000014",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad6",
+      "Facultad2"
+    ],
+    "edad": "2′0″ (0.61m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Shed Skin"
+    ],
+    "stats": {
+      "st1": 45,
+      "st2": 25,
+      "st3": 50,
+      "sp.st4": 25,
+      "sp.st5": 25,
+      "st6": 35,
+      "total": 205
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "015",
+    "name": "Ingeniero000015",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad6",
+      "Facultad2"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Swarm",
+      "Sniper"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 90,
+      "st3": 40,
+      "sp.st4": 45,
+      "sp.st5": 80,
+      "st6": 75,
+      "total": 395
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "016",
+    "name": "Ingeniero000016",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal",
+      "Facultad4"
+    ],
+    "edad": "1′0″ (0.30m)",
+    "facultad": "4 lbs (1.8 kg)",
+    "abilities": [
+      "Keen Eye",
+      "Tangled Feet",
+      "Big Pecks"
+    ],
+    "stats": {
+      "st1": 40,
+      "st2": 45,
+      "st3": 40,
+      "sp.st4": 35,
+      "sp.st5": 35,
+      "st6": 56,
+      "total": 251
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "017",
+    "name": "Ingeniero000017",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal",
+      "Facultad4"
+    ],
+    "edad": "3′7″ (1.09m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Keen Eye",
+      "Tangled Feet",
+      "Big Pecks"
+    ],
+    "stats": {
+      "st1": 63,
+      "st2": 60,
+      "st3": 55,
+      "sp.st4": 50,
+      "sp.st5": 50,
+      "st6": 71,
+      "total": 349
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "018",
+    "name": "Ingeniero000018",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal",
+      "Facultad4"
+    ],
+    "edad": "4′11″ (1.50m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Keen Eye",
+      "Tangled Feet",
+      "Big Pecks"
+    ],
+    "stats": {
+      "st1": 83,
+      "st2": 80,
+      "st3": 75,
+      "sp.st4": 70,
+      "sp.st5": 70,
+      "st6": 101,
+      "total": 479
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "019",
+    "name": "Ingeniero000019",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal"
+    ],
+    "edad": "1′0″ (0.30m)",
+    "facultad": "7.7 lbs (3.5 kg)",
+    "abilities": [
+      "Guts",
+      "Run Away",
+      "habilidad19"
+    ],
+    "stats": {
+      "st1": 30,
+      "st2": 56,
+      "st3": 35,
+      "sp.st4": 25,
+      "sp.st5": 35,
+      "st6": 72,
+      "total": 253
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "020",
+    "name": "Ingeniero000020",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal"
+    ],
+    "edad": "2′4″ (0.71m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Guts",
+      "Run Away",
+      "habilidad19"
+    ],
+    "stats": {
+      "st1": 55,
+      "st2": 81,
+      "st3": 60,
+      "sp.st4": 50,
+      "sp.st5": 70,
+      "st6": 97,
+      "total": 413
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "021",
+    "name": "Ingeniero000021",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal",
+      "Facultad4"
+    ],
+    "edad": "1′0″ (0.30m)",
+    "facultad": "4.4 lbs (2.0 kg)",
+    "abilities": [
+      "Keen Eye",
+      "Sniper"
+    ],
+    "stats": {
+      "st1": 40,
+      "st2": 60,
+      "st3": 30,
+      "sp.st4": 31,
+      "sp.st5": 31,
+      "st6": 70,
+      "total": 262
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "022",
+    "name": "Ingeniero000022",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal",
+      "Facultad4"
+    ],
+    "edad": "3′11″ (1.19m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Keen Eye",
+      "Sniper"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 90,
+      "st3": 65,
+      "sp.st4": 61,
+      "sp.st5": 61,
+      "st6": 100,
+      "total": 442
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "023",
+    "name": "Ingeniero000023",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad2"
+    ],
+    "edad": "6′7″ (2.01m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Intimidate",
+      "Shed Skin",
+      "Unnerve"
+    ],
+    "stats": {
+      "st1": 35,
+      "st2": 60,
+      "st3": 44,
+      "sp.st4": 40,
+      "sp.st5": 54,
+      "st6": 55,
+      "total": 288
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "024",
+    "name": "Ingeniero000024",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad2"
+    ],
+    "edad": "11′6″ (3.51m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Intimidate",
+      "Shed Skin",
+      "Unnerve"
+    ],
+    "stats": {
+      "st1": 60,
+      "st2": 85,
+      "st3": 69,
+      "sp.st4": 65,
+      "sp.st5": 79,
+      "st6": 80,
+      "total": 438
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "025",
+    "name": "Ingeniero000025",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad7"
+    ],
+    "edad": "1′4″ (0.41m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Static",
+      "Lightning Rod"
+    ],
+    "stats": {
+      "st1": 35,
+      "st2": 55,
+      "st3": 40,
+      "sp.st4": 50,
+      "sp.st5": 50,
+      "st6": 90,
+      "total": 320
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "026",
+    "name": "Ingeniero000026",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad7"
+    ],
+    "edad": "2′7″ (0.79m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Static",
+      "Lightning Rod"
+    ],
+    "stats": {
+      "st1": 60,
+      "st2": 90,
+      "st3": 55,
+      "sp.st4": 90,
+      "sp.st5": 80,
+      "st6": 110,
+      "total": 485
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "027",
+    "name": "Ingeniero000027",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad8"
+    ],
+    "edad": "2′0″ (0.61m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Sand Veil",
+      "Sand Rush"
+    ],
+    "stats": {
+      "st1": 50,
+      "st2": 75,
+      "st3": 85,
+      "sp.st4": 20,
+      "sp.st5": 30,
+      "st6": 40,
+      "total": 300
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "028",
+    "name": "Ingeniero000028",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad8"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Sand Veil",
+      "Sand Rush"
+    ],
+    "stats": {
+      "st1": 75,
+      "st2": 100,
+      "st3": 110,
+      "sp.st4": 45,
+      "sp.st5": 55,
+      "st6": 65,
+      "total": 450
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "029",
+    "name": "Ingeniero000029",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad2"
+    ],
+    "edad": "1′4″ (0.41m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad17",
+      "habilidad18",
+      "habilidad19"
+    ],
+    "stats": {
+      "st1": 55,
+      "st2": 47,
+      "st3": 52,
+      "sp.st4": 40,
+      "sp.st5": 40,
+      "st6": 41,
+      "total": 275
+    },
+    "evolution": [
+      "Nidoran♀",
+      "Nidorina",
+      "Nidoqueen"
+    ]
+  },
+  {
+    "id": "030",
+    "name": "Ingeniero000030",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad2"
+    ],
+    "edad": "2′7″ (0.79m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad17",
+      "habilidad18",
+      "habilidad19"
+    ],
+    "stats": {
+      "st1": 70,
+      "st2": 62,
+      "st3": 67,
+      "sp.st4": 55,
+      "sp.st5": 55,
+      "st6": 56,
+      "total": 365
+    },
+    "evolution": [
+      "Nidoran♀",
+      "Nidorina",
+      "Nidoqueen"
+    ]
+  },
+  {
+    "id": "031",
+    "name": "Ingeniero000031",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad2",
+      "Facultad8"
+    ],
+    "edad": "4′3″ (1.30m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad17",
+      "habilidad18",
+      "Sheer Force"
+    ],
+    "stats": {
+      "st1": 90,
+      "st2": 92,
+      "st3": 87,
+      "sp.st4": 75,
+      "sp.st5": 85,
+      "st6": 76,
+      "total": 505
+    },
+    "evolution": [
+      "Nidoran♀",
+      "Nidorina",
+      "Nidoqueen"
+    ]
+  },
+  {
+    "id": "032",
+    "name": "Nidoran♂",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad2"
+    ],
+    "edad": "1′8″ (0.51m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad17",
+      "habilidad18",
+      "habilidad19"
+    ],
+    "stats": {
+      "st1": 46,
+      "st2": 57,
+      "st3": 40,
+      "sp.st4": 40,
+      "sp.st5": 40,
+      "st6": 50,
+      "total": 273
+    },
+    "evolution": [
+      "Nidoran♂",
+      "Nidorino",
+      "Nidoking"
+    ]
+  },
+  {
+    "id": "033",
+    "name": "Ingeniero000032",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad2"
+    ],
+    "edad": "2′11″ (0.89m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad17",
+      "habilidad18",
+      "habilidad19"
+    ],
+    "stats": {
+      "st1": 61,
+      "st2": 72,
+      "st3": 57,
+      "sp.st4": 55,
+      "sp.st5": 55,
+      "st6": 65,
+      "total": 365
+    },
+    "evolution": [
+      "Nidoran♂",
+      "Nidorino",
+      "Nidoking"
+    ]
+  },
+  {
+    "id": "034",
+    "name": "Ingeniero000034",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad2",
+      "Facultad8"
+    ],
+    "edad": "4′7″ (1.40m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad17",
+      "habilidad18",
+      "Sheer Force"
+    ],
+    "stats": {
+      "st1": 81,
+      "st2": 102,
+      "st3": 77,
+      "sp.st4": 85,
+      "sp.st5": 75,
+      "st6": 85,
+      "total": 505
+    },
+    "evolution": [
+      "Nidoran♂",
+      "Nidorino",
+      "Nidoking"
+    ]
+  },
+  {
+    "id": "035",
+    "name": "Ingeniero000035",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad9"
+    ],
+    "edad": "2′0″ (0.61m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad20",
+      "habilidad23",
+      "habilidad22"
+    ],
+    "stats": {
+      "st1": 70,
+      "st2": 45,
+      "st3": 48,
+      "sp.st4": 60,
+      "sp.st5": 65,
+      "st6": 35,
+      "total": 323
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "036",
+    "name": "Ingeniero000036",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad9"
+    ],
+    "edad": "4′3″ (1.30m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad20",
+      "habilidad23",
+      "Unaware"
+    ],
+    "stats": {
+      "st1": 95,
+      "st2": 70,
+      "st3": 73,
+      "sp.st4": 95,
+      "sp.st5": 90,
+      "st6": 60,
+      "total": 483
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "037",
+    "name": "Ingeniero000037",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad3"
+    ],
+    "edad": "2′0″ (0.61m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Flash Facultad3",
+      "Drought"
+    ],
+    "stats": {
+      "st1": 38,
+      "st2": 41,
+      "st3": 40,
+      "sp.st4": 50,
+      "sp.st5": 65,
+      "st6": 65,
+      "total": 299
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "038",
+    "name": "Ingeniero000038",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad3"
+    ],
+    "edad": "3′7″ (1.09m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Flash Facultad3",
+      "Drought"
+    ],
+    "stats": {
+      "st1": 73,
+      "st2": 76,
+      "st3": 75,
+      "sp.st4": 81,
+      "sp.st5": 100,
+      "st6": 100,
+      "total": 505
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "039",
+    "name": "Ingeniero000039",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal",
+      "Facultad9"
+    ],
+    "edad": "1′8″ (0.51m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad21",
+      "habilidad20",
+      "habilidad22"
+    ],
+    "stats": {
+      "st1": 115,
+      "st2": 45,
+      "st3": 20,
+      "sp.st4": 45,
+      "sp.st5": 25,
+      "st6": 20,
+      "total": 270
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "040",
+    "name": "Ingeniero000040",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal",
+      "Facultad9"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad21",
+      "habilidad20",
+      "Frisk"
+    ],
+    "stats": {
+      "st1": 140,
+      "st2": 70,
+      "st3": 45,
+      "sp.st4": 85,
+      "sp.st5": 50,
+      "st6": 45,
+      "total": 435
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "041",
+    "name": "Ingeniero000041",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad2",
+      "Facultad4"
+    ],
+    "edad": "2′7″ (0.79m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad25",
+      "Infiltrator"
+    ],
+    "stats": {
+      "st1": 40,
+      "st2": 45,
+      "st3": 35,
+      "sp.st4": 30,
+      "sp.st5": 40,
+      "st6": 55,
+      "total": 245
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "042",
+    "name": "Ingeniero000042",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad2",
+      "Facultad4"
+    ],
+    "edad": "5′3″ (1.60m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad25",
+      "Infiltrator"
+    ],
+    "stats": {
+      "st1": 75,
+      "st2": 80,
+      "st3": 70,
+      "sp.st4": 65,
+      "sp.st5": 75,
+      "st6": 90,
+      "total": 455
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "043",
+    "name": "Ingeniero000043",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad1",
+      "Facultad2"
+    ],
+    "edad": "1′8″ (0.51m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad2",
+      "Run Away"
+    ],
+    "stats": {
+      "st1": 45,
+      "st2": 50,
+      "st3": 55,
+      "sp.st4": 75,
+      "sp.st5": 65,
+      "st6": 30,
+      "total": 320
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "044",
+    "name": "Ingeniero000043",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad1",
+      "Facultad2"
+    ],
+    "edad": "2′7″ (0.79m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad2",
+      "Stench"
+    ],
+    "stats": {
+      "st1": 60,
+      "st2": 65,
+      "st3": 70,
+      "sp.st4": 85,
+      "sp.st5": 75,
+      "st6": 40,
+      "total": 395
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "045",
+    "name": "Ingeniero000045",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad1",
+      "Facultad2"
+    ],
+    "edad": "3′11″ (1.19m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad2",
+      "Effect Spore"
+    ],
+    "stats": {
+      "st1": 75,
+      "st2": 80,
+      "st3": 85,
+      "sp.st4": 110,
+      "sp.st5": 90,
+      "st6": 50,
+      "total": 490
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "046",
+    "name": "Ingeniero000046",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad6",
+      "Facultad1"
+    ],
+    "edad": "1′0″ (0.30m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Dry Skin",
+      "Effect Spore",
+      "habilidad16"
+    ],
+    "stats": {
+      "st1": 35,
+      "st2": 70,
+      "st3": 55,
+      "sp.st4": 45,
+      "sp.st5": 55,
+      "st6": 25,
+      "total": 285
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "047",
+    "name": "Ingeniero000047",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad6",
+      "Facultad1"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Dry Skin",
+      "Effect Spore",
+      "habilidad16"
+    ],
+    "stats": {
+      "st1": 60,
+      "st2": 95,
+      "st3": 80,
+      "sp.st4": 60,
+      "sp.st5": 80,
+      "st6": 30,
+      "total": 405
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "048",
+    "name": "Ingeniero000048",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad6",
+      "Facultad2"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Compound Eyes",
+      "Tinted Lens",
+      "Run Away"
+    ],
+    "stats": {
+      "st1": 60,
+      "st2": 55,
+      "st3": 50,
+      "sp.st4": 40,
+      "sp.st5": 55,
+      "st6": 45,
+      "total": 305
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "049",
+    "name": "Ingeniero000049",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad6",
+      "Facultad2"
+    ],
+    "edad": "4′11″ (1.50m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Shield Dust",
+      "Tinted Lens",
+      "Wonder Skin"
+    ],
+    "stats": {
+      "st1": 70,
+      "st2": 65,
+      "st3": 60,
+      "sp.st4": 90,
+      "sp.st5": 75,
+      "st6": 90,
+      "total": 450
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "050",
+    "name": "Ingeniero000050",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad8"
+    ],
+    "edad": "0′8″ (0.20m)",
+    "facultad": "1.8 lbs (0.8 kg)",
+    "abilities": [
+      "Arena Trap",
+      "Sand Veil",
+      "Sand Force"
+    ],
+    "stats": {
+      "st1": 10,
+      "st2": 55,
+      "st3": 25,
+      "sp.st4": 35,
+      "sp.st5": 45,
+      "st6": 95,
+      "total": 265
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "051",
+    "name": "Ingeniero000051",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad8"
+    ],
+    "edad": "2′4″ (0.71m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Arena Trap",
+      "Sand Veil",
+      "Sand Force"
+    ],
+    "stats": {
+      "st1": 35,
+      "st2": 80,
+      "st3": 50,
+      "sp.st4": 50,
+      "sp.st5": 70,
+      "st6": 120,
+      "total": 405
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "052",
+    "name": "Ingeniero000052",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal"
+    ],
+    "edad": "1′4″ (0.41m)",
+    "facultad": "9.3 lbs (4.2 kg)",
+    "abilities": [
+      "Pickup",
+      "Technician",
+      "Unnerve"
+    ],
+    "stats": {
+      "st1": 40,
+      "st2": 45,
+      "st3": 35,
+      "sp.st4": 40,
+      "sp.st5": 40,
+      "st6": 90,
+      "total": 290
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "053",
+    "name": "Ingeniero000053",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Limber",
+      "Technician",
+      "Unnerve"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 70,
+      "st3": 60,
+      "sp.st4": 65,
+      "sp.st5": 65,
+      "st6": 115,
+      "total": 440
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "054",
+    "name": "Ingeniero000055",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "2′7″ (0.79m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Cloud Nine",
+      "habilidad16",
+      "habilidad13"
+    ],
+    "stats": {
+      "st1": 50,
+      "st2": 52,
+      "st3": 48,
+      "sp.st4": 65,
+      "sp.st5": 50,
+      "st6": 55,
+      "total": 320
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "055",
+    "name": "Ingeniero000055",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "5′7″ (1.70m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Cloud Nine",
+      "habilidad16",
+      "habilidad13"
+    ],
+    "stats": {
+      "st1": 80,
+      "st2": 82,
+      "st3": 78,
+      "sp.st4": 95,
+      "sp.st5": 80,
+      "st6": 85,
+      "total": 500
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "056",
+    "name": "Ingeniero000056",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad10"
+    ],
+    "edad": "1′8″ (0.51m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Anger Point",
+      "Vital Spirit",
+      "Defiant"
+    ],
+    "stats": {
+      "st1": 40,
+      "st2": 80,
+      "st3": 35,
+      "sp.st4": 35,
+      "sp.st5": 45,
+      "st6": 70,
+      "total": 305
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "057",
+    "name": "Ingeniero000057",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad10"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Anger Point",
+      "Vital Spirit",
+      "Defiant"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 105,
+      "st3": 60,
+      "sp.st4": 60,
+      "sp.st5": 70,
+      "st6": 95,
+      "total": 455
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "058",
+    "name": "Ingeniero000058",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad3"
+    ],
+    "edad": "2′4″ (0.71m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Flash Facultad3",
+      "Intimidate",
+      "Justified"
+    ],
+    "stats": {
+      "st1": 55,
+      "st2": 70,
+      "st3": 45,
+      "sp.st4": 70,
+      "sp.st5": 50,
+      "st6": 60,
+      "total": 350
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "059",
+    "name": "Ingeniero000059",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad3"
+    ],
+    "edad": "6′3″ (1.91m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Flash Facultad3",
+      "Intimidate",
+      "Justified"
+    ],
+    "stats": {
+      "st1": 90,
+      "st2": 110,
+      "st3": 80,
+      "sp.st4": 100,
+      "sp.st5": 80,
+      "st6": 95,
+      "total": 555
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "060",
+    "name": "Ingeniero000060",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "2′0″ (0.61m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad16",
+      "habilidad15",
+      "habilidad13"
+    ],
+    "stats": {
+      "st1": 40,
+      "st2": 50,
+      "st3": 40,
+      "sp.st4": 40,
+      "sp.st5": 40,
+      "st6": 90,
+      "total": 300
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "061",
+    "name": "Ingeniero000061",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad16",
+      "habilidad15",
+      "habilidad13"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 65,
+      "st3": 65,
+      "sp.st4": 50,
+      "sp.st5": 50,
+      "st6": 90,
+      "total": 385
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "062",
+    "name": "Ingeniero000062",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5",
+      "Facultad10"
+    ],
+    "edad": "4′3″ (1.30m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad16",
+      "habilidad15",
+      "habilidad13"
+    ],
+    "stats": {
+      "st1": 90,
+      "st2": 95,
+      "st3": 95,
+      "sp.st4": 70,
+      "sp.st5": 90,
+      "st6": 70,
+      "total": 510
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "063",
+    "name": "Ingeniero000063",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad11"
+    ],
+    "edad": "2′11″ (0.89m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad25",
+      "habilidad24",
+      "habilidad23"
+    ],
+    "stats": {
+      "st1": 25,
+      "st2": 20,
+      "st3": 15,
+      "sp.st4": 105,
+      "sp.st5": 55,
+      "st6": 90,
+      "total": 310
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "064",
+    "name": "Ingeniero000064",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad11"
+    ],
+    "edad": "4′3″ (1.30m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad25",
+      "habilidad24",
+      "habilidad23"
+    ],
+    "stats": {
+      "st1": 40,
+      "st2": 35,
+      "st3": 30,
+      "sp.st4": 120,
+      "sp.st5": 70,
+      "st6": 105,
+      "total": 400
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "065",
+    "name": "Ingeniero000065",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad11"
+    ],
+    "edad": "4′11″ (1.50m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad25",
+      "habilidad24",
+      "habilidad23"
+    ],
+    "stats": {
+      "st1": 55,
+      "st2": 50,
+      "st3": 45,
+      "sp.st4": 135,
+      "sp.st5": 95,
+      "st6": 120,
+      "total": 500
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "066",
+    "name": "Ingeniero000066",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad10"
+    ],
+    "edad": "2′7″ (0.79m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Guts",
+      "No Guard",
+      "Steadfast"
+    ],
+    "stats": {
+      "st1": 70,
+      "st2": 80,
+      "st3": 50,
+      "sp.st4": 35,
+      "sp.st5": 35,
+      "st6": 35,
+      "total": 305
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "067",
+    "name": "Ingeniero000067",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad10"
+    ],
+    "edad": "4′11″ (1.50m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Guts",
+      "No Guard",
+      "Steadfast"
+    ],
+    "stats": {
+      "st1": 80,
+      "st2": 100,
+      "st3": 70,
+      "sp.st4": 50,
+      "sp.st5": 60,
+      "st6": 45,
+      "total": 405
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "068",
+    "name": "Ingeniero000068",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad10"
+    ],
+    "edad": "5′3″ (1.60m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Guts",
+      "No Guard",
+      "Steadfast"
+    ],
+    "stats": {
+      "st1": 90,
+      "st2": 130,
+      "st3": 80,
+      "sp.st4": 65,
+      "sp.st5": 85,
+      "st6": 55,
+      "total": 505
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "069",
+    "name": "Ingeniero000069",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad1",
+      "Facultad2"
+    ],
+    "edad": "2′4″ (0.71m)",
+    "facultad": "8.8 lbs (4.0 kg)",
+    "abilities": [
+      "habilidad2",
+      "Gluttony"
+    ],
+    "stats": {
+      "st1": 50,
+      "st2": 75,
+      "st3": 35,
+      "sp.st4": 70,
+      "sp.st5": 30,
+      "st6": 40,
+      "total": 300
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "070",
+    "name": "Ingeniero000070",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad1",
+      "Facultad2"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad2",
+      "Gluttony"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 90,
+      "st3": 50,
+      "sp.st4": 85,
+      "sp.st5": 45,
+      "st6": 55,
+      "total": 390
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "071",
+    "name": "Ingeniero000071",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad1",
+      "Facultad2"
+    ],
+    "edad": "5′7″ (1.70m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad2",
+      "Gluttony"
+    ],
+    "stats": {
+      "st1": 80,
+      "st2": 105,
+      "st3": 65,
+      "sp.st4": 100,
+      "sp.st5": 70,
+      "st6": 70,
+      "total": 490
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "072",
+    "name": "Ingeniero000072",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5",
+      "Facultad2"
+    ],
+    "edad": "2′11″ (0.89m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad7",
+      "habilidad8",
+      "habilidad6"
+    ],
+    "stats": {
+      "st1": 40,
+      "st2": 40,
+      "st3": 35,
+      "sp.st4": 50,
+      "sp.st5": 100,
+      "st6": 70,
+      "total": 335
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "073",
+    "name": "Ingeniero000073",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5",
+      "Facultad2"
+    ],
+    "edad": "5′3″ (1.60m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad7",
+      "habilidad8",
+      "habilidad6"
+    ],
+    "stats": {
+      "st1": 80,
+      "st2": 70,
+      "st3": 65,
+      "sp.st4": 80,
+      "sp.st5": 120,
+      "st6": 100,
+      "total": 515
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "074",
+    "name": "Ingeniero000074",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad12",
+      "Facultad8"
+    ],
+    "edad": "1′4″ (0.41m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad9",
+      "habilidad10",
+      "Sand Veil"
+    ],
+    "stats": {
+      "st1": 40,
+      "st2": 80,
+      "st3": 100,
+      "sp.st4": 30,
+      "sp.st5": 30,
+      "st6": 20,
+      "total": 300
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "075",
+    "name": "Ingeniero000075",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad12",
+      "Facultad8"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad9",
+      "habilidad10",
+      "Sand Veil"
+    ],
+    "stats": {
+      "st1": 55,
+      "st2": 95,
+      "st3": 115,
+      "sp.st4": 45,
+      "sp.st5": 45,
+      "st6": 35,
+      "total": 390
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "076",
+    "name": "Ingeniero000076",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad12",
+      "Facultad8"
+    ],
+    "edad": "4′7″ (1.40m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad9",
+      "habilidad10",
+      "Sand Veil"
+    ],
+    "stats": {
+      "st1": 80,
+      "st2": 120,
+      "st3": 130,
+      "sp.st4": 55,
+      "sp.st5": 65,
+      "st6": 45,
+      "total": 495
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "077",
+    "name": "Ingeniero000077",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad3"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Flash Facultad3",
+      "Run Away",
+      "Flame Body"
+    ],
+    "stats": {
+      "st1": 50,
+      "st2": 85,
+      "st3": 55,
+      "sp.st4": 65,
+      "sp.st5": 65,
+      "st6": 90,
+      "total": 410
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "078",
+    "name": "Ingeniero000078",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad3"
+    ],
+    "edad": "5′7″ (1.70m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Flash Facultad3",
+      "Run Away",
+      "Flame Body"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 100,
+      "st3": 70,
+      "sp.st4": 80,
+      "sp.st5": 80,
+      "st6": 105,
+      "total": 500
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "079",
+    "name": "Ingeniero000079",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5",
+      "Facultad11"
+    ],
+    "edad": "3′11″ (1.19m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Oblivious",
+      "Own Tempo",
+      "Regenerator"
+    ],
+    "stats": {
+      "st1": 90,
+      "st2": 65,
+      "st3": 65,
+      "sp.st4": 40,
+      "sp.st5": 40,
+      "st6": 15,
+      "total": 315
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "080",
+    "name": "Ingeniero000080",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5",
+      "Facultad11"
+    ],
+    "edad": "5′3″ (1.60m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Oblivious",
+      "Own Tempo",
+      "Regenerator"
+    ],
+    "stats": {
+      "st1": 95,
+      "st2": 75,
+      "st3": 110,
+      "sp.st4": 100,
+      "sp.st5": 80,
+      "st6": 30,
+      "total": 490
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "081",
+    "name": "Ingeniero000081",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad7",
+      "Facultad13"
+    ],
+    "edad": "1′0″ (0.30m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Magnet Pull",
+      "habilidad10",
+      "Analytic"
+    ],
+    "stats": {
+      "st1": 25,
+      "st2": 35,
+      "st3": 70,
+      "sp.st4": 95,
+      "sp.st5": 55,
+      "st6": 45,
+      "total": 325
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "082",
+    "name": "Ingeniero000082",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad7",
+      "Facultad13"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Magnet Pull",
+      "habilidad10",
+      "Analytic"
+    ],
+    "stats": {
+      "st1": 50,
+      "st2": 60,
+      "st3": 95,
+      "sp.st4": 120,
+      "sp.st5": 70,
+      "st6": 70,
+      "total": 465
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "083",
+    "name": "Farfetch'd",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal",
+      "Facultad4"
+    ],
+    "edad": "2′7″ (0.79m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad25",
+      "Keen Eye",
+      "Defiant"
+    ],
+    "stats": {
+      "st1": 52,
+      "st2": 65,
+      "st3": 55,
+      "sp.st4": 58,
+      "sp.st5": 62,
+      "st6": 60,
+      "total": 352
+    },
+    "evolution": []
+  },
+  {
+    "id": "084",
+    "name": "Ingeniero000083",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal",
+      "Facultad4"
+    ],
+    "edad": "4′7″ (1.40m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Early Bird",
+      "Run Away",
+      "Tangled Feet"
+    ],
+    "stats": {
+      "st1": 35,
+      "st2": 85,
+      "st3": 45,
+      "sp.st4": 35,
+      "sp.st5": 35,
+      "st6": 75,
+      "total": 310
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "085",
+    "name": "Ingeniero000084",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal",
+      "Facultad4"
+    ],
+    "edad": "5′11″ (1.80m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Early Bird",
+      "Run Away",
+      "Tangled Feet"
+    ],
+    "stats": {
+      "st1": 60,
+      "st2": 110,
+      "st3": 70,
+      "sp.st4": 60,
+      "sp.st5": 60,
+      "st6": 100,
+      "total": 460
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "086",
+    "name": "Ingeniero000085",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "3′7″ (1.09m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Hydration",
+      "Thick Fat",
+      "Facultad14 Body"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 45,
+      "st3": 55,
+      "sp.st4": 45,
+      "sp.st5": 70,
+      "st6": 45,
+      "total": 325
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "087",
+    "name": "Ingeniero000086",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5",
+      "Facultad14"
+    ],
+    "edad": "5′7″ (1.70m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Hydration",
+      "Thick Fat",
+      "Facultad14 Body"
+    ],
+    "stats": {
+      "st1": 90,
+      "st2": 70,
+      "st3": 80,
+      "sp.st4": 70,
+      "sp.st5": 95,
+      "st6": 70,
+      "total": 475
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "088",
+    "name": "Ingeniero000087",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad2"
+    ],
+    "edad": "2′11″ (0.89m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Stench",
+      "Sticky Hold",
+      "Facultad2 Touch"
+    ],
+    "stats": {
+      "st1": 80,
+      "st2": 80,
+      "st3": 50,
+      "sp.st4": 40,
+      "sp.st5": 50,
+      "st6": 25,
+      "total": 325
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "089",
+    "name": "Ingeniero000088",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad2"
+    ],
+    "edad": "3′11″ (1.19m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Stench",
+      "Sticky Hold",
+      "Facultad2 Touch"
+    ],
+    "stats": {
+      "st1": 105,
+      "st2": 105,
+      "st3": 75,
+      "sp.st4": 65,
+      "sp.st5": 100,
+      "st6": 50,
+      "total": 500
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "090",
+    "name": "Ingeniero000089",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "1′0″ (0.30m)",
+    "facultad": "8.8 lbs (4.0 kg)",
+    "abilities": [
+      "habilidad12",
+      "Skill Link",
+      "Overcoat"
+    ],
+    "stats": {
+      "st1": 30,
+      "st2": 65,
+      "st3": 100,
+      "sp.st4": 45,
+      "sp.st5": 25,
+      "st6": 40,
+      "total": 305
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "091",
+    "name": "Ingeniero000090",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5",
+      "Facultad14"
+    ],
+    "edad": "4′11″ (1.50m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad12",
+      "Skill Link",
+      "Overcoat"
+    ],
+    "stats": {
+      "st1": 50,
+      "st2": 95,
+      "st3": 180,
+      "sp.st4": 85,
+      "sp.st5": 45,
+      "st6": 70,
+      "total": 525
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "092",
+    "name": "Ingeniero000092",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad15",
+      "Facultad2"
+    ],
+    "edad": "4′3″ (1.30m)",
+    "facultad": "0.2 lbs (0.1 kg)",
+    "abilities": [
+      "Levitate"
+    ],
+    "stats": {
+      "st1": 30,
+      "st2": 35,
+      "st3": 30,
+      "sp.st4": 100,
+      "sp.st5": 35,
+      "st6": 80,
+      "total": 310
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "093",
+    "name": "Ingeniero000093",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad15",
+      "Facultad2"
+    ],
+    "edad": "5′3″ (1.60m)",
+    "facultad": "0.2 lbs (0.1 kg)",
+    "abilities": [
+      "Levitate"
+    ],
+    "stats": {
+      "st1": 45,
+      "st2": 50,
+      "st3": 45,
+      "sp.st4": 115,
+      "sp.st5": 55,
+      "st6": 95,
+      "total": 405
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "094",
+    "name": "Ingeniero000094",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad15",
+      "Facultad2"
+    ],
+    "edad": "4′11″ (1.50m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Levitate"
+    ],
+    "stats": {
+      "st1": 60,
+      "st2": 65,
+      "st3": 60,
+      "sp.st4": 130,
+      "sp.st5": 75,
+      "st6": 110,
+      "total": 500
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "095",
+    "name": "Ingeniero000095",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad12",
+      "Facultad8"
+    ],
+    "edad": "28′10″ (8.79m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad9",
+      "habilidad10",
+      "habilidad11"
+    ],
+    "stats": {
+      "st1": 35,
+      "st2": 45,
+      "st3": 160,
+      "sp.st4": 30,
+      "sp.st5": 45,
+      "st6": 70,
+      "total": 385
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "096",
+    "name": "Ingeniero000096",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad11"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Forewarn",
+      "Insomnia",
+      "habilidad25"
+    ],
+    "stats": {
+      "st1": 60,
+      "st2": 48,
+      "st3": 45,
+      "sp.st4": 43,
+      "sp.st5": 90,
+      "st6": 42,
+      "total": 328
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "097",
+    "name": "Ingeniero000097",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad11"
+    ],
+    "edad": "5′3″ (1.60m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Forewarn",
+      "Insomnia",
+      "habilidad25"
+    ],
+    "stats": {
+      "st1": 85,
+      "st2": 73,
+      "st3": 70,
+      "sp.st4": 73,
+      "sp.st5": 115,
+      "st6": 67,
+      "total": 483
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "098",
+    "name": "Ingeniero000098",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "1′4″ (0.41m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Hyper Cutter",
+      "habilidad12",
+      "Sheer Force"
+    ],
+    "stats": {
+      "st1": 30,
+      "st2": 105,
+      "st3": 90,
+      "sp.st4": 25,
+      "sp.st5": 25,
+      "st6": 50,
+      "total": 325
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "099",
+    "name": "Ingeniero000099",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "4′3″ (1.30m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Hyper Cutter",
+      "habilidad12",
+      "Sheer Force"
+    ],
+    "stats": {
+      "st1": 55,
+      "st2": 130,
+      "st3": 115,
+      "sp.st4": 50,
+      "sp.st5": 50,
+      "st6": 75,
+      "total": 475
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "100",
+    "name": "Ingeniero000100",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad7"
+    ],
+    "edad": "1′8″ (0.51m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Soundproof",
+      "Static",
+      "Aftermath"
+    ],
+    "stats": {
+      "st1": 40,
+      "st2": 30,
+      "st3": 50,
+      "sp.st4": 55,
+      "sp.st5": 55,
+      "st6": 100,
+      "total": 330
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "101",
+    "name": "Ingeniero000001",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad7"
+    ],
+    "edad": "3′11″ (1.19m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Soundproof",
+      "Static",
+      "Aftermath"
+    ],
+    "stats": {
+      "st1": 60,
+      "st2": 50,
+      "st3": 70,
+      "sp.st4": 80,
+      "sp.st5": 80,
+      "st6": 140,
+      "total": 480
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "102",
+    "name": "Ingeniero000103",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad1",
+      "Facultad11"
+    ],
+    "edad": "1′4″ (0.41m)",
+    "facultad": "5.5 lbs (2.5 kg)",
+    "abilities": [
+      "habilidad2",
+      "Harvest"
+    ],
+    "stats": {
+      "st1": 60,
+      "st2": 40,
+      "st3": 80,
+      "sp.st4": 60,
+      "sp.st5": 45,
+      "st6": 40,
+      "total": 325
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "103",
+    "name": "Ingeniero000104",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad1",
+      "Facultad11"
+    ],
+    "edad": "6′7″ (2.01m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad2",
+      "Harvest"
+    ],
+    "stats": {
+      "st1": 95,
+      "st2": 95,
+      "st3": 85,
+      "sp.st4": 125,
+      "sp.st5": 65,
+      "st6": 55,
+      "total": 520
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "104",
+    "name": "Ingeniero000105",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad8"
+    ],
+    "edad": "1′4″ (0.41m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Lightning Rod",
+      "habilidad9",
+      "Battle Armor"
+    ],
+    "stats": {
+      "st1": 50,
+      "st2": 50,
+      "st3": 95,
+      "sp.st4": 40,
+      "sp.st5": 50,
+      "st6": 35,
+      "total": 320
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "105",
+    "name": "Ingeniero000106",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad8"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Lightning Rod",
+      "habilidad9",
+      "Battle Armor"
+    ],
+    "stats": {
+      "st1": 60,
+      "st2": 80,
+      "st3": 110,
+      "sp.st4": 50,
+      "sp.st5": 80,
+      "st6": 45,
+      "total": 425
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "106",
+    "name": "Ingeniero000107",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad10"
+    ],
+    "edad": "4′11″ (1.50m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Limber",
+      "Reckless",
+      "Unburden"
+    ],
+    "stats": {
+      "st1": 50,
+      "st2": 120,
+      "st3": 53,
+      "sp.st4": 35,
+      "sp.st5": 110,
+      "st6": 87,
+      "total": 455
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "107",
+    "name": "Ingeniero000108",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad10"
+    ],
+    "edad": "4′7″ (1.40m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Iron Fist",
+      "Keen Eye",
+      "habilidad25"
+    ],
+    "stats": {
+      "st1": 50,
+      "st2": 105,
+      "st3": 79,
+      "sp.st4": 35,
+      "sp.st5": 110,
+      "st6": 76,
+      "total": 455
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "108",
+    "name": "Ingeniero000109",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal"
+    ],
+    "edad": "3′11″ (1.19m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Oblivious",
+      "Own Tempo",
+      "Cloud Nine"
+    ],
+    "stats": {
+      "st1": 90,
+      "st2": 55,
+      "st3": 75,
+      "sp.st4": 60,
+      "sp.st5": 75,
+      "st6": 30,
+      "total": 385
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "109",
+    "name": "Ingeniero000110",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad2"
+    ],
+    "edad": "2′0″ (0.61m)",
+    "facultad": "2.2 lbs (1.0 kg)",
+    "abilities": [
+      "Levitate"
+    ],
+    "stats": {
+      "st1": 40,
+      "st2": 65,
+      "st3": 95,
+      "sp.st4": 60,
+      "sp.st5": 45,
+      "st6": 35,
+      "total": 340
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "110",
+    "name": "Ingeniero000111",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad2"
+    ],
+    "edad": "3′11″ (1.19m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Levitate"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 90,
+      "st3": 120,
+      "sp.st4": 85,
+      "sp.st5": 70,
+      "st6": 60,
+      "total": 490
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "111",
+    "name": "Ingeniero000112",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad8",
+      "Facultad12"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Lightning Rod",
+      "habilidad9",
+      "Reckless"
+    ],
+    "stats": {
+      "st1": 80,
+      "st2": 85,
+      "st3": 95,
+      "sp.st4": 30,
+      "sp.st5": 30,
+      "st6": 25,
+      "total": 345
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "112",
+    "name": "Ingeniero000113",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad8",
+      "Facultad12"
+    ],
+    "edad": "6′3″ (1.91m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Lightning Rod",
+      "habilidad9",
+      "Reckless"
+    ],
+    "stats": {
+      "st1": 105,
+      "st2": 130,
+      "st3": 120,
+      "sp.st4": 45,
+      "sp.st5": 45,
+      "st6": 40,
+      "total": 485
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "113",
+    "name": "Ingeniero000114",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal"
+    ],
+    "edad": "3′7″ (1.09m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Natural Cure",
+      "Serene Grace",
+      "Healer"
+    ],
+    "stats": {
+      "st1": 250,
+      "st2": 5,
+      "st3": 5,
+      "sp.st4": 35,
+      "sp.st5": 105,
+      "st6": 50,
+      "total": 450
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "114",
+    "name": "Ingeniero000115",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad1"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad2",
+      "Leaf Guard",
+      "Regenerator"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 55,
+      "st3": 115,
+      "sp.st4": 100,
+      "sp.st5": 40,
+      "st6": 60,
+      "total": 435
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "115",
+    "name": "Ingeniero000116",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal"
+    ],
+    "edad": "7′3″ (2.21m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Early Bird",
+      "Scrappy",
+      "habilidad25"
+    ],
+    "stats": {
+      "st1": 105,
+      "st2": 95,
+      "st3": 80,
+      "sp.st4": 40,
+      "sp.st5": 80,
+      "st6": 90,
+      "total": 490
+    },
+    "evolution": []
+  },
+  {
+    "id": "116",
+    "name": "Ingeniero000116",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "1′4″ (0.41m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Sniper",
+      "habilidad13",
+      "habilidad16"
+    ],
+    "stats": {
+      "st1": 30,
+      "st2": 40,
+      "st3": 70,
+      "sp.st4": 70,
+      "sp.st5": 25,
+      "st6": 60,
+      "total": 295
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "117",
+    "name": "Ingeniero000117",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "3′11″ (1.19m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad17",
+      "Sniper",
+      "habilidad16"
+    ],
+    "stats": {
+      "st1": 55,
+      "st2": 65,
+      "st3": 95,
+      "sp.st4": 95,
+      "sp.st5": 45,
+      "st6": 85,
+      "total": 440
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "118",
+    "name": "Ingeniero000118",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "2′0″ (0.61m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad13",
+      "Facultad5 Veil",
+      "Lightning Rod"
+    ],
+    "stats": {
+      "st1": 45,
+      "st2": 67,
+      "st3": 60,
+      "sp.st4": 35,
+      "sp.st5": 50,
+      "st6": 63,
+      "total": 320
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "119",
+    "name": "Ingeniero000119",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "4′3″ (1.30m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad13",
+      "Facultad5 Veil",
+      "Lightning Rod"
+    ],
+    "stats": {
+      "st1": 80,
+      "st2": 92,
+      "st3": 65,
+      "sp.st4": 65,
+      "sp.st5": 80,
+      "st6": 68,
+      "total": 450
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "120",
+    "name": "Ingeniero000120",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "2′7″ (0.79m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Illuminate",
+      "Natural Cure",
+      "Analytic"
+    ],
+    "stats": {
+      "st1": 30,
+      "st2": 45,
+      "st3": 55,
+      "sp.st4": 70,
+      "sp.st5": 55,
+      "st6": 85,
+      "total": 340
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "121",
+    "name": "Ingeniero000121",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5",
+      "Facultad11"
+    ],
+    "edad": "3′7″ (1.09m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Illuminate",
+      "Natural Cure",
+      "Analytic"
+    ],
+    "stats": {
+      "st1": 60,
+      "st2": 75,
+      "st3": 85,
+      "sp.st4": 100,
+      "sp.st5": 85,
+      "st6": 115,
+      "total": 520
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "122",
+    "name": "Mr. Mime",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad11",
+      "Facultad9"
+    ],
+    "edad": "4′3″ (1.30m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Filter",
+      "Soundproof",
+      "Technician"
+    ],
+    "stats": {
+      "st1": 40,
+      "st2": 45,
+      "st3": 65,
+      "sp.st4": 100,
+      "sp.st5": 120,
+      "st6": 90,
+      "total": 460
+    },
+    "evolution": [
+      "Mime Jr.",
+      "Mr. Mime"
+    ]
+  },
+  {
+    "id": "123",
+    "name": "Ingeniero000122",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad6",
+      "Facultad4"
+    ],
+    "edad": "4′11″ (1.50m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Swarm",
+      "Technician",
+      "Steadfast"
+    ],
+    "stats": {
+      "st1": 70,
+      "st2": 110,
+      "st3": 80,
+      "sp.st4": 55,
+      "sp.st5": 80,
+      "st6": 105,
+      "total": 500
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "124",
+    "name": "Ingeniero000123",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad14",
+      "Facultad11"
+    ],
+    "edad": "4′7″ (1.40m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Forewarn",
+      "Oblivious",
+      "Dry Skin"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 50,
+      "st3": 35,
+      "sp.st4": 115,
+      "sp.st5": 95,
+      "st6": 95,
+      "total": 455
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "125",
+    "name": "Ingeniero000124",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad7"
+    ],
+    "edad": "3′7″ (1.09m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Static",
+      "Vital Spirit"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 83,
+      "st3": 57,
+      "sp.st4": 95,
+      "sp.st5": 85,
+      "st6": 105,
+      "total": 490
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "126",
+    "name": "Ingeniero000125",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad3"
+    ],
+    "edad": "4′3″ (1.30m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Flame Body",
+      "Vital Spirit"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 95,
+      "st3": 57,
+      "sp.st4": 100,
+      "sp.st5": 85,
+      "st6": 93,
+      "total": 495
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "127",
+    "name": "Ingeniero000126",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad6"
+    ],
+    "edad": "4′11″ (1.50m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Hyper Cutter",
+      "Mold Breaker",
+      "Moxie"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 125,
+      "st3": 100,
+      "sp.st4": 55,
+      "sp.st5": 70,
+      "st6": 85,
+      "total": 500
+    },
+    "evolution": []
+  },
+  {
+    "id": "128",
+    "name": "Ingeniero000128",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal"
+    ],
+    "edad": "4′7″ (1.40m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Anger Point",
+      "Intimidate",
+      "Sheer Force"
+    ],
+    "stats": {
+      "st1": 75,
+      "st2": 100,
+      "st3": 95,
+      "sp.st4": 40,
+      "sp.st5": 70,
+      "st6": 110,
+      "total": 490
+    },
+    "evolution": []
+  },
+  {
+    "id": "129",
+    "name": "Ingeniero000129",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "2′11″ (0.89m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad13",
+      "habilidad14"
+    ],
+    "stats": {
+      "st1": 20,
+      "st2": 10,
+      "st3": 55,
+      "sp.st4": 15,
+      "sp.st5": 20,
+      "st6": 80,
+      "total": 200
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "130",
+    "name": "Ingeniero000130",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5",
+      "Facultad4"
+    ],
+    "edad": "21′4″ (6.50m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Intimidate",
+      "Moxie"
+    ],
+    "stats": {
+      "st1": 95,
+      "st2": 125,
+      "st3": 79,
+      "sp.st4": 60,
+      "sp.st5": 100,
+      "st6": 81,
+      "total": 540
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "131",
+    "name": "Ingeniero000131",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5",
+      "Facultad14"
+    ],
+    "edad": "8′2″ (2.49m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad12",
+      "habilidad15",
+      "Hydration"
+    ],
+    "stats": {
+      "st1": 130,
+      "st2": 85,
+      "st3": 80,
+      "sp.st4": 85,
+      "sp.st5": 95,
+      "st6": 60,
+      "total": 535
+    },
+    "evolution": []
+  },
+  {
+    "id": "132",
+    "name": "Ingeniero000132",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal"
+    ],
+    "edad": "1′0″ (0.30m)",
+    "facultad": "8.8 lbs (4.0 kg)",
+    "abilities": [
+      "Limber",
+      "Imposter"
+    ],
+    "stats": {
+      "st1": 48,
+      "st2": 48,
+      "st3": 48,
+      "sp.st4": 48,
+      "sp.st5": 48,
+      "st6": 48,
+      "total": 288
+    },
+    "evolution": []
+  },
+  {
+    "id": "133",
+    "name": "Ingeniero000133",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal"
+    ],
+    "edad": "1′0″ (0.30m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Adaptability",
+      "Run Away",
+      "Anticipation"
+    ],
+    "stats": {
+      "st1": 55,
+      "st2": 55,
+      "st3": 50,
+      "sp.st4": 45,
+      "sp.st5": 65,
+      "st6": 55,
+      "total": 325
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "134",
+    "name": "Ingeniero000134",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad5"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad15",
+      "Hydration"
+    ],
+    "stats": {
+      "st1": 130,
+      "st2": 65,
+      "st3": 60,
+      "sp.st4": 110,
+      "sp.st5": 95,
+      "st6": 65,
+      "total": 525
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "135",
+    "name": "Ingeniero000135",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad7"
+    ],
+    "edad": "2′7″ (0.79m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Volt Absorb",
+      "Quick Feet"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 65,
+      "st3": 60,
+      "sp.st4": 110,
+      "sp.st5": 95,
+      "st6": 130,
+      "total": 525
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "136",
+    "name": "Ingeniero000136",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad3"
+    ],
+    "edad": "2′11″ (0.89m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Flash Facultad3",
+      "Guts"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 130,
+      "st3": 60,
+      "sp.st4": 95,
+      "sp.st5": 110,
+      "st6": 65,
+      "total": 525
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "137",
+    "name": "Ingeniero000137",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal"
+    ],
+    "edad": "2′7″ (0.79m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Download",
+      "Trace",
+      "Analytic"
+    ],
+    "stats": {
+      "st1": 65,
+      "st2": 60,
+      "st3": 70,
+      "sp.st4": 85,
+      "sp.st5": 75,
+      "st6": 40,
+      "total": 395
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "138",
+    "name": "Ingeniero000138",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad12",
+      "Facultad5"
+    ],
+    "edad": "1′4″ (0.41m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad12",
+      "habilidad13",
+      "habilidad11"
+    ],
+    "stats": {
+      "st1": 35,
+      "st2": 40,
+      "st3": 100,
+      "sp.st4": 90,
+      "sp.st5": 55,
+      "st6": 35,
+      "total": 355
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "139",
+    "name": "Ingeniero000139",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad12",
+      "Facultad5"
+    ],
+    "edad": "3′3″ (0.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad12",
+      "habilidad13",
+      "habilidad11"
+    ],
+    "stats": {
+      "st1": 70,
+      "st2": 60,
+      "st3": 125,
+      "sp.st4": 115,
+      "sp.st5": 70,
+      "st6": 55,
+      "total": 495
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "140",
+    "name": "Ingeniero000140",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad12",
+      "Facultad5"
+    ],
+    "edad": "1′8″ (0.51m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Battle Armor",
+      "habilidad13",
+      "habilidad11"
+    ],
+    "stats": {
+      "st1": 30,
+      "st2": 80,
+      "st3": 90,
+      "sp.st4": 55,
+      "sp.st5": 45,
+      "st6": 55,
+      "total": 355
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "141",
+    "name": "Ingeniero000141",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad12",
+      "Facultad5"
+    ],
+    "edad": "4′3″ (1.30m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Battle Armor",
+      "habilidad13",
+      "habilidad11"
+    ],
+    "stats": {
+      "st1": 60,
+      "st2": 115,
+      "st3": 105,
+      "sp.st4": 65,
+      "sp.st5": 70,
+      "st6": 80,
+      "total": 495
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "142",
+    "name": "Ingeniero000142",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad12",
+      "Facultad4"
+    ],
+    "edad": "5′11″ (1.80m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Pressure",
+      "habilidad9",
+      "Unnerve"
+    ],
+    "stats": {
+      "st1": 80,
+      "st2": 105,
+      "st3": 65,
+      "sp.st4": 60,
+      "sp.st5": 75,
+      "st6": 130,
+      "total": 515
+    },
+    "evolution": []
+  },
+  {
+    "id": "143",
+    "name": "Ingeniero000143",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Normal"
+    ],
+    "edad": "6′11″ (2.11m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Immunity",
+      "Thick Fat",
+      "Gluttony"
+    ],
+    "stats": {
+      "st1": 160,
+      "st2": 110,
+      "st3": 65,
+      "sp.st4": 65,
+      "sp.st5": 110,
+      "st6": 30,
+      "total": 540
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+      "Masterado"
+    ]
+  },
+  {
+    "id": "144",
+    "name": "Ingeniero000144",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad14",
+      "Facultad4"
+    ],
+    "edad": "5′7″ (1.70m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Pressure",
+      "Snow Cloak"
+    ],
+    "stats": {
+      "st1": 90,
+      "st2": 85,
+      "st3": 100,
+      "sp.st4": 95,
+      "sp.st5": 125,
+      "st6": 85,
+      "total": 580
+    },
+    "evolution": []
+  },
+  {
+    "id": "145",
+    "name": "Ingeniero000145",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad7",
+      "Facultad4"
+    ],
+    "edad": "5′3″ (1.60m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Pressure",
+      "Lightning Rod"
+    ],
+    "stats": {
+      "st1": 90,
+      "st2": 90,
+      "st3": 85,
+      "sp.st4": 125,
+      "sp.st5": 90,
+      "st6": 100,
+      "total": 580
+    },
+    "evolution": []
+  },
+  {
+    "id": "146",
+    "name": "Ingeniero000146",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad3",
+      "Facultad4"
+    ],
+    "edad": "6′7″ (2.01m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Pressure",
+      "Flame Body"
+    ],
+    "stats": {
+      "st1": 90,
+      "st2": 100,
+      "st3": 90,
+      "sp.st4": 125,
+      "sp.st5": 85,
+      "st6": 90,
+      "total": 580
+    },
+    "evolution": []
+  },
+  {
+    "id": "147",
+    "name": "Ingeniero000147",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad16"
+    ],
+    "edad": "5′11″ (1.80m)",
+    "facultad": "7.3 lbs (3.3 kg)",
+    "abilities": [
+      "Shed Skin",
+      "Marvel Scale"
+    ],
+    "stats": {
+      "st1": 41,
+      "st2": 64,
+      "st3": 45,
+      "sp.st4": 50,
+      "sp.st5": 50,
+      "st6": 50,
+      "total": 300
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "148",
+    "name": "Ingeniero000148",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad16"
+    ],
+    "edad": "13′1″ (3.99m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Shed Skin",
+      "Marvel Scale"
+    ],
+    "stats": {
+      "st1": 61,
+      "st2": 84,
+      "st3": 65,
+      "sp.st4": 70,
+      "sp.st5": 70,
+      "st6": 70,
+      "total": 420
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "149",
+    "name": "Ingeniero000149",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad16",
+      "Facultad4"
+    ],
+    "edad": "7′3″ (2.21m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "habilidad25",
+      "Multiscale"
+    ],
+    "stats": {
+      "st1": 91,
+      "st2": 134,
+      "st3": 95,
+      "sp.st4": 100,
+      "sp.st5": 100,
+      "st6": 80,
+      "total": 600
+    },
+    "evolution": [
+      "Ingeniero",
+      "Doctorado",
+            "Masterado"
+    ]
+  },
+  {
+    "id": "150",
+    "name": "Ingeniero000151",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad11"
+    ],
+    "edad": "6′7″ (2.01m)",
+    "facultad": "facultad001",
+    "abilities": [
+      "Pressure",
+      "Unnerve"
+    ],
+    "stats": {
+      "st1": 106,
+      "st2": 110,
+      "st3": 90,
+      "sp.st4": 154,
+      "sp.st5": 90,
+      "st6": 140,
+      "total": 680
+    },
+    "evolution": []
+  },
+  {
+    "id": "151",
+    "name": "Ingeniero000151",
+    "ingenieria": "Ingenieria001",
+    "type": [
+      "Facultad11"
+    ],
+    "edad": "1′4″ (0.41m)",
+    "facultad": "8.8 lbs (4.0 kg)",
+    "abilities": [
+      "habilidad24"
+    ],
+    "stats": {
+      "st1": 100,
+      "st2": 100,
+      "st3": 100,
+      "sp.st4": 100,
+      "sp.st5": 100,
+      "st6": 100,
+      "total": 600
+    },
+    "evolution": []
+  }
+]

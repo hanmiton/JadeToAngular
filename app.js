@@ -1,17 +1,24 @@
 var express = require('express');
+//dependencias proyecto principal
+var path = require('path');
+var logger = require('morgan');
+var ingenieros = require('./bower_components/ingenieros.json');
+var convenios = require('./bower_components/convenios.json');
 var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
 var multer  = require('multer')
 var upload = multer({ dest: 'uploads/' })
 var method_override = require("method-override");
+var sizeOf    =   require( 'image-size' );
+var exphbs    =   require( 'express-handlebars' );
+require( 'string.prototype.startswith' );
+
 var app_password = "1"
 var Schema = mongoose.Schema;
 
 mongoose.connect('mongodb://node:node@ds023644.mlab.com:23644/hanmilton');
 
 var cloudinary = require("cloudinary");
-
-
 
 cloudinary.config( {
 	cloud_name: "dot6c5g5b",
@@ -20,6 +27,8 @@ cloudinary.config( {
 });
 
 var app = express();
+
+app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(method_override("_method"));
@@ -45,9 +54,9 @@ productSchema.virtual("image.url").get(function(){
 var Product = mongoose.model("Product", productSchema);
 
 //app.set("view engine","jade");
-
-app.use(express.static("public"));
-
+app.use( express.static( __dirname + '/bower_components' ) );
+//app.use(express.static("public"));
+/*
 app.get("/",function(req,res){
 	res.render("index");
 });
@@ -170,5 +179,91 @@ app.delete("/menu/:id",function(req,res){
 		res.redirect("/menu");
 	}
 
+});*/
+//get proyecto Principal
+
+app.get('/api/ingenieros', function (req, res) {
+  var type = req.query.type;
+
+  if (type) {
+    var results = ingenieros.filter(function (ingeniero) {
+      return ingeniero.type.some(function (t) {
+        return t.toLowerCase() === type;
+      });
+    });
+
+    res.send(results);
+  } else {
+    res.send(ingenieros);
+  }
 });
+
+app.get('/api/convenios', function (req, res) {
+  var type = req.query.type;
+
+  if (type) {
+    var results = convenios.filter(function (convenio) {
+      return convenio.type.some(function (t) {
+        return t.toLowerCase() === type;
+      });
+    });
+
+    res.send(results);
+  } else {
+    res.send(convenios);
+  }
+});
+
+app.get('/api/convenios/:name', function (req, res) {
+  var name = req.params.name;
+  var results = convenios.filter(function (convenio) {
+    return convenio.name.toLowerCase() === name;
+  });
+
+  if (results.length > 0) {
+    res.send(results[0]);
+  } else {
+    res.status(404).end();
+  }
+});
+
+app.get('/api/ingenieros/:name', function (req, res) {
+  var name = req.params.name;
+  var results = ingenieros.filter(function (ingeniero) {
+    return ingeniero.name.toLowerCase() === name;
+  });
+
+  if (results.length > 0) {
+    res.send(results[0]);
+  } else {
+    res.status(404).end();
+  }
+});
+
+app.get( '/', function( req, res, next ){
+  return res.render( 'index' );
+});
+
+app.post( '/upload', upload.single( 'file' ), function( req, res, next ) {
+  console.log(req.file.mimetype);
+  if ( !req.file.mimetype.startsWith( 'image/' ) && !req.file.mimetype.startsWith( 'application/' )){
+    return res.status( 422 ).json( {
+      error : 'The uploaded file must be an image'
+    } );
+  }
+
+ // var dimensions = sizeOf( req.file.path );
+
+  /*if ( ( dimensions.width < 640 ) || ( dimensions.height < 480 ) ) {
+    return res.status( 422 ).json( {
+      error : 'The image must be at least 640 x 480px'
+    } );
+  }*/
+
+  return res.status( 200 ).send( req.file );
+});
+app.get( '/', function( req, res, next ){
+  return res.render( 'index' );
+});
+
 app.listen(8080);	

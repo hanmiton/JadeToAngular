@@ -1,0 +1,1626 @@
+[
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "acu.edu",
+      "name": "Abilene Christian University",
+      "web_page": "http://www.acu.edu/"
+  },
+  {
+      "img": "0002",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "adelphi.edu",
+      "name": "Adelphi University",
+      "web_page": "http://www.adelphi.edu/"
+  },
+  {
+      "img": "0003",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "agnesscott.edu",
+      "name": "Agnes Scott College",
+      "web_page": "http://www.agnesscott.edu/"
+  },
+  {
+      "img": "0004",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "atc.edu",
+      "name": "Aiken Technical College",
+      "web_page": "http://www.atc.edu/"
+  },
+  {
+      "img": "0005",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "afit.af.mil",
+      "name": "Air Force Institute of Technology",
+      "web_page": "http://www.afit.af.mil/"
+  },
+  {
+      "img": "0006",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "afit.edu",
+      "name": "Air Force Institute of Technology",
+      "web_page": "http://www.afit.edu/"
+  },
+  {
+      "img": "0007",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "aamu.edu",
+      "name": "Alabama A&amp;M University",
+      "web_page": "http://www.aamu.edu/"
+  },
+  {
+      "img": "0008",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "alasu.edu",
+      "name": "Alabama State University",
+      "web_page": "http://www.alasu.edu/"
+  },
+  {
+      "img": "0009",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "aloma.edu",
+      "name": "Alamo Colleges",
+      "web_page": "http://www.alamo.edu/"
+  },
+  {
+      "img": "0010",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "acofi.edu",
+      "name": "Albertson College of Idaho",
+      "web_page": "http://www.acofi.edu/"
+  },
+  {
+      "img": "0011",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "albion.edu",
+      "name": "Albion College",
+      "web_page": "http://www.albion.edu/"
+  },
+  {
+      "img": "0012",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "alfred.edu",
+      "name": "Alfred University",
+      "web_page": "http://www.alfred.edu/"
+  },
+  {
+      "img": "0013",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "alleg.edu",
+      "name": "Allegheny College",
+      "web_page": "http://www.alleg.edu/"
+  },
+  {
+      "img": "0014",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "allencol.edu",
+      "name": "Allentown College of Saint Francis de Sales",
+      "web_page": "http://www.allencol.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "alma.edu",
+      "name": "Alma College",
+      "web_page": "http://www.alma.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "alverno.edu",
+      "name": "Alverno College",
+      "web_page": "http://www.alverno.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "ambassador.edu",
+      "name": "Ambassador University",
+      "web_page": "http://www.ambassador.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "amercoastuniv.edu",
+      "name": "American Coastline University",
+      "web_page": "http://www.amercoastuniv.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "aic.edu",
+      "name": "American International College",
+      "web_page": "http://www.aic.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "american.edu",
+      "name": "American University",
+      "web_page": "http://www.american.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "amherst.edu",
+      "name": "Amherst College",
+      "web_page": "http://www.amherst.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "andrews.edu",
+      "name": "Andrews University",
+      "web_page": "http://www.andrews.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "angelo.edu",
+      "name": "Angelo State University",
+      "web_page": "http://www.angelo.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "aacc.edu",
+      "name": "Anne Arundel Community College",
+      "web_page": "http://www.aacc.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "antiochne.edu",
+      "name": "Antioch New England",
+      "web_page": "http://www.antiochne.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "antioch.edu",
+      "name": "Antioch University",
+      "web_page": "http://www.antioch.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "antiochla.edu",
+      "name": "Antioch University - Los Angeles",
+      "web_page": "http://www.antiochla.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "seattleantioch.edu",
+      "name": "Antioch University - Seattle",
+      "web_page": "http://www.seattleantioch.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "appstate.edu",
+      "name": "Appalachian State University",
+      "web_page": "http://www.appstate.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "aquinas.edu",
+      "name": "Aquinas College",
+      "web_page": "http://www.aquinas.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "arcadia.edu",
+      "name": "Arcadia College",
+      "web_page": "http://www.arcadia.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "asu.edu",
+      "name": "Arizona State University",
+      "web_page": "http://www.asu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "azwestern.edu",
+      "name": "Arizona Western College",
+      "web_page": "http://www.azwestern.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "astate.edu",
+      "name": "Arkansas State University",
+      "web_page": "http://www.astate.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "atu.edu",
+      "name": "Arkansas Tech University",
+      "web_page": "http://www.atu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "armstrong.edu",
+      "name": "Armstrong State College",
+      "web_page": "http://www.armstrong.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "ashland.edu",
+      "name": "Ashland University",
+      "web_page": "http://www.ashland.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "assumption.edu",
+      "name": "Assumption College",
+      "web_page": "http://www.assumption.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "auburn.edu",
+      "name": "Auburn University",
+      "web_page": "http://www.auburn.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "aum.edu",
+      "name": "Auburn University at Montgomery",
+      "web_page": "http://www.aum.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "augsburg.edu",
+      "name": "Augsburg College",
+      "web_page": "http://www.augsburg.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "augustana.edu",
+      "name": "Augustana College (IL)",
+      "web_page": "http://www.augustana.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "augie.edu",
+      "name": "Augustana College (SD)",
+      "web_page": "http://www.augie.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "augusta.edu",
+      "name": "Augusta University",
+      "web_page": "http://www.augusta.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "gru.edu",
+      "name": "Augusta University",
+      "web_page": "http://www.gru.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "aurora.edu",
+      "name": "Aurora University",
+      "web_page": "http://www.aurora.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "austincollege.edu",
+      "name": "Austin College",
+      "web_page": "http://www.austincollege.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "austincc.edu",
+      "name": "Austin Community College",
+      "web_page": "http://www.austincc.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "apsu.edu",
+      "name": "Austin Peay State University",
+      "web_page": "http://www.apsu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "averett.edu",
+      "name": "Averett College",
+      "web_page": "http://www.averett.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "avila.edu",
+      "name": "Avila College",
+      "web_page": "http://www.avila.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "apu.edu",
+      "name": "Azusa Pacific University",
+      "web_page": "http://www.apu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "babson.edu",
+      "name": "Babson College",
+      "web_page": "http://www.babson.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bakeru.edu",
+      "name": "Baker University",
+      "web_page": "http://www.bakeru.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "baldwinw.edu",
+      "name": "Baldwin-Wallace College",
+      "web_page": "http://www.baldwinw.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bsu.edu",
+      "name": "Ball State University",
+      "web_page": "http://www.bsu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bbc.edu",
+      "name": "Baptist Bible College",
+      "web_page": "http://www.bbc.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bard.edu",
+      "name": "Bard College",
+      "web_page": "http://www.bard.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "barry.edu",
+      "name": "Barry University",
+      "web_page": "http://www.barry.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bastyr.edu",
+      "name": "Bastyr University",
+      "web_page": "http://www.bastyr.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bates.edu",
+      "name": "Bates College",
+      "web_page": "http://www.bates.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bcm.edu",
+      "name": "Baylor College of Medicine",
+      "web_page": "http://www.bcm.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "baylor.edu",
+      "name": "Baylor University",
+      "web_page": "http://www.baylor.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bellevue.edu",
+      "name": "Bellevue University",
+      "web_page": "http://www.bellevue.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "belmont.edu",
+      "name": "Belmont University",
+      "web_page": "http://www.belmont.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "beloit.edu",
+      "name": "Beloit College",
+      "web_page": "http://www.beloit.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bemidjistate.edu",
+      "name": "Bemidji State University",
+      "web_page": "http://www.bemidjistate.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "benedictine.edu",
+      "name": "Benedictine College",
+      "web_page": "http://www.benedictine.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bennington.edu",
+      "name": "Bennington College",
+      "web_page": "http://www.bennington.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bentley.edu",
+      "name": "Bentley College",
+      "web_page": "http://www.bentley.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "berea.edu",
+      "name": "Berea College",
+      "web_page": "http://www.berea.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "berklee.edu",
+      "name": "Berklee College of Music",
+      "web_page": "http://www.berklee.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bethanywv.edu",
+      "name": "Bethany College",
+      "web_page": "http://www.bethanywv.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bethelks.edu",
+      "name": "Bethel College (KS)",
+      "web_page": "http://www.bethelks.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bethel.edu",
+      "name": "Bethel University",
+      "web_page": "http://www.bethel.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "biola.edu",
+      "name": "Biola University",
+      "web_page": "http://www.biola.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bsc.edu",
+      "name": "Birmingham-Southern College",
+      "web_page": "http://www.bsc.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bhsu.edu",
+      "name": "Black Hills State University",
+      "web_page": "http://www.bhsu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bloomu.edu",
+      "name": "Bloomsburg University of Pennsylvania",
+      "web_page": "http://www.bloomu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bluffton.edu",
+      "name": "Bluffton College",
+      "web_page": "http://www.bluffton.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bju.edu",
+      "name": "Bob Jones University",
+      "web_page": "http://www.bju.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "idbsu.edu",
+      "name": "Boise State University",
+      "web_page": "http://www.idbsu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bc.edu",
+      "name": "Boston College",
+      "web_page": "http://www.bc.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bgsp.edu",
+      "name": "Boston Graduate School of Psychoanalysis",
+      "web_page": "http://www.bgsp.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bu.edu",
+      "name": "Boston University",
+      "web_page": "http://www.bu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bowdoin.edu",
+      "name": "Bowdoin College",
+      "web_page": "http://www.bowdoin.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bowiestate.edu",
+      "name": "Bowie State University",
+      "web_page": "http://www.bowiestate.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bgsu.edu",
+      "name": "Bowling Green State University",
+      "web_page": "http://www.bgsu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bradley.edu",
+      "name": "Bradley University",
+      "web_page": "http://www.bradley.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "brandeis.edu",
+      "name": "Brandeis University",
+      "web_page": "http://www.brandeis.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "brenau.edu",
+      "name": "Brenau University",
+      "web_page": "http://www.brenau.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "briar-cliff.edu",
+      "name": "Briar Cliff College",
+      "web_page": "http://www.briar-cliff.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bridgewater.edu",
+      "name": "Bridgewater College",
+      "web_page": "http://www.bridgewater.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "byu.edu",
+      "name": "Brigham Young University",
+      "web_page": "http://www.byu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "byuh.edu",
+      "name": "Brigham Young University Hawaii",
+      "web_page": "http://www.byuh.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "broward.edu",
+      "name": "Broward College",
+      "web_page": "http://www.broward.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "brown.edu",
+      "name": "Brown University",
+      "web_page": "http://www.brown.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bryant.edu",
+      "name": "Bryant College",
+      "web_page": "http://www.bryant.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "brynmawr.edu",
+      "name": "Bryn Mawr College",
+      "web_page": "http://www.brynmawr.edu/college"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bucknell.edu",
+      "name": "Bucknell University",
+      "web_page": "http://www.bucknell.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "bvu.edu",
+      "name": "Buena Vista University",
+      "web_page": "http://www.bvu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "butler.edu",
+      "name": "Butler University",
+      "web_page": "http://www.butler.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "calcoast.edu",
+      "name": "California Coast University",
+      "web_page": "http://www.calcoast.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "caltech.edu",
+      "name": "California Institute of Technology",
+      "web_page": "http://www.caltech.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "callutheran.edu",
+      "name": "California Lutheran University",
+      "web_page": "http://www.callutheran.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csum.edu",
+      "name": "California Maritime Academy",
+      "web_page": "http://www.csum.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cnuas.edu",
+      "name": "California National University",
+      "web_page": "http://www.cnuas.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "calpoly.edu",
+      "name": "California Polytechnic State University, San Luis Obispo",
+      "web_page": "http://www.calpoly.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csupomona.edu",
+      "name": "California State Polytechnic University, Pomona",
+      "web_page": "http://www.csupomona.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csubak.edu",
+      "name": "California State University, Bakersfield",
+      "web_page": "http://www.csubak.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csuchico.edu",
+      "name": "California State University, Chico",
+      "web_page": "http://www.csuchico.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csudh.edu",
+      "name": "California State University, Dominguez Hills",
+      "web_page": "http://www.csudh.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csufresno.edu",
+      "name": "California State University, Fresno",
+      "web_page": "http://www.csufresno.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "fullerton.edu",
+      "name": "California State University, Fullerton",
+      "web_page": "http://www.fullerton.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csuhayward.edu",
+      "name": "California State University, Hayward",
+      "web_page": "http://www.csuhayward.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csulb.edu",
+      "name": "California State University, Long Beach",
+      "web_page": "http://www.csulb.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "calstatela.edu",
+      "name": "California State University, Los Angeles",
+      "web_page": "http://www.calstatela.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "monterey.edu",
+      "name": "California State University, Monterey Bay",
+      "web_page": "http://www.monterey.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csun.edu",
+      "name": "California State University, Northridge",
+      "web_page": "http://www.csun.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csus.edu",
+      "name": "California State University, Sacramento",
+      "web_page": "http://www.csus.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csus.edu",
+      "name": "California State University, Sacramento",
+      "web_page": "http://www.csus.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csusb.edu",
+      "name": "California State University, San Bernardino",
+      "web_page": "http://www.csusb.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "sjsu.edu",
+      "name": "California State University, San Jose",
+      "web_page": "http://www.sjsu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csusm.edu",
+      "name": "California State University, San Marcos",
+      "web_page": "http://www.csusm.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csustan.edu",
+      "name": "California State University, Stanislaus",
+      "web_page": "http://www.csustan.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "calstate.edu",
+      "name": "California State University System",
+      "web_page": "http://www.calstate.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cup.edu",
+      "name": "California University of Pennsylvania",
+      "web_page": "http://www.cup.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "calvin.edu",
+      "name": "Calvin College",
+      "web_page": "http://www.calvin.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cameron.edu",
+      "name": "Cameron University",
+      "web_page": "http://www.cameron.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "campbellsville.edu",
+      "name": "Campbellsville College",
+      "web_page": "http://www.campbellsville.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "campbell.edu",
+      "name": "Campbell University",
+      "web_page": "http://www.campbell.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "canisius.edu",
+      "name": "Canisius College",
+      "web_page": "http://www.canisius.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "capella.edu",
+      "name": "Capella University",
+      "web_page": "http://www.capella.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "capellauniversity.edu",
+      "name": "Capella University",
+      "web_page": "http://www.capellauniversity.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "captechu.edu",
+      "name": "Capitol Technology University",
+      "web_page": "http://www.captechu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "carleton.edu",
+      "name": "Carleton College",
+      "web_page": "http://www.carleton.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "carlow.edu",
+      "name": "Carlow College",
+      "web_page": "http://www.carlow.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cmu.edu",
+      "name": "Carnegie Mellon University",
+      "web_page": "http://www.cmu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "carroll.edu",
+      "name": "Carroll College",
+      "web_page": "http://www.carroll.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "carrollu.edu",
+      "name": "Carroll University",
+      "web_page": "http://www.carrollu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cn.edu",
+      "name": "Carson-Newman College",
+      "web_page": "http://www.cn.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "carthage.edu",
+      "name": "Carthage College",
+      "web_page": "http://www.carthage.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "case.edu",
+      "name": "Case Western Reserve University",
+      "web_page": "http://www.case.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "castleton.edu",
+      "name": "Castleton State University",
+      "web_page": "http://www.castleton.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cua.edu",
+      "name": "Catholic University of America",
+      "web_page": "http://www.cua.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cedarville.edu",
+      "name": "Cedarville College",
+      "web_page": "http://www.cedarville.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "centenary.edu",
+      "name": "Centenary College of Louisiana",
+      "web_page": "http://www.centenary.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "central.edu",
+      "name": "Central College",
+      "web_page": "http://www.central.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "ccsu.edu",
+      "name": "Central Connecticut State University",
+      "web_page": "http://www.ccsu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cmc.edu",
+      "name": "Central Methodist College",
+      "web_page": "http://www.cmc.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cmich.edu",
+      "name": "Central Michigan University",
+      "web_page": "http://www.cmich.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cwu.edu",
+      "name": "Central Washington University",
+      "web_page": "http://www.cwu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "centre.edu",
+      "name": "Centre College",
+      "web_page": "http://www.centre.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csc.edu",
+      "name": "Chadron State College",
+      "web_page": "http://www.csc.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "champlain.edu",
+      "name": "Champlain College",
+      "web_page": "http://www.champlain.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "chapman.edu",
+      "name": "Chapman University",
+      "web_page": "http://www.chapman.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "chatham.edu",
+      "name": "Chatham College",
+      "web_page": "http://www.chatham.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "chesapeake.edu",
+      "name": "Chesapeake College",
+      "web_page": "http://www.chesapeake.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cheyney.edu",
+      "name": "Cheyney University",
+      "web_page": "http://www.cheyney.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csopp.edu",
+      "name": "Chicago School of Professional Psychology",
+      "web_page": "http://www.csopp.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cbu.edu",
+      "name": "Christian Brothers University",
+      "web_page": "http://www.cbu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cts.edu",
+      "name": "Christian Theological Seminary",
+      "web_page": "http://www.cts.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cnu.edu",
+      "name": "Christopher Newport University",
+      "web_page": "http://www.cnu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cityu.edu",
+      "name": "City University",
+      "web_page": "http://www.cityu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cityuniversity.edu",
+      "name": "City University",
+      "web_page": "http://www.cityu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cuny.edu",
+      "name": "City University of New York",
+      "web_page": "http://www.cuny.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cgs.edu",
+      "name": "Claremont Graduate School",
+      "web_page": "http://www.cgs.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "mckenna.edu",
+      "name": "Claremont McKenna College",
+      "web_page": "http://www.mckenna.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "clarion.edu",
+      "name": "Clarion University of Pennsylvania",
+      "web_page": "http://www.clarion.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "clarke.edu",
+      "name": "Clarke College",
+      "web_page": "http://www.clarke.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "clarkson.edu",
+      "name": "Clarkson University",
+      "web_page": "http://www.clarkson.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "clarku.edu",
+      "name": "Clark University",
+      "web_page": "http://www.clarku.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "clayton.edu",
+      "name": "Clayton State College",
+      "web_page": "http://www.clayton.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "clemson.edu",
+      "name": "Clemson University",
+      "web_page": "http://www.clemson.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csuohio.edu",
+      "name": "Cleveland State University",
+      "web_page": "http://www.csuohio.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "clinch.edu",
+      "name": "Clinch Valley College",
+      "web_page": "http://www.clinch.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "coastal.edu",
+      "name": "Coastal Carolina University",
+      "web_page": "http://www.coastal.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cccd.edu",
+      "name": "Coast Colleges",
+      "web_page": "http://www.cccd.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "coe.edu",
+      "name": "Coe College",
+      "web_page": "http://www.coe.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "coker.edu",
+      "name": "Coker College",
+      "web_page": "http://www.coker.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "colby.edu",
+      "name": "Colby College",
+      "web_page": "http://www.colby.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "colgate.edu",
+      "name": "Colgate University",
+      "web_page": "http://www.colgate.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cofc.edu",
+      "name": "College of Charleston",
+      "web_page": "http://www.cofc.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "ceu.edu",
+      "name": "College of Eastern Utah",
+      "web_page": "http://www.ceu.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "cnr.edu",
+      "name": "College of New Rochelle",
+      "web_page": "http://www.cnr.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "US",
+      "type": ["United States"],
+      "domain": "csbsju.edu",
+      "name": "College of Saint Benedict",
+      "web_page": "http://www.csbsju.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "AL",
+      "type": ["Albania"],
+      "domain": "aefs.edu.al",
+      "name": "Academy of Sports and Physical Training",
+      "web_page": "http://www.aefs.edu.al/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "AL",
+      "type": ["Albania"],
+      "domain": "akademiaearteve.edu.al",
+      "name": "Academy of Arts",
+      "web_page": "http://www.akademiaearteve.edu.al/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "AL",
+      "type": ["Albania"],
+      "domain": "beder.edu.al",
+      "name": "Beder University",
+      "web_page": "http://www.beder.edu.al/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "AL",
+      "type": ["Albania"],
+      "domain": "epoka.edu.al",
+      "name": "Epoka University",
+      "web_page": "http://www.epoka.edu.al/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "AL",
+      "type": ["Albania"],
+      "domain": "uat.edu.al",
+      "name": "American University of Tirana",
+      "web_page": "http://www.uat.edu.al/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "AL",
+      "type": ["Albania"],
+      "domain": "ubt.edu.al",
+      "name": "Agricultural University of Tirane",
+      "web_page": "http://www.ubt.edu.al/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "AL",
+      "type": ["Albania"],
+      "domain": "uniel.edu.al",
+      "name": "University of Elbasan &quot;Aleksander Xhuvani&quot;",
+      "web_page": "http://www.uniel.edu.al/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "AL",
+      "type": ["Albania"],
+      "domain": "unipavaresia.edu.al",
+      "name": "University \u201cPavaresia\u201d Vlore",
+      "web_page": "http://www.unipavaresia.edu.al/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "BD",
+      "type": ["Bangladesh"],
+      "domain": "northsouth.edu",
+      "name": "North South University",
+      "web_page": "http://www.northsouth.edu/"
+  },
+  {
+      "img": "0001",
+      "alpha_two_code": "BD",
+      "type": ["Bangladesh"],
+      "domain": "nstu.edu.bd",
+      "name": "Noakhali University of Science and Technology",
+      "web_page": "http://www.nstu.edu.bd/"
+  },
+  {
+      "img": "0002",
+      "alpha_two_code": "BD",
+      "type": ["Bangladesh"],
+      "domain": "nub.ac.bd",
+      "name": "Northern University Bangladesh",
+      "web_page": "http://www.nub.ac.bd/"
+  },
+  {
+      "img": "0003",
+      "alpha_two_code": "BD",
+      "type": ["Bangladesh"],
+      "domain": "nu.edu.bd",
+      "name": "National University",
+      "web_page": "http://www.nu.edu.bd/"
+  },
+  {
+      "img": "0004",
+      "alpha_two_code": "BD",
+      "type": ["Bangladesh"],
+      "domain": "presidency.edu.bd",
+      "name": "Presidency University",
+      "web_page": "http://www.presidency.edu.bd/"
+  },
+  {
+      "img": "0005",
+      "alpha_two_code": "BD",
+      "type": ["Bangladesh"],
+      "domain": "pstu.ac.bd",
+      "name": "Patuakhali Science and Technology University",
+      "web_page": "http://www.pstu.ac.bd/"
+  },
+  {
+      "img": "0006",
+      "alpha_two_code": "BD",
+      "type": ["Bangladesh"],
+      "domain": "pub.ac.bd",
+      "name": "People's University of Bangladesh",
+      "web_page": "http://www.pub.ac.bd/"
+  },
+  {
+      "img": "0007",
+      "alpha_two_code": "BD",
+      "type": ["Bangladesh"],
+      "domain": "puc.ac.bd",
+      "name": "Premier University",
+      "web_page": "http://www.puc.ac.bd/"
+  },
+  {
+      "img": "0008",
+      "alpha_two_code": "BD",
+      "type": ["Bangladesh"],
+      "domain": "pust.ac.bd",
+      "name": "Pabna University of Science and Technology",
+      "web_page": "http://www.pust.ac.bd/"
+  }
+]

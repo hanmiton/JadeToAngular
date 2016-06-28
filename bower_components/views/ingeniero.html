@@ -1,0 +1,47 @@
+<!-- ingeniero -->
+      <div ng-if="!ingeniero">
+        <div class="page-header">
+          <h1>Error</h1>
+        </div>
+        <div class="alert alert-danger">
+          <p>Ingeniero no encontrado</p>
+        </div>
+      </div>
+      <div ng-if="ingeniero">
+        <div class="page-header">
+          <ingeniero-name></ingeniero-name>
+        </div>
+        <div class="row">
+          <div class="col-md-6">
+            <ingeniero-image></ingeniero-image>
+          </div>
+          <!-- Tabs -->
+          <div class="col-md-6" ng-controller="TabsController">
+            <ul class="nav nav-tabs nav-justified">
+               <li ng-class="{ active:isActive(1) }"><a ng-click="selectTab(1)">Ingenierias</a></li>
+              <li ng-class="{ active:isActive(2) }"><a ng-click="selectTab(2)">Estadisticas</a></li>
+              <li ng-class="{ active:isActive(3) }"><a ng-click="selectTab(3)">Evolucion</a></li>
+            </ul>
+            <div class="tab-content">
+              <!-- Ingenierias -->
+              <div ng-show="isActive(1)">
+                <ingeniero-data></ingeniero-data>
+              </div>
+              <!--Estadisticas-->
+              <!-- Stats -->
+              <div ng-show="isActive(2)">
+                <ingeniero-stats></ingeniero-stats>
+              </div>
+               <!-- Evolucion -->
+              <div ng-show="isActive(3)">
+                <ingeniero-evolution></ingeniero-evolution>
+              </div>
+            </div>
+          </div>
+          <!-- /tabs -->
+        </div>
+        <!-- solicitudes -->
+        <ingeniero-solicitudes name="{{ingeniero.name}}"></ingeniero-solicitudes>
+          <!-- /solicitud -->
+      </div>
+      <!-- /ingeniero -->

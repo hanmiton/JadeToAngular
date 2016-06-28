@@ -1,0 +1,23 @@
+<div>
+  <div class="page-header">
+    <div class="row">
+      <div class="col-xs-6">
+        <h1>Convedex</h1>
+       <h2 ng-if="type"><span class="label type-normal">{{type}}</span></h2>
+      </div>
+      <div class="col-xs-6">
+        <div class="pull-right">
+          <h1><small>Mostrando <span class="badge">{{convenios.length}}</span> Convenios</small></h1>
+          <div class="input-group">
+            <input ng-model="searchTerm" ng-keyup="search()" type="text" class="form-control input-lg" placeholder="Search">
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="row" ng-repeat="group in groupped">
+    <div class="col-lg-3" ng-repeat="convenio in group">
+        <convenio-card></convenio-card>
+    </div>
+  </div>
+</div>
