@@ -276,15 +276,20 @@ app.get('/api/convenios/:name', function (req, res) {
 
 app.get('/api/ingenieros/:name', function (req, res) {
   var name = req.params.name;
-  var results = ingenieros.filter(function (ingeniero) {
-    return ingeniero.name.toLowerCase() === name;
-  });
 
-  if (results.length > 0) {
-    res.send(results[0]);
-  } else {
-    res.status(404).end();
-  }
+  Product.find(function(error,documento){
+		if(error){ console.log(error); }
+		var ingenieros = documento;
+		var results = ingenieros.filter(function (ingeniero) {
+    		return ingeniero.name == name;
+  		});
+  		if (results.length > 0) {
+  			console.log(results[0]);
+	    res.send(results[0]);
+	  } else {
+	    res.status(404).end();
+	  }
+	});
 });
 
 app.get( '/', function( req, res, next ){
