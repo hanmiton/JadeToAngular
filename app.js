@@ -33,8 +33,31 @@ app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended: true}));
 app.use(method_override("_method"));
 //app.use(method_override);//app.use(multer({dest: "./uploads"}));
+/*name: {
+        first: String,
+        last: { type: String, trim: true }
+      },
+      age: { type: Number, min: 0 }
+*/
 
 var productSchemaJSON = {
+	id: Number,
+	name: String,
+	ingenieria: String,
+	type: [String],
+	edad: Number,
+	facultad: String,
+	abilities : [String],
+	stats: {
+		st1: Number,
+		st2: Number,
+		st3: Number,
+		st4 : Number,
+		st5: Number,
+		st6: Number,
+		total: Number
+	},
+	evolution : [String],
 	title: String,
 	description: String,
 	imageUrl: String,
@@ -124,6 +147,7 @@ app.get("/admin",function(req,res){
 });
 
 app.post( '/menu', upload.single( 'image_avatar' ), function( req, res, next ) {
+  console.log(req.body);
   if(req.body.password == app_password){
   	var data = {
   		title: req.body.title,
@@ -186,18 +210,24 @@ app.delete("/menu/:id",function(req,res){
 
 app.get('/api/ingenieros', function (req, res) {
   var type = req.query.type;
-
-  if (type) {
-    var results = ingenieros.filter(function (ingeniero) {
-      return ingeniero.type.some(function (t) {
-        return t.toLowerCase() === type;
+  Product.find(function(error,documento){
+		if(error){ console.log(error); }
+		var productos = documento;
+		var output = productos.filter(function(x){return x.title=="brandon"});
+		console.log(output);
+		//res.render("menu/index",{ products: documento })
+		if (type) {
+		    var results = ingenieros.filter(function (ingeniero) {
+		    return ingeniero.type.some(function (t) {
+		    return t.toLowerCase() === type;
       });
     });
-
     res.send(results);
   } else {
     res.send(ingenieros);
   }
+	});
+  
 });
 
 app.get('/api/convenios', function (req, res) {
