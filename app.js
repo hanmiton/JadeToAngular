@@ -2,7 +2,7 @@ var express = require('express');
 //dependencias proyecto principal
 var path = require('path');
 var logger = require('morgan');
-var ingenieros = require('./bower_components/ingenieros.json');
+//var ingenieros = require('./bower_components/ingenieros.json');
 var convenios = require('./bower_components/convenios.json');
 var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
@@ -229,9 +229,7 @@ app.get('/api/ingenieros', function (req, res) {
   var type = req.query.type;
   Product.find(function(error,documento){
 		if(error){ console.log(error); }
-		var productos = documento;
-		var output = productos.filter(function(x){return x.title=="brandon"});
-		console.log(output);
+		var ingenieros = documento;
 		//res.render("menu/index",{ products: documento })
 		if (type) {
 		    var results = ingenieros.filter(function (ingeniero) {
