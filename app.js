@@ -2,7 +2,7 @@ var express = require('express');
 //dependencias proyecto principal
 var path = require('path');
 var logger = require('morgan');
-//var ingenieros = require('./bower_components/ingenieros.json');
+var ingenieross = require('./bower_components/ingenieros.json');
 var convenios = require('./bower_components/convenios.json');
 var mongoose = require('mongoose');
 var bodyParser = require('body-parser');
@@ -40,41 +40,31 @@ app.use(method_override("_method"));
       age: { type: Number, min: 0 }
 */
 
-var productSchemaJSON = {
-	id: Number,
-	name: String,
-	ingenieria: String,
-	type: [String],
-	edad: Number,
-	facultad: String,
-	abilities : [String],
-	stats: {
-		st1: Number,
-		st2: Number,
-		st3: Number,
-		st4 : Number,
-		st5: Number,
-		st6: Number,
-		total: Number
-	},
-	evolution : [String],
-	title: String,
-	description: String,
-	imageUrl: String,
-	pricing: Number
+var ingenieroSchemaJSON = {
+	ci: Number,
+	apellidos : String ,
+	name : String,
+	correo : String,
+	programa : String,
+	financiamiento : String ,
+	pais : String,
+	universidad : String,
+	nivel : String,
+	area : String,
+	titulo : String,
+	imageUrl: String
 };
 
-var productSchema = new Schema(productSchemaJSON);
+var ingenieroSchema = new Schema(ingenieroSchemaJSON);
 
-productSchema.virtual("image.url").get(function(){
+ingenieroSchema.virtual("image.url").get(function(){
 	if(this.imageUrl === "" || this.imageUrl === "data.png"){
 		return "default.jpg";
 	}
-
 	return this.imageUrl;
 });
 
-var Product = mongoose.model("Product", productSchema);
+var Ingeniero = mongoose.model("Ingeniero", ingenieroSchema);
 
 app.set("view engine","jade");
 app.use( express.static( __dirname + '/bower_components' ) );
@@ -86,16 +76,15 @@ app.get("/",function(req,res){
 */
 
 app.get("/menu",function(req,res){
-	
-	Product.find(function(error,documento){
+
+	Ingeniero.find(function(error,documento){
 		if(error){ console.log(error); }
-		res.render("menu/index",{ products: documento })
+		res.render("menu/index",{ ingenieros: documento })
 	});
 });
 
 app.put("/menu/:id", upload.single( 'image_avatar' ), function( req, res, next ){
 	if(req.body.password == app_password){
-		console.log(req.body);
 		var data = {
 			title: req.body.title,
 			description: req.body.description,
@@ -106,13 +95,13 @@ app.put("/menu/:id", upload.single( 'image_avatar' ), function( req, res, next )
 		cloudinary.uploader.upload(req.file.path, 
 			function(result){
 				data.imageUrl = result.url;
-				Product.update({"_id": req.params.id},data,function(product){
+				Ingeniero.update({"_id": req.params.id},data,function(product){
 					res.redirect("/menu");
 				});	
 			}
 			);
 		}else{
-			Product.update({"_id": req.params.id},data,function(product){
+			Ingeniero.update({"_id": req.params.id},data,function(product){
 			res.redirect("/menu");
 			});				
 		}
@@ -125,7 +114,7 @@ app.put("/menu/:id", upload.single( 'image_avatar' ), function( req, res, next )
 app.get("/menu/edit/:id",function(req,res){
 	var id_producto = req.params.id;
 
-	Product.findOne({_id: id_producto},function(error,producto){
+	Ingeniero.findOne({_id: id_producto},function(error,producto){
 		res.render("menu/edit",{product: producto});
 	});
 
@@ -133,9 +122,9 @@ app.get("/menu/edit/:id",function(req,res){
 
 app.post("/admin",function(req,res){
 	if(req.body.password== app_password){
-		Product.find(function(error,documento){
+		Ingeniero.find(function(error,documento){
 		if(error){ console.log(error); }
-		res.render("admin/index",{ products: documento })
+		res.render("admin/index",{ ingenieros: documento })
 	});
 	}else{
 		res.redirect("/");
@@ -143,13 +132,52 @@ app.post("/admin",function(req,res){
 });
 
 app.get("/admin",function(req,res){
+
+	Array.prototype.unique=function(a){
+  		return function(){return this.filter(a)}}(function(a,b,c){return c.indexOf(a,b+1)<0
+	});
+  		var myArr = [];
+  		var myArrp = [];
+		 // ["foo", "Hello World", 2, 3, "bar", 1, 4, 5]	
+	for(i=0; i<ingenieross.length; i++) {
+
+		myArr[i]= ingenieross[i].universidad.toLowerCase();
+	}
+		console.log( myArr.unique() );
+  	/*
+	for(i=0; i<ingenieross.length; i++) {
+		var data = {
+		imageUrl: "http://res.cloudinary.com/dot6c5g5b/image/upload/v1467166958/person_man_a6psrf.png",
+  		ci: ingenieross[i].ci,
+  		apellidos: ingenieross[i].apellidos,
+  		name: ingenieross[i].name,
+  		correo: ingenieross[i].correo,
+  		programa: ingenieross[i].programa,
+  		financiamiento: ingenieross[i].financiamiento,
+  		pais: ingenieross[i].pais,
+  		universidad: ingenieross[i].universidad,
+  		nivel: ingenieross[i].nivel,
+  		area: ingenieross[i].area,
+  		titulo: ingenieross[i].titulo
+  		}
+  		var ingeniero = new Ingeniero(data);
+  		ingeniero.save(function(err){
+				console.log(ingeniero);
+				//res.redirect("/menu");
+			});
+
+	}
+	console.log(data);*/
 	res.render("admin/form")
 });
 
 app.post( '/menu', upload.single( 'image_avatar' ), function( req, res, next ) {
-  console.log(req.body);
+  
+	
+
   if(req.body.password == app_password){
   	var data = {
+
   		id: req.body.id,
   		name: req.body.name,
   		ingenieria: req.body.ingenieria,
@@ -172,7 +200,7 @@ app.post( '/menu', upload.single( 'image_avatar' ), function( req, res, next ) {
   		pricing: req.body.pricing
   	}
   	
-  	var product = new Product(data);
+  	var product = new Ingeniero(data);
 	//console.log(req.file);
 	//res.render("index");
 	if(req.file.hasOwnProperty("path")){
@@ -186,7 +214,6 @@ app.post( '/menu', upload.single( 'image_avatar' ), function( req, res, next ) {
 			);
 		}else{
 			product.save(function(err){
-				console.log(product);
 				res.redirect("/menu");
 			});
 		}
@@ -205,7 +232,7 @@ app.get("/menu/new", function(req,res){
 app.get("/menu/delete/:id",function(req, res){
 	var id = req.params.id;
 
-	Product.findOne({"_id": id},function(err,producto){
+	Ingeniero.findOne({"_id": id},function(err,producto){
 		res.render("menu/delete",{producto: producto});
 	});
 });
@@ -213,7 +240,7 @@ app.get("/menu/delete/:id",function(req, res){
 app.delete("/menu/:id",function(req,res){
 	var id = req.params.id;
 	if(req.body.password == app_password){
-		Product.remove({"_id" : id},function(err){
+		Ingeniero.remove({"_id" : id},function(err){
 			if(err){ console.log(err);}
 			res.redirect("/menu");
 		});
@@ -226,17 +253,18 @@ app.delete("/menu/:id",function(req,res){
 //get proyecto Principal
 
 app.get('/api/ingenieros', function (req, res) {
-  var type = req.query.type;
-  Product.find(function(error,documento){
+  var area = req.query.type;
+  Ingeniero.find(function(error,documento){
 		if(error){ console.log(error); }
 		var ingenieros = documento;
 		//res.render("menu/index",{ products: documento })
-		if (type) {
+		if (area) {
 		    var results = ingenieros.filter(function (ingeniero) {
-		    return ingeniero.type.some(function (t) {
-		    return t.toLowerCase() === type;
-      });
-    });
+		    if(ingeniero.area.toLowerCase() == area){
+		    	return ingeniero.area	
+		    }
+		    
+    });		    
     res.send(results);
   } else {
     res.send(ingenieros);
@@ -274,17 +302,16 @@ app.get('/api/convenios/:name', function (req, res) {
   }
 });
 
-app.get('/api/ingenieros/:name', function (req, res) {
-  var name = req.params.name;
+app.get('/api/ingenieros/:ci', function (req, res) {
+  var ci = req.params.ci;
 
-  Product.find(function(error,documento){
+  Ingeniero.find(function(error,documento){
 		if(error){ console.log(error); }
 		var ingenieros = documento;
 		var results = ingenieros.filter(function (ingeniero) {
-    		return ingeniero.name == name;
+    		return ingeniero.ci == ci;
   		});
   		if (results.length > 0) {
-  			console.log(results[0]);
 	    res.send(results[0]);
 	  } else {
 	    res.status(404).end();
@@ -293,11 +320,11 @@ app.get('/api/ingenieros/:name', function (req, res) {
 });
 
 app.get( '/', function( req, res, next ){
+  	
   return res.render( 'index' );
 });
 
 app.post( '/upload', upload.single( 'file' ), function( req, res, next ) {
-  console.log(req.file.mimetype);
   if ( !req.file.mimetype.startsWith( 'image/' ) && !req.file.mimetype.startsWith( 'application/' )){
     return res.status( 422 ).json( {
       error : 'The uploaded file must be an image'

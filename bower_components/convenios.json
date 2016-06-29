@@ -1,18 +1,18 @@
 [
   {
       "img": "0001",
-      "alpha_two_code": "US",
-      "type": ["United States"],
+      "alpha_two_code": "AR",
+      "type": ["Argentina"],
       "domain": "acu.edu",
-      "name": "Abilene Christian University",
-      "web_page": "http://www.acu.edu/"
+      "name": "Universidad de Cuyo",
+      "web_page": "http://www.uncuyo.edu.ar/"
   },
   {
       "img": "0002",
       "alpha_two_code": "US",
       "type": ["United States"],
       "domain": "adelphi.edu",
-      "name": "Adelphi University",
+      "name": "Universidad de Salford Manchester",
       "web_page": "http://www.adelphi.edu/"
   },
   {

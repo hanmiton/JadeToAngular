@@ -1,25 +1,28 @@
 <ul class="list-group">
   <li class="list-group-item">
+    <strong>Cédula</strong>
+    <span class="pull-right">{{ingeniero.ci}}</span>
+  </li>
+  <li class="list-group-item">
+    <strong>Apellidos</strong>
+    <span class="pull-right">{{ingeniero.apellidos}}</span>
+  </li>
+  <li class="list-group-item">
+    <strong>Nombres</strong>
+    <span class="pull-right">{{ingeniero.name}}</span>
+  </li>
+  <li class="list-group-item">
+    <strong>Correo</strong>
+    <span class="pull-right">
+    <a href="mailto:{{ingeniero.correo}}">
+      {{ingeniero.correo}}
+    </a></span>
+  </li>
+  <li class="list-group-item">
     <strong>Facultad</strong>
     <span class="pull-right">
       <ingeniero-type></ingeniero-type>
     </span>
-  </li>
-  <li class="list-group-item">
-    <strong>Edad</strong>
-    <span class="pull-right">{{ingeniero.edad}}</span>
-  </li>
-  <li class="list-group-item">
-    <strong>Instrucción</strong>
-    <span class="pull-right">{{ingeniero.facultad}}</span>
-  </li>
-  <li class="list-group-item">
-    <strong>Habilidades</strong>
-      <ul>
-        <li ng-repeat="ability in ingeniero.abilities">
-          {{ability}}
-        </li>
-      </ul>
   </li>
 </ul>
                 

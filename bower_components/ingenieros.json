@@ -1,4337 +1,3074 @@
 [
-  {
-    "id": "001",
-    "name": "Ingeniero000001",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad1",
-      "Facultad2"
-    ],
-    "edad": "2′4″ (0.71m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad1",
-      "habilidad2"
-    ],
-    "stats": {
-      "st1": 45,
-      "st2": 49,
-      "st3": 49,
-      "sp.st4": 65,
-      "sp.st5": 65,
-      "st6": 45,
-      "total": 318
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "002",
-    "name": "Ingeniero000002",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad1",
-      "Facultad2"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad1",
-      "habilidad2"
-    ],
-    "stats": {
-      "st1": 60,
-      "st2": 62,
-      "st3": 63,
-      "sp.st4": 80,
-      "sp.st5": 80,
-      "st6": 60,
-      "total": 405
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "003",
-    "name": "Ingeniero000003",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad1",
-      "Facultad2"
-    ],
-    "edad": "6′7″ (2.01m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad1",
-      "habilidad2"
-    ],
-    "stats": {
-      "st1": 80,
-      "st2": 82,
-      "st3": 83,
-      "sp.st4": 100,
-      "sp.st5": 100,
-      "st6": 80,
-      "total": 525
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "004",
-    "name": "Ingeniero000004",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad3"
-    ],
-    "edad": "2′0″ (0.61m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad3",
-      "habilidad4"
-    ],
-    "stats": {
-      "st1": 39,
-      "st2": 52,
-      "st3": 43,
-      "sp.st4": 60,
-      "sp.st5": 50,
-      "st6": 65,
-      "total": 309
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "005",
-    "name": "Ingeniero000005",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad3"
-    ],
-    "edad": "3′7″ (1.09m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad3",
-      "habilidad4"
-    ],
-    "stats": {
-      "st1": 58,
-      "st2": 64,
-      "st3": 58,
-      "sp.st4": 80,
-      "sp.st5": 65,
-      "st6": 80,
-      "total": 405
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "006",
-    "name": "Ingeniero000006",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad3",
-      "Facultad4"
-    ],
-    "edad": "5′7″ (1.70m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad3",
-      "habilidad4"
-    ],
-    "stats": {
-      "st1": 78,
-      "st2": 84,
-      "st3": 78,
-      "sp.st4": 109,
-      "sp.st5": 85,
-      "st6": 100,
-      "total": 534
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "007",
-    "name": "Ingeniero000007",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "1′8″ (0.51m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad5",
-      "habilidad6"
-    ],
-    "stats": {
-      "st1": 44,
-      "st2": 48,
-      "st3": 65,
-      "sp.st4": 50,
-      "sp.st5": 64,
-      "st6": 43,
-      "total": 314
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "008",
-    "name": "Ingeniero000008",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad5",
-      "habilidad6"
-    ],
-    "stats": {
-      "st1": 59,
-      "st2": 63,
-      "st3": 80,
-      "sp.st4": 65,
-      "sp.st5": 80,
-      "st6": 58,
-      "total": 405
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "009",
-    "name": "Ingeniero000009",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "5′3″ (1.60m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad5",
-      "habilidad6"
-    ],
-    "stats": {
-      "st1": 79,
-      "st2": 83,
-      "st3": 100,
-      "sp.st4": 85,
-      "sp.st5": 105,
-      "st6": 78,
-      "total": 530
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "010",
-    "name": "Ingeniero000010",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad6"
-    ],
-    "edad": "1′0″ (0.30m)",
-    "facultad": "6.4 lbs (2.9 kg)",
-    "abilities": [
-      "Shield Dust",
-      "Run Away"
-    ],
-    "stats": {
-      "st1": 45,
-      "st2": 30,
-      "st3": 35,
-      "sp.st4": 20,
-      "sp.st5": 20,
-      "st6": 45,
-      "total": 195
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "011",
-    "name": "Ingeniero000011",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad6"
-    ],
-    "edad": "2′4″ (0.71m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Shed Skin"
-    ],
-    "stats": {
-      "st1": 50,
-      "st2": 20,
-      "st3": 55,
-      "sp.st4": 25,
-      "sp.st5": 25,
-      "st6": 30,
-      "total": 205
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "012",
-    "name": "Ingeniero000012",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad6",
-      "Facultad4"
-    ],
-    "edad": "3′7″ (1.09m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Compound Eyes",
-      "Tinted Lens"
-    ],
-    "stats": {
-      "st1": 60,
-      "st2": 45,
-      "st3": 50,
-      "sp.st4": 90,
-      "sp.st5": 80,
-      "st6": 70,
-      "total": 395
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "013",
-    "name": "Ingeniero000013",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad6",
-      "Facultad2"
-    ],
-    "edad": "1′0″ (0.30m)",
-    "facultad": "7.1 lbs (3.2 kg)",
-    "abilities": [
-      "Shield Dust",
-      "Run Away"
-    ],
-    "stats": {
-      "st1": 40,
-      "st2": 35,
-      "st3": 30,
-      "sp.st4": 20,
-      "sp.st5": 20,
-      "st6": 50,
-      "total": 195
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "014",
-    "name": "Ingeniero000014",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad6",
-      "Facultad2"
-    ],
-    "edad": "2′0″ (0.61m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Shed Skin"
-    ],
-    "stats": {
-      "st1": 45,
-      "st2": 25,
-      "st3": 50,
-      "sp.st4": 25,
-      "sp.st5": 25,
-      "st6": 35,
-      "total": 205
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "015",
-    "name": "Ingeniero000015",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad6",
-      "Facultad2"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Swarm",
-      "Sniper"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 90,
-      "st3": 40,
-      "sp.st4": 45,
-      "sp.st5": 80,
-      "st6": 75,
-      "total": 395
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "016",
-    "name": "Ingeniero000016",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal",
-      "Facultad4"
-    ],
-    "edad": "1′0″ (0.30m)",
-    "facultad": "4 lbs (1.8 kg)",
-    "abilities": [
-      "Keen Eye",
-      "Tangled Feet",
-      "Big Pecks"
-    ],
-    "stats": {
-      "st1": 40,
-      "st2": 45,
-      "st3": 40,
-      "sp.st4": 35,
-      "sp.st5": 35,
-      "st6": 56,
-      "total": 251
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "017",
-    "name": "Ingeniero000017",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal",
-      "Facultad4"
-    ],
-    "edad": "3′7″ (1.09m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Keen Eye",
-      "Tangled Feet",
-      "Big Pecks"
-    ],
-    "stats": {
-      "st1": 63,
-      "st2": 60,
-      "st3": 55,
-      "sp.st4": 50,
-      "sp.st5": 50,
-      "st6": 71,
-      "total": 349
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "018",
-    "name": "Ingeniero000018",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal",
-      "Facultad4"
-    ],
-    "edad": "4′11″ (1.50m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Keen Eye",
-      "Tangled Feet",
-      "Big Pecks"
-    ],
-    "stats": {
-      "st1": 83,
-      "st2": 80,
-      "st3": 75,
-      "sp.st4": 70,
-      "sp.st5": 70,
-      "st6": 101,
-      "total": 479
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "019",
-    "name": "Ingeniero000019",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal"
-    ],
-    "edad": "1′0″ (0.30m)",
-    "facultad": "7.7 lbs (3.5 kg)",
-    "abilities": [
-      "Guts",
-      "Run Away",
-      "habilidad19"
-    ],
-    "stats": {
-      "st1": 30,
-      "st2": 56,
-      "st3": 35,
-      "sp.st4": 25,
-      "sp.st5": 35,
-      "st6": 72,
-      "total": 253
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "020",
-    "name": "Ingeniero000020",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal"
-    ],
-    "edad": "2′4″ (0.71m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Guts",
-      "Run Away",
-      "habilidad19"
-    ],
-    "stats": {
-      "st1": 55,
-      "st2": 81,
-      "st3": 60,
-      "sp.st4": 50,
-      "sp.st5": 70,
-      "st6": 97,
-      "total": 413
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "021",
-    "name": "Ingeniero000021",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal",
-      "Facultad4"
-    ],
-    "edad": "1′0″ (0.30m)",
-    "facultad": "4.4 lbs (2.0 kg)",
-    "abilities": [
-      "Keen Eye",
-      "Sniper"
-    ],
-    "stats": {
-      "st1": 40,
-      "st2": 60,
-      "st3": 30,
-      "sp.st4": 31,
-      "sp.st5": 31,
-      "st6": 70,
-      "total": 262
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "022",
-    "name": "Ingeniero000022",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal",
-      "Facultad4"
-    ],
-    "edad": "3′11″ (1.19m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Keen Eye",
-      "Sniper"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 90,
-      "st3": 65,
-      "sp.st4": 61,
-      "sp.st5": 61,
-      "st6": 100,
-      "total": 442
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "023",
-    "name": "Ingeniero000023",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad2"
-    ],
-    "edad": "6′7″ (2.01m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Intimidate",
-      "Shed Skin",
-      "Unnerve"
-    ],
-    "stats": {
-      "st1": 35,
-      "st2": 60,
-      "st3": 44,
-      "sp.st4": 40,
-      "sp.st5": 54,
-      "st6": 55,
-      "total": 288
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "024",
-    "name": "Ingeniero000024",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad2"
-    ],
-    "edad": "11′6″ (3.51m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Intimidate",
-      "Shed Skin",
-      "Unnerve"
-    ],
-    "stats": {
-      "st1": 60,
-      "st2": 85,
-      "st3": 69,
-      "sp.st4": 65,
-      "sp.st5": 79,
-      "st6": 80,
-      "total": 438
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "025",
-    "name": "Ingeniero000025",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad7"
-    ],
-    "edad": "1′4″ (0.41m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Static",
-      "Lightning Rod"
-    ],
-    "stats": {
-      "st1": 35,
-      "st2": 55,
-      "st3": 40,
-      "sp.st4": 50,
-      "sp.st5": 50,
-      "st6": 90,
-      "total": 320
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "026",
-    "name": "Ingeniero000026",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad7"
-    ],
-    "edad": "2′7″ (0.79m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Static",
-      "Lightning Rod"
-    ],
-    "stats": {
-      "st1": 60,
-      "st2": 90,
-      "st3": 55,
-      "sp.st4": 90,
-      "sp.st5": 80,
-      "st6": 110,
-      "total": 485
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "027",
-    "name": "Ingeniero000027",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad8"
-    ],
-    "edad": "2′0″ (0.61m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Sand Veil",
-      "Sand Rush"
-    ],
-    "stats": {
-      "st1": 50,
-      "st2": 75,
-      "st3": 85,
-      "sp.st4": 20,
-      "sp.st5": 30,
-      "st6": 40,
-      "total": 300
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "028",
-    "name": "Ingeniero000028",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad8"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Sand Veil",
-      "Sand Rush"
-    ],
-    "stats": {
-      "st1": 75,
-      "st2": 100,
-      "st3": 110,
-      "sp.st4": 45,
-      "sp.st5": 55,
-      "st6": 65,
-      "total": 450
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "029",
-    "name": "Ingeniero000029",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad2"
-    ],
-    "edad": "1′4″ (0.41m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad17",
-      "habilidad18",
-      "habilidad19"
-    ],
-    "stats": {
-      "st1": 55,
-      "st2": 47,
-      "st3": 52,
-      "sp.st4": 40,
-      "sp.st5": 40,
-      "st6": 41,
-      "total": 275
-    },
-    "evolution": [
-      "Nidoran♀",
-      "Nidorina",
-      "Nidoqueen"
-    ]
-  },
-  {
-    "id": "030",
-    "name": "Ingeniero000030",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad2"
-    ],
-    "edad": "2′7″ (0.79m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad17",
-      "habilidad18",
-      "habilidad19"
-    ],
-    "stats": {
-      "st1": 70,
-      "st2": 62,
-      "st3": 67,
-      "sp.st4": 55,
-      "sp.st5": 55,
-      "st6": 56,
-      "total": 365
-    },
-    "evolution": [
-      "Nidoran♀",
-      "Nidorina",
-      "Nidoqueen"
-    ]
-  },
-  {
-    "id": "031",
-    "name": "Ingeniero000031",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad2",
-      "Facultad8"
-    ],
-    "edad": "4′3″ (1.30m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad17",
-      "habilidad18",
-      "Sheer Force"
-    ],
-    "stats": {
-      "st1": 90,
-      "st2": 92,
-      "st3": 87,
-      "sp.st4": 75,
-      "sp.st5": 85,
-      "st6": 76,
-      "total": 505
-    },
-    "evolution": [
-      "Nidoran♀",
-      "Nidorina",
-      "Nidoqueen"
-    ]
-  },
-  {
-    "id": "032",
-    "name": "Nidoran♂",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad2"
-    ],
-    "edad": "1′8″ (0.51m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad17",
-      "habilidad18",
-      "habilidad19"
-    ],
-    "stats": {
-      "st1": 46,
-      "st2": 57,
-      "st3": 40,
-      "sp.st4": 40,
-      "sp.st5": 40,
-      "st6": 50,
-      "total": 273
-    },
-    "evolution": [
-      "Nidoran♂",
-      "Nidorino",
-      "Nidoking"
-    ]
-  },
-  {
-    "id": "033",
-    "name": "Ingeniero000032",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad2"
-    ],
-    "edad": "2′11″ (0.89m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad17",
-      "habilidad18",
-      "habilidad19"
-    ],
-    "stats": {
-      "st1": 61,
-      "st2": 72,
-      "st3": 57,
-      "sp.st4": 55,
-      "sp.st5": 55,
-      "st6": 65,
-      "total": 365
-    },
-    "evolution": [
-      "Nidoran♂",
-      "Nidorino",
-      "Nidoking"
-    ]
-  },
-  {
-    "id": "034",
-    "name": "Ingeniero000034",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad2",
-      "Facultad8"
-    ],
-    "edad": "4′7″ (1.40m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad17",
-      "habilidad18",
-      "Sheer Force"
-    ],
-    "stats": {
-      "st1": 81,
-      "st2": 102,
-      "st3": 77,
-      "sp.st4": 85,
-      "sp.st5": 75,
-      "st6": 85,
-      "total": 505
-    },
-    "evolution": [
-      "Nidoran♂",
-      "Nidorino",
-      "Nidoking"
-    ]
-  },
-  {
-    "id": "035",
-    "name": "Ingeniero000035",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad9"
-    ],
-    "edad": "2′0″ (0.61m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad20",
-      "habilidad23",
-      "habilidad22"
-    ],
-    "stats": {
-      "st1": 70,
-      "st2": 45,
-      "st3": 48,
-      "sp.st4": 60,
-      "sp.st5": 65,
-      "st6": 35,
-      "total": 323
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "036",
-    "name": "Ingeniero000036",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad9"
-    ],
-    "edad": "4′3″ (1.30m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad20",
-      "habilidad23",
-      "Unaware"
-    ],
-    "stats": {
-      "st1": 95,
-      "st2": 70,
-      "st3": 73,
-      "sp.st4": 95,
-      "sp.st5": 90,
-      "st6": 60,
-      "total": 483
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "037",
-    "name": "Ingeniero000037",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad3"
-    ],
-    "edad": "2′0″ (0.61m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Flash Facultad3",
-      "Drought"
-    ],
-    "stats": {
-      "st1": 38,
-      "st2": 41,
-      "st3": 40,
-      "sp.st4": 50,
-      "sp.st5": 65,
-      "st6": 65,
-      "total": 299
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "038",
-    "name": "Ingeniero000038",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad3"
-    ],
-    "edad": "3′7″ (1.09m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Flash Facultad3",
-      "Drought"
-    ],
-    "stats": {
-      "st1": 73,
-      "st2": 76,
-      "st3": 75,
-      "sp.st4": 81,
-      "sp.st5": 100,
-      "st6": 100,
-      "total": 505
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "039",
-    "name": "Ingeniero000039",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal",
-      "Facultad9"
-    ],
-    "edad": "1′8″ (0.51m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad21",
-      "habilidad20",
-      "habilidad22"
-    ],
-    "stats": {
-      "st1": 115,
-      "st2": 45,
-      "st3": 20,
-      "sp.st4": 45,
-      "sp.st5": 25,
-      "st6": 20,
-      "total": 270
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "040",
-    "name": "Ingeniero000040",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal",
-      "Facultad9"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad21",
-      "habilidad20",
-      "Frisk"
-    ],
-    "stats": {
-      "st1": 140,
-      "st2": 70,
-      "st3": 45,
-      "sp.st4": 85,
-      "sp.st5": 50,
-      "st6": 45,
-      "total": 435
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "041",
-    "name": "Ingeniero000041",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad2",
-      "Facultad4"
-    ],
-    "edad": "2′7″ (0.79m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad25",
-      "Infiltrator"
-    ],
-    "stats": {
-      "st1": 40,
-      "st2": 45,
-      "st3": 35,
-      "sp.st4": 30,
-      "sp.st5": 40,
-      "st6": 55,
-      "total": 245
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "042",
-    "name": "Ingeniero000042",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad2",
-      "Facultad4"
-    ],
-    "edad": "5′3″ (1.60m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad25",
-      "Infiltrator"
-    ],
-    "stats": {
-      "st1": 75,
-      "st2": 80,
-      "st3": 70,
-      "sp.st4": 65,
-      "sp.st5": 75,
-      "st6": 90,
-      "total": 455
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "043",
-    "name": "Ingeniero000043",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad1",
-      "Facultad2"
-    ],
-    "edad": "1′8″ (0.51m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad2",
-      "Run Away"
-    ],
-    "stats": {
-      "st1": 45,
-      "st2": 50,
-      "st3": 55,
-      "sp.st4": 75,
-      "sp.st5": 65,
-      "st6": 30,
-      "total": 320
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "044",
-    "name": "Ingeniero000043",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad1",
-      "Facultad2"
-    ],
-    "edad": "2′7″ (0.79m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad2",
-      "Stench"
-    ],
-    "stats": {
-      "st1": 60,
-      "st2": 65,
-      "st3": 70,
-      "sp.st4": 85,
-      "sp.st5": 75,
-      "st6": 40,
-      "total": 395
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "045",
-    "name": "Ingeniero000045",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad1",
-      "Facultad2"
-    ],
-    "edad": "3′11″ (1.19m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad2",
-      "Effect Spore"
-    ],
-    "stats": {
-      "st1": 75,
-      "st2": 80,
-      "st3": 85,
-      "sp.st4": 110,
-      "sp.st5": 90,
-      "st6": 50,
-      "total": 490
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "046",
-    "name": "Ingeniero000046",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad6",
-      "Facultad1"
-    ],
-    "edad": "1′0″ (0.30m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Dry Skin",
-      "Effect Spore",
-      "habilidad16"
-    ],
-    "stats": {
-      "st1": 35,
-      "st2": 70,
-      "st3": 55,
-      "sp.st4": 45,
-      "sp.st5": 55,
-      "st6": 25,
-      "total": 285
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "047",
-    "name": "Ingeniero000047",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad6",
-      "Facultad1"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Dry Skin",
-      "Effect Spore",
-      "habilidad16"
-    ],
-    "stats": {
-      "st1": 60,
-      "st2": 95,
-      "st3": 80,
-      "sp.st4": 60,
-      "sp.st5": 80,
-      "st6": 30,
-      "total": 405
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "048",
-    "name": "Ingeniero000048",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad6",
-      "Facultad2"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Compound Eyes",
-      "Tinted Lens",
-      "Run Away"
-    ],
-    "stats": {
-      "st1": 60,
-      "st2": 55,
-      "st3": 50,
-      "sp.st4": 40,
-      "sp.st5": 55,
-      "st6": 45,
-      "total": 305
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "049",
-    "name": "Ingeniero000049",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad6",
-      "Facultad2"
-    ],
-    "edad": "4′11″ (1.50m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Shield Dust",
-      "Tinted Lens",
-      "Wonder Skin"
-    ],
-    "stats": {
-      "st1": 70,
-      "st2": 65,
-      "st3": 60,
-      "sp.st4": 90,
-      "sp.st5": 75,
-      "st6": 90,
-      "total": 450
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "050",
-    "name": "Ingeniero000050",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad8"
-    ],
-    "edad": "0′8″ (0.20m)",
-    "facultad": "1.8 lbs (0.8 kg)",
-    "abilities": [
-      "Arena Trap",
-      "Sand Veil",
-      "Sand Force"
-    ],
-    "stats": {
-      "st1": 10,
-      "st2": 55,
-      "st3": 25,
-      "sp.st4": 35,
-      "sp.st5": 45,
-      "st6": 95,
-      "total": 265
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "051",
-    "name": "Ingeniero000051",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad8"
-    ],
-    "edad": "2′4″ (0.71m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Arena Trap",
-      "Sand Veil",
-      "Sand Force"
-    ],
-    "stats": {
-      "st1": 35,
-      "st2": 80,
-      "st3": 50,
-      "sp.st4": 50,
-      "sp.st5": 70,
-      "st6": 120,
-      "total": 405
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "052",
-    "name": "Ingeniero000052",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal"
-    ],
-    "edad": "1′4″ (0.41m)",
-    "facultad": "9.3 lbs (4.2 kg)",
-    "abilities": [
-      "Pickup",
-      "Technician",
-      "Unnerve"
-    ],
-    "stats": {
-      "st1": 40,
-      "st2": 45,
-      "st3": 35,
-      "sp.st4": 40,
-      "sp.st5": 40,
-      "st6": 90,
-      "total": 290
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "053",
-    "name": "Ingeniero000053",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Limber",
-      "Technician",
-      "Unnerve"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 70,
-      "st3": 60,
-      "sp.st4": 65,
-      "sp.st5": 65,
-      "st6": 115,
-      "total": 440
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "054",
-    "name": "Ingeniero000055",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "2′7″ (0.79m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Cloud Nine",
-      "habilidad16",
-      "habilidad13"
-    ],
-    "stats": {
-      "st1": 50,
-      "st2": 52,
-      "st3": 48,
-      "sp.st4": 65,
-      "sp.st5": 50,
-      "st6": 55,
-      "total": 320
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "055",
-    "name": "Ingeniero000055",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "5′7″ (1.70m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Cloud Nine",
-      "habilidad16",
-      "habilidad13"
-    ],
-    "stats": {
-      "st1": 80,
-      "st2": 82,
-      "st3": 78,
-      "sp.st4": 95,
-      "sp.st5": 80,
-      "st6": 85,
-      "total": 500
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "056",
-    "name": "Ingeniero000056",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad10"
-    ],
-    "edad": "1′8″ (0.51m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Anger Point",
-      "Vital Spirit",
-      "Defiant"
-    ],
-    "stats": {
-      "st1": 40,
-      "st2": 80,
-      "st3": 35,
-      "sp.st4": 35,
-      "sp.st5": 45,
-      "st6": 70,
-      "total": 305
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "057",
-    "name": "Ingeniero000057",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad10"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Anger Point",
-      "Vital Spirit",
-      "Defiant"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 105,
-      "st3": 60,
-      "sp.st4": 60,
-      "sp.st5": 70,
-      "st6": 95,
-      "total": 455
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "058",
-    "name": "Ingeniero000058",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad3"
-    ],
-    "edad": "2′4″ (0.71m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Flash Facultad3",
-      "Intimidate",
-      "Justified"
-    ],
-    "stats": {
-      "st1": 55,
-      "st2": 70,
-      "st3": 45,
-      "sp.st4": 70,
-      "sp.st5": 50,
-      "st6": 60,
-      "total": 350
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "059",
-    "name": "Ingeniero000059",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad3"
-    ],
-    "edad": "6′3″ (1.91m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Flash Facultad3",
-      "Intimidate",
-      "Justified"
-    ],
-    "stats": {
-      "st1": 90,
-      "st2": 110,
-      "st3": 80,
-      "sp.st4": 100,
-      "sp.st5": 80,
-      "st6": 95,
-      "total": 555
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "060",
-    "name": "Ingeniero000060",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "2′0″ (0.61m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad16",
-      "habilidad15",
-      "habilidad13"
-    ],
-    "stats": {
-      "st1": 40,
-      "st2": 50,
-      "st3": 40,
-      "sp.st4": 40,
-      "sp.st5": 40,
-      "st6": 90,
-      "total": 300
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "061",
-    "name": "Ingeniero000061",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad16",
-      "habilidad15",
-      "habilidad13"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 65,
-      "st3": 65,
-      "sp.st4": 50,
-      "sp.st5": 50,
-      "st6": 90,
-      "total": 385
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "062",
-    "name": "Ingeniero000062",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5",
-      "Facultad10"
-    ],
-    "edad": "4′3″ (1.30m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad16",
-      "habilidad15",
-      "habilidad13"
-    ],
-    "stats": {
-      "st1": 90,
-      "st2": 95,
-      "st3": 95,
-      "sp.st4": 70,
-      "sp.st5": 90,
-      "st6": 70,
-      "total": 510
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "063",
-    "name": "Ingeniero000063",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad11"
-    ],
-    "edad": "2′11″ (0.89m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad25",
-      "habilidad24",
-      "habilidad23"
-    ],
-    "stats": {
-      "st1": 25,
-      "st2": 20,
-      "st3": 15,
-      "sp.st4": 105,
-      "sp.st5": 55,
-      "st6": 90,
-      "total": 310
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "064",
-    "name": "Ingeniero000064",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad11"
-    ],
-    "edad": "4′3″ (1.30m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad25",
-      "habilidad24",
-      "habilidad23"
-    ],
-    "stats": {
-      "st1": 40,
-      "st2": 35,
-      "st3": 30,
-      "sp.st4": 120,
-      "sp.st5": 70,
-      "st6": 105,
-      "total": 400
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "065",
-    "name": "Ingeniero000065",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad11"
-    ],
-    "edad": "4′11″ (1.50m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad25",
-      "habilidad24",
-      "habilidad23"
-    ],
-    "stats": {
-      "st1": 55,
-      "st2": 50,
-      "st3": 45,
-      "sp.st4": 135,
-      "sp.st5": 95,
-      "st6": 120,
-      "total": 500
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "066",
-    "name": "Ingeniero000066",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad10"
-    ],
-    "edad": "2′7″ (0.79m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Guts",
-      "No Guard",
-      "Steadfast"
-    ],
-    "stats": {
-      "st1": 70,
-      "st2": 80,
-      "st3": 50,
-      "sp.st4": 35,
-      "sp.st5": 35,
-      "st6": 35,
-      "total": 305
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "067",
-    "name": "Ingeniero000067",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad10"
-    ],
-    "edad": "4′11″ (1.50m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Guts",
-      "No Guard",
-      "Steadfast"
-    ],
-    "stats": {
-      "st1": 80,
-      "st2": 100,
-      "st3": 70,
-      "sp.st4": 50,
-      "sp.st5": 60,
-      "st6": 45,
-      "total": 405
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "068",
-    "name": "Ingeniero000068",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad10"
-    ],
-    "edad": "5′3″ (1.60m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Guts",
-      "No Guard",
-      "Steadfast"
-    ],
-    "stats": {
-      "st1": 90,
-      "st2": 130,
-      "st3": 80,
-      "sp.st4": 65,
-      "sp.st5": 85,
-      "st6": 55,
-      "total": 505
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "069",
-    "name": "Ingeniero000069",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad1",
-      "Facultad2"
-    ],
-    "edad": "2′4″ (0.71m)",
-    "facultad": "8.8 lbs (4.0 kg)",
-    "abilities": [
-      "habilidad2",
-      "Gluttony"
-    ],
-    "stats": {
-      "st1": 50,
-      "st2": 75,
-      "st3": 35,
-      "sp.st4": 70,
-      "sp.st5": 30,
-      "st6": 40,
-      "total": 300
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "070",
-    "name": "Ingeniero000070",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad1",
-      "Facultad2"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad2",
-      "Gluttony"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 90,
-      "st3": 50,
-      "sp.st4": 85,
-      "sp.st5": 45,
-      "st6": 55,
-      "total": 390
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "071",
-    "name": "Ingeniero000071",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad1",
-      "Facultad2"
-    ],
-    "edad": "5′7″ (1.70m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad2",
-      "Gluttony"
-    ],
-    "stats": {
-      "st1": 80,
-      "st2": 105,
-      "st3": 65,
-      "sp.st4": 100,
-      "sp.st5": 70,
-      "st6": 70,
-      "total": 490
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "072",
-    "name": "Ingeniero000072",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5",
-      "Facultad2"
-    ],
-    "edad": "2′11″ (0.89m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad7",
-      "habilidad8",
-      "habilidad6"
-    ],
-    "stats": {
-      "st1": 40,
-      "st2": 40,
-      "st3": 35,
-      "sp.st4": 50,
-      "sp.st5": 100,
-      "st6": 70,
-      "total": 335
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "073",
-    "name": "Ingeniero000073",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5",
-      "Facultad2"
-    ],
-    "edad": "5′3″ (1.60m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad7",
-      "habilidad8",
-      "habilidad6"
-    ],
-    "stats": {
-      "st1": 80,
-      "st2": 70,
-      "st3": 65,
-      "sp.st4": 80,
-      "sp.st5": 120,
-      "st6": 100,
-      "total": 515
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "074",
-    "name": "Ingeniero000074",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad12",
-      "Facultad8"
-    ],
-    "edad": "1′4″ (0.41m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad9",
-      "habilidad10",
-      "Sand Veil"
-    ],
-    "stats": {
-      "st1": 40,
-      "st2": 80,
-      "st3": 100,
-      "sp.st4": 30,
-      "sp.st5": 30,
-      "st6": 20,
-      "total": 300
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "075",
-    "name": "Ingeniero000075",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad12",
-      "Facultad8"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad9",
-      "habilidad10",
-      "Sand Veil"
-    ],
-    "stats": {
-      "st1": 55,
-      "st2": 95,
-      "st3": 115,
-      "sp.st4": 45,
-      "sp.st5": 45,
-      "st6": 35,
-      "total": 390
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "076",
-    "name": "Ingeniero000076",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad12",
-      "Facultad8"
-    ],
-    "edad": "4′7″ (1.40m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad9",
-      "habilidad10",
-      "Sand Veil"
-    ],
-    "stats": {
-      "st1": 80,
-      "st2": 120,
-      "st3": 130,
-      "sp.st4": 55,
-      "sp.st5": 65,
-      "st6": 45,
-      "total": 495
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "077",
-    "name": "Ingeniero000077",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad3"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Flash Facultad3",
-      "Run Away",
-      "Flame Body"
-    ],
-    "stats": {
-      "st1": 50,
-      "st2": 85,
-      "st3": 55,
-      "sp.st4": 65,
-      "sp.st5": 65,
-      "st6": 90,
-      "total": 410
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "078",
-    "name": "Ingeniero000078",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad3"
-    ],
-    "edad": "5′7″ (1.70m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Flash Facultad3",
-      "Run Away",
-      "Flame Body"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 100,
-      "st3": 70,
-      "sp.st4": 80,
-      "sp.st5": 80,
-      "st6": 105,
-      "total": 500
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "079",
-    "name": "Ingeniero000079",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5",
-      "Facultad11"
-    ],
-    "edad": "3′11″ (1.19m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Oblivious",
-      "Own Tempo",
-      "Regenerator"
-    ],
-    "stats": {
-      "st1": 90,
-      "st2": 65,
-      "st3": 65,
-      "sp.st4": 40,
-      "sp.st5": 40,
-      "st6": 15,
-      "total": 315
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "080",
-    "name": "Ingeniero000080",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5",
-      "Facultad11"
-    ],
-    "edad": "5′3″ (1.60m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Oblivious",
-      "Own Tempo",
-      "Regenerator"
-    ],
-    "stats": {
-      "st1": 95,
-      "st2": 75,
-      "st3": 110,
-      "sp.st4": 100,
-      "sp.st5": 80,
-      "st6": 30,
-      "total": 490
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "081",
-    "name": "Ingeniero000081",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad7",
-      "Facultad13"
-    ],
-    "edad": "1′0″ (0.30m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Magnet Pull",
-      "habilidad10",
-      "Analytic"
-    ],
-    "stats": {
-      "st1": 25,
-      "st2": 35,
-      "st3": 70,
-      "sp.st4": 95,
-      "sp.st5": 55,
-      "st6": 45,
-      "total": 325
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "082",
-    "name": "Ingeniero000082",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad7",
-      "Facultad13"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Magnet Pull",
-      "habilidad10",
-      "Analytic"
-    ],
-    "stats": {
-      "st1": 50,
-      "st2": 60,
-      "st3": 95,
-      "sp.st4": 120,
-      "sp.st5": 70,
-      "st6": 70,
-      "total": 465
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "083",
-    "name": "Farfetch'd",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal",
-      "Facultad4"
-    ],
-    "edad": "2′7″ (0.79m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad25",
-      "Keen Eye",
-      "Defiant"
-    ],
-    "stats": {
-      "st1": 52,
-      "st2": 65,
-      "st3": 55,
-      "sp.st4": 58,
-      "sp.st5": 62,
-      "st6": 60,
-      "total": 352
-    },
-    "evolution": []
-  },
-  {
-    "id": "084",
-    "name": "Ingeniero000083",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal",
-      "Facultad4"
-    ],
-    "edad": "4′7″ (1.40m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Early Bird",
-      "Run Away",
-      "Tangled Feet"
-    ],
-    "stats": {
-      "st1": 35,
-      "st2": 85,
-      "st3": 45,
-      "sp.st4": 35,
-      "sp.st5": 35,
-      "st6": 75,
-      "total": 310
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "085",
-    "name": "Ingeniero000084",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal",
-      "Facultad4"
-    ],
-    "edad": "5′11″ (1.80m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Early Bird",
-      "Run Away",
-      "Tangled Feet"
-    ],
-    "stats": {
-      "st1": 60,
-      "st2": 110,
-      "st3": 70,
-      "sp.st4": 60,
-      "sp.st5": 60,
-      "st6": 100,
-      "total": 460
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "086",
-    "name": "Ingeniero000085",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "3′7″ (1.09m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Hydration",
-      "Thick Fat",
-      "Facultad14 Body"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 45,
-      "st3": 55,
-      "sp.st4": 45,
-      "sp.st5": 70,
-      "st6": 45,
-      "total": 325
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "087",
-    "name": "Ingeniero000086",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5",
-      "Facultad14"
-    ],
-    "edad": "5′7″ (1.70m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Hydration",
-      "Thick Fat",
-      "Facultad14 Body"
-    ],
-    "stats": {
-      "st1": 90,
-      "st2": 70,
-      "st3": 80,
-      "sp.st4": 70,
-      "sp.st5": 95,
-      "st6": 70,
-      "total": 475
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "088",
-    "name": "Ingeniero000087",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad2"
-    ],
-    "edad": "2′11″ (0.89m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Stench",
-      "Sticky Hold",
-      "Facultad2 Touch"
-    ],
-    "stats": {
-      "st1": 80,
-      "st2": 80,
-      "st3": 50,
-      "sp.st4": 40,
-      "sp.st5": 50,
-      "st6": 25,
-      "total": 325
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "089",
-    "name": "Ingeniero000088",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad2"
-    ],
-    "edad": "3′11″ (1.19m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Stench",
-      "Sticky Hold",
-      "Facultad2 Touch"
-    ],
-    "stats": {
-      "st1": 105,
-      "st2": 105,
-      "st3": 75,
-      "sp.st4": 65,
-      "sp.st5": 100,
-      "st6": 50,
-      "total": 500
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "090",
-    "name": "Ingeniero000089",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "1′0″ (0.30m)",
-    "facultad": "8.8 lbs (4.0 kg)",
-    "abilities": [
-      "habilidad12",
-      "Skill Link",
-      "Overcoat"
-    ],
-    "stats": {
-      "st1": 30,
-      "st2": 65,
-      "st3": 100,
-      "sp.st4": 45,
-      "sp.st5": 25,
-      "st6": 40,
-      "total": 305
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "091",
-    "name": "Ingeniero000090",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5",
-      "Facultad14"
-    ],
-    "edad": "4′11″ (1.50m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad12",
-      "Skill Link",
-      "Overcoat"
-    ],
-    "stats": {
-      "st1": 50,
-      "st2": 95,
-      "st3": 180,
-      "sp.st4": 85,
-      "sp.st5": 45,
-      "st6": 70,
-      "total": 525
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "092",
-    "name": "Ingeniero000092",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad15",
-      "Facultad2"
-    ],
-    "edad": "4′3″ (1.30m)",
-    "facultad": "0.2 lbs (0.1 kg)",
-    "abilities": [
-      "Levitate"
-    ],
-    "stats": {
-      "st1": 30,
-      "st2": 35,
-      "st3": 30,
-      "sp.st4": 100,
-      "sp.st5": 35,
-      "st6": 80,
-      "total": 310
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "093",
-    "name": "Ingeniero000093",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad15",
-      "Facultad2"
-    ],
-    "edad": "5′3″ (1.60m)",
-    "facultad": "0.2 lbs (0.1 kg)",
-    "abilities": [
-      "Levitate"
-    ],
-    "stats": {
-      "st1": 45,
-      "st2": 50,
-      "st3": 45,
-      "sp.st4": 115,
-      "sp.st5": 55,
-      "st6": 95,
-      "total": 405
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "094",
-    "name": "Ingeniero000094",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad15",
-      "Facultad2"
-    ],
-    "edad": "4′11″ (1.50m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Levitate"
-    ],
-    "stats": {
-      "st1": 60,
-      "st2": 65,
-      "st3": 60,
-      "sp.st4": 130,
-      "sp.st5": 75,
-      "st6": 110,
-      "total": 500
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "095",
-    "name": "Ingeniero000095",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad12",
-      "Facultad8"
-    ],
-    "edad": "28′10″ (8.79m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad9",
-      "habilidad10",
-      "habilidad11"
-    ],
-    "stats": {
-      "st1": 35,
-      "st2": 45,
-      "st3": 160,
-      "sp.st4": 30,
-      "sp.st5": 45,
-      "st6": 70,
-      "total": 385
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "096",
-    "name": "Ingeniero000096",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad11"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Forewarn",
-      "Insomnia",
-      "habilidad25"
-    ],
-    "stats": {
-      "st1": 60,
-      "st2": 48,
-      "st3": 45,
-      "sp.st4": 43,
-      "sp.st5": 90,
-      "st6": 42,
-      "total": 328
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "097",
-    "name": "Ingeniero000097",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad11"
-    ],
-    "edad": "5′3″ (1.60m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Forewarn",
-      "Insomnia",
-      "habilidad25"
-    ],
-    "stats": {
-      "st1": 85,
-      "st2": 73,
-      "st3": 70,
-      "sp.st4": 73,
-      "sp.st5": 115,
-      "st6": 67,
-      "total": 483
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "098",
-    "name": "Ingeniero000098",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "1′4″ (0.41m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Hyper Cutter",
-      "habilidad12",
-      "Sheer Force"
-    ],
-    "stats": {
-      "st1": 30,
-      "st2": 105,
-      "st3": 90,
-      "sp.st4": 25,
-      "sp.st5": 25,
-      "st6": 50,
-      "total": 325
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "099",
-    "name": "Ingeniero000099",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "4′3″ (1.30m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Hyper Cutter",
-      "habilidad12",
-      "Sheer Force"
-    ],
-    "stats": {
-      "st1": 55,
-      "st2": 130,
-      "st3": 115,
-      "sp.st4": 50,
-      "sp.st5": 50,
-      "st6": 75,
-      "total": 475
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "100",
-    "name": "Ingeniero000100",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad7"
-    ],
-    "edad": "1′8″ (0.51m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Soundproof",
-      "Static",
-      "Aftermath"
-    ],
-    "stats": {
-      "st1": 40,
-      "st2": 30,
-      "st3": 50,
-      "sp.st4": 55,
-      "sp.st5": 55,
-      "st6": 100,
-      "total": 330
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "101",
-    "name": "Ingeniero000001",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad7"
-    ],
-    "edad": "3′11″ (1.19m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Soundproof",
-      "Static",
-      "Aftermath"
-    ],
-    "stats": {
-      "st1": 60,
-      "st2": 50,
-      "st3": 70,
-      "sp.st4": 80,
-      "sp.st5": 80,
-      "st6": 140,
-      "total": 480
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "102",
-    "name": "Ingeniero000103",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad1",
-      "Facultad11"
-    ],
-    "edad": "1′4″ (0.41m)",
-    "facultad": "5.5 lbs (2.5 kg)",
-    "abilities": [
-      "habilidad2",
-      "Harvest"
-    ],
-    "stats": {
-      "st1": 60,
-      "st2": 40,
-      "st3": 80,
-      "sp.st4": 60,
-      "sp.st5": 45,
-      "st6": 40,
-      "total": 325
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "103",
-    "name": "Ingeniero000104",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad1",
-      "Facultad11"
-    ],
-    "edad": "6′7″ (2.01m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad2",
-      "Harvest"
-    ],
-    "stats": {
-      "st1": 95,
-      "st2": 95,
-      "st3": 85,
-      "sp.st4": 125,
-      "sp.st5": 65,
-      "st6": 55,
-      "total": 520
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "104",
-    "name": "Ingeniero000105",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad8"
-    ],
-    "edad": "1′4″ (0.41m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Lightning Rod",
-      "habilidad9",
-      "Battle Armor"
-    ],
-    "stats": {
-      "st1": 50,
-      "st2": 50,
-      "st3": 95,
-      "sp.st4": 40,
-      "sp.st5": 50,
-      "st6": 35,
-      "total": 320
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "105",
-    "name": "Ingeniero000106",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad8"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Lightning Rod",
-      "habilidad9",
-      "Battle Armor"
-    ],
-    "stats": {
-      "st1": 60,
-      "st2": 80,
-      "st3": 110,
-      "sp.st4": 50,
-      "sp.st5": 80,
-      "st6": 45,
-      "total": 425
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "106",
-    "name": "Ingeniero000107",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad10"
-    ],
-    "edad": "4′11″ (1.50m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Limber",
-      "Reckless",
-      "Unburden"
-    ],
-    "stats": {
-      "st1": 50,
-      "st2": 120,
-      "st3": 53,
-      "sp.st4": 35,
-      "sp.st5": 110,
-      "st6": 87,
-      "total": 455
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "107",
-    "name": "Ingeniero000108",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad10"
-    ],
-    "edad": "4′7″ (1.40m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Iron Fist",
-      "Keen Eye",
-      "habilidad25"
-    ],
-    "stats": {
-      "st1": 50,
-      "st2": 105,
-      "st3": 79,
-      "sp.st4": 35,
-      "sp.st5": 110,
-      "st6": 76,
-      "total": 455
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "108",
-    "name": "Ingeniero000109",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal"
-    ],
-    "edad": "3′11″ (1.19m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Oblivious",
-      "Own Tempo",
-      "Cloud Nine"
-    ],
-    "stats": {
-      "st1": 90,
-      "st2": 55,
-      "st3": 75,
-      "sp.st4": 60,
-      "sp.st5": 75,
-      "st6": 30,
-      "total": 385
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "109",
-    "name": "Ingeniero000110",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad2"
-    ],
-    "edad": "2′0″ (0.61m)",
-    "facultad": "2.2 lbs (1.0 kg)",
-    "abilities": [
-      "Levitate"
-    ],
-    "stats": {
-      "st1": 40,
-      "st2": 65,
-      "st3": 95,
-      "sp.st4": 60,
-      "sp.st5": 45,
-      "st6": 35,
-      "total": 340
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "110",
-    "name": "Ingeniero000111",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad2"
-    ],
-    "edad": "3′11″ (1.19m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Levitate"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 90,
-      "st3": 120,
-      "sp.st4": 85,
-      "sp.st5": 70,
-      "st6": 60,
-      "total": 490
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "111",
-    "name": "Ingeniero000112",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad8",
-      "Facultad12"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Lightning Rod",
-      "habilidad9",
-      "Reckless"
-    ],
-    "stats": {
-      "st1": 80,
-      "st2": 85,
-      "st3": 95,
-      "sp.st4": 30,
-      "sp.st5": 30,
-      "st6": 25,
-      "total": 345
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "112",
-    "name": "Ingeniero000113",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad8",
-      "Facultad12"
-    ],
-    "edad": "6′3″ (1.91m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Lightning Rod",
-      "habilidad9",
-      "Reckless"
-    ],
-    "stats": {
-      "st1": 105,
-      "st2": 130,
-      "st3": 120,
-      "sp.st4": 45,
-      "sp.st5": 45,
-      "st6": 40,
-      "total": 485
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "113",
-    "name": "Ingeniero000114",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal"
-    ],
-    "edad": "3′7″ (1.09m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Natural Cure",
-      "Serene Grace",
-      "Healer"
-    ],
-    "stats": {
-      "st1": 250,
-      "st2": 5,
-      "st3": 5,
-      "sp.st4": 35,
-      "sp.st5": 105,
-      "st6": 50,
-      "total": 450
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "114",
-    "name": "Ingeniero000115",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad1"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad2",
-      "Leaf Guard",
-      "Regenerator"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 55,
-      "st3": 115,
-      "sp.st4": 100,
-      "sp.st5": 40,
-      "st6": 60,
-      "total": 435
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "115",
-    "name": "Ingeniero000116",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal"
-    ],
-    "edad": "7′3″ (2.21m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Early Bird",
-      "Scrappy",
-      "habilidad25"
-    ],
-    "stats": {
-      "st1": 105,
-      "st2": 95,
-      "st3": 80,
-      "sp.st4": 40,
-      "sp.st5": 80,
-      "st6": 90,
-      "total": 490
-    },
-    "evolution": []
-  },
-  {
-    "id": "116",
-    "name": "Ingeniero000116",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "1′4″ (0.41m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Sniper",
-      "habilidad13",
-      "habilidad16"
-    ],
-    "stats": {
-      "st1": 30,
-      "st2": 40,
-      "st3": 70,
-      "sp.st4": 70,
-      "sp.st5": 25,
-      "st6": 60,
-      "total": 295
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "117",
-    "name": "Ingeniero000117",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "3′11″ (1.19m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad17",
-      "Sniper",
-      "habilidad16"
-    ],
-    "stats": {
-      "st1": 55,
-      "st2": 65,
-      "st3": 95,
-      "sp.st4": 95,
-      "sp.st5": 45,
-      "st6": 85,
-      "total": 440
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "118",
-    "name": "Ingeniero000118",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "2′0″ (0.61m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad13",
-      "Facultad5 Veil",
-      "Lightning Rod"
-    ],
-    "stats": {
-      "st1": 45,
-      "st2": 67,
-      "st3": 60,
-      "sp.st4": 35,
-      "sp.st5": 50,
-      "st6": 63,
-      "total": 320
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "119",
-    "name": "Ingeniero000119",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "4′3″ (1.30m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad13",
-      "Facultad5 Veil",
-      "Lightning Rod"
-    ],
-    "stats": {
-      "st1": 80,
-      "st2": 92,
-      "st3": 65,
-      "sp.st4": 65,
-      "sp.st5": 80,
-      "st6": 68,
-      "total": 450
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "120",
-    "name": "Ingeniero000120",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "2′7″ (0.79m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Illuminate",
-      "Natural Cure",
-      "Analytic"
-    ],
-    "stats": {
-      "st1": 30,
-      "st2": 45,
-      "st3": 55,
-      "sp.st4": 70,
-      "sp.st5": 55,
-      "st6": 85,
-      "total": 340
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "121",
-    "name": "Ingeniero000121",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5",
-      "Facultad11"
-    ],
-    "edad": "3′7″ (1.09m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Illuminate",
-      "Natural Cure",
-      "Analytic"
-    ],
-    "stats": {
-      "st1": 60,
-      "st2": 75,
-      "st3": 85,
-      "sp.st4": 100,
-      "sp.st5": 85,
-      "st6": 115,
-      "total": 520
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "122",
-    "name": "Mr. Mime",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad11",
-      "Facultad9"
-    ],
-    "edad": "4′3″ (1.30m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Filter",
-      "Soundproof",
-      "Technician"
-    ],
-    "stats": {
-      "st1": 40,
-      "st2": 45,
-      "st3": 65,
-      "sp.st4": 100,
-      "sp.st5": 120,
-      "st6": 90,
-      "total": 460
-    },
-    "evolution": [
-      "Mime Jr.",
-      "Mr. Mime"
-    ]
-  },
-  {
-    "id": "123",
-    "name": "Ingeniero000122",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad6",
-      "Facultad4"
-    ],
-    "edad": "4′11″ (1.50m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Swarm",
-      "Technician",
-      "Steadfast"
-    ],
-    "stats": {
-      "st1": 70,
-      "st2": 110,
-      "st3": 80,
-      "sp.st4": 55,
-      "sp.st5": 80,
-      "st6": 105,
-      "total": 500
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "124",
-    "name": "Ingeniero000123",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad14",
-      "Facultad11"
-    ],
-    "edad": "4′7″ (1.40m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Forewarn",
-      "Oblivious",
-      "Dry Skin"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 50,
-      "st3": 35,
-      "sp.st4": 115,
-      "sp.st5": 95,
-      "st6": 95,
-      "total": 455
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "125",
-    "name": "Ingeniero000124",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad7"
-    ],
-    "edad": "3′7″ (1.09m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Static",
-      "Vital Spirit"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 83,
-      "st3": 57,
-      "sp.st4": 95,
-      "sp.st5": 85,
-      "st6": 105,
-      "total": 490
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "126",
-    "name": "Ingeniero000125",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad3"
-    ],
-    "edad": "4′3″ (1.30m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Flame Body",
-      "Vital Spirit"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 95,
-      "st3": 57,
-      "sp.st4": 100,
-      "sp.st5": 85,
-      "st6": 93,
-      "total": 495
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "127",
-    "name": "Ingeniero000126",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad6"
-    ],
-    "edad": "4′11″ (1.50m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Hyper Cutter",
-      "Mold Breaker",
-      "Moxie"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 125,
-      "st3": 100,
-      "sp.st4": 55,
-      "sp.st5": 70,
-      "st6": 85,
-      "total": 500
-    },
-    "evolution": []
-  },
-  {
-    "id": "128",
-    "name": "Ingeniero000128",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal"
-    ],
-    "edad": "4′7″ (1.40m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Anger Point",
-      "Intimidate",
-      "Sheer Force"
-    ],
-    "stats": {
-      "st1": 75,
-      "st2": 100,
-      "st3": 95,
-      "sp.st4": 40,
-      "sp.st5": 70,
-      "st6": 110,
-      "total": 490
-    },
-    "evolution": []
-  },
-  {
-    "id": "129",
-    "name": "Ingeniero000129",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "2′11″ (0.89m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad13",
-      "habilidad14"
-    ],
-    "stats": {
-      "st1": 20,
-      "st2": 10,
-      "st3": 55,
-      "sp.st4": 15,
-      "sp.st5": 20,
-      "st6": 80,
-      "total": 200
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "130",
-    "name": "Ingeniero000130",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5",
-      "Facultad4"
-    ],
-    "edad": "21′4″ (6.50m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Intimidate",
-      "Moxie"
-    ],
-    "stats": {
-      "st1": 95,
-      "st2": 125,
-      "st3": 79,
-      "sp.st4": 60,
-      "sp.st5": 100,
-      "st6": 81,
-      "total": 540
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "131",
-    "name": "Ingeniero000131",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5",
-      "Facultad14"
-    ],
-    "edad": "8′2″ (2.49m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad12",
-      "habilidad15",
-      "Hydration"
-    ],
-    "stats": {
-      "st1": 130,
-      "st2": 85,
-      "st3": 80,
-      "sp.st4": 85,
-      "sp.st5": 95,
-      "st6": 60,
-      "total": 535
-    },
-    "evolution": []
-  },
-  {
-    "id": "132",
-    "name": "Ingeniero000132",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal"
-    ],
-    "edad": "1′0″ (0.30m)",
-    "facultad": "8.8 lbs (4.0 kg)",
-    "abilities": [
-      "Limber",
-      "Imposter"
-    ],
-    "stats": {
-      "st1": 48,
-      "st2": 48,
-      "st3": 48,
-      "sp.st4": 48,
-      "sp.st5": 48,
-      "st6": 48,
-      "total": 288
-    },
-    "evolution": []
-  },
-  {
-    "id": "133",
-    "name": "Ingeniero000133",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal"
-    ],
-    "edad": "1′0″ (0.30m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Adaptability",
-      "Run Away",
-      "Anticipation"
-    ],
-    "stats": {
-      "st1": 55,
-      "st2": 55,
-      "st3": 50,
-      "sp.st4": 45,
-      "sp.st5": 65,
-      "st6": 55,
-      "total": 325
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "134",
-    "name": "Ingeniero000134",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad5"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad15",
-      "Hydration"
-    ],
-    "stats": {
-      "st1": 130,
-      "st2": 65,
-      "st3": 60,
-      "sp.st4": 110,
-      "sp.st5": 95,
-      "st6": 65,
-      "total": 525
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "135",
-    "name": "Ingeniero000135",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad7"
-    ],
-    "edad": "2′7″ (0.79m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Volt Absorb",
-      "Quick Feet"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 65,
-      "st3": 60,
-      "sp.st4": 110,
-      "sp.st5": 95,
-      "st6": 130,
-      "total": 525
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "136",
-    "name": "Ingeniero000136",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad3"
-    ],
-    "edad": "2′11″ (0.89m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Flash Facultad3",
-      "Guts"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 130,
-      "st3": 60,
-      "sp.st4": 95,
-      "sp.st5": 110,
-      "st6": 65,
-      "total": 525
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "137",
-    "name": "Ingeniero000137",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal"
-    ],
-    "edad": "2′7″ (0.79m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Download",
-      "Trace",
-      "Analytic"
-    ],
-    "stats": {
-      "st1": 65,
-      "st2": 60,
-      "st3": 70,
-      "sp.st4": 85,
-      "sp.st5": 75,
-      "st6": 40,
-      "total": 395
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "138",
-    "name": "Ingeniero000138",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad12",
-      "Facultad5"
-    ],
-    "edad": "1′4″ (0.41m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad12",
-      "habilidad13",
-      "habilidad11"
-    ],
-    "stats": {
-      "st1": 35,
-      "st2": 40,
-      "st3": 100,
-      "sp.st4": 90,
-      "sp.st5": 55,
-      "st6": 35,
-      "total": 355
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "139",
-    "name": "Ingeniero000139",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad12",
-      "Facultad5"
-    ],
-    "edad": "3′3″ (0.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad12",
-      "habilidad13",
-      "habilidad11"
-    ],
-    "stats": {
-      "st1": 70,
-      "st2": 60,
-      "st3": 125,
-      "sp.st4": 115,
-      "sp.st5": 70,
-      "st6": 55,
-      "total": 495
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "140",
-    "name": "Ingeniero000140",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad12",
-      "Facultad5"
-    ],
-    "edad": "1′8″ (0.51m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Battle Armor",
-      "habilidad13",
-      "habilidad11"
-    ],
-    "stats": {
-      "st1": 30,
-      "st2": 80,
-      "st3": 90,
-      "sp.st4": 55,
-      "sp.st5": 45,
-      "st6": 55,
-      "total": 355
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "141",
-    "name": "Ingeniero000141",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad12",
-      "Facultad5"
-    ],
-    "edad": "4′3″ (1.30m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Battle Armor",
-      "habilidad13",
-      "habilidad11"
-    ],
-    "stats": {
-      "st1": 60,
-      "st2": 115,
-      "st3": 105,
-      "sp.st4": 65,
-      "sp.st5": 70,
-      "st6": 80,
-      "total": 495
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "142",
-    "name": "Ingeniero000142",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad12",
-      "Facultad4"
-    ],
-    "edad": "5′11″ (1.80m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Pressure",
-      "habilidad9",
-      "Unnerve"
-    ],
-    "stats": {
-      "st1": 80,
-      "st2": 105,
-      "st3": 65,
-      "sp.st4": 60,
-      "sp.st5": 75,
-      "st6": 130,
-      "total": 515
-    },
-    "evolution": []
-  },
-  {
-    "id": "143",
-    "name": "Ingeniero000143",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Normal"
-    ],
-    "edad": "6′11″ (2.11m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Immunity",
-      "Thick Fat",
-      "Gluttony"
-    ],
-    "stats": {
-      "st1": 160,
-      "st2": 110,
-      "st3": 65,
-      "sp.st4": 65,
-      "sp.st5": 110,
-      "st6": 30,
-      "total": 540
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-      "Masterado"
-    ]
-  },
-  {
-    "id": "144",
-    "name": "Ingeniero000144",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad14",
-      "Facultad4"
-    ],
-    "edad": "5′7″ (1.70m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Pressure",
-      "Snow Cloak"
-    ],
-    "stats": {
-      "st1": 90,
-      "st2": 85,
-      "st3": 100,
-      "sp.st4": 95,
-      "sp.st5": 125,
-      "st6": 85,
-      "total": 580
-    },
-    "evolution": []
-  },
-  {
-    "id": "145",
-    "name": "Ingeniero000145",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad7",
-      "Facultad4"
-    ],
-    "edad": "5′3″ (1.60m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Pressure",
-      "Lightning Rod"
-    ],
-    "stats": {
-      "st1": 90,
-      "st2": 90,
-      "st3": 85,
-      "sp.st4": 125,
-      "sp.st5": 90,
-      "st6": 100,
-      "total": 580
-    },
-    "evolution": []
-  },
-  {
-    "id": "146",
-    "name": "Ingeniero000146",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad3",
-      "Facultad4"
-    ],
-    "edad": "6′7″ (2.01m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Pressure",
-      "Flame Body"
-    ],
-    "stats": {
-      "st1": 90,
-      "st2": 100,
-      "st3": 90,
-      "sp.st4": 125,
-      "sp.st5": 85,
-      "st6": 90,
-      "total": 580
-    },
-    "evolution": []
-  },
-  {
-    "id": "147",
-    "name": "Ingeniero000147",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad16"
-    ],
-    "edad": "5′11″ (1.80m)",
-    "facultad": "7.3 lbs (3.3 kg)",
-    "abilities": [
-      "Shed Skin",
-      "Marvel Scale"
-    ],
-    "stats": {
-      "st1": 41,
-      "st2": 64,
-      "st3": 45,
-      "sp.st4": 50,
-      "sp.st5": 50,
-      "st6": 50,
-      "total": 300
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "148",
-    "name": "Ingeniero000148",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad16"
-    ],
-    "edad": "13′1″ (3.99m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Shed Skin",
-      "Marvel Scale"
-    ],
-    "stats": {
-      "st1": 61,
-      "st2": 84,
-      "st3": 65,
-      "sp.st4": 70,
-      "sp.st5": 70,
-      "st6": 70,
-      "total": 420
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "149",
-    "name": "Ingeniero000149",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad16",
-      "Facultad4"
-    ],
-    "edad": "7′3″ (2.21m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "habilidad25",
-      "Multiscale"
-    ],
-    "stats": {
-      "st1": 91,
-      "st2": 134,
-      "st3": 95,
-      "sp.st4": 100,
-      "sp.st5": 100,
-      "st6": 80,
-      "total": 600
-    },
-    "evolution": [
-      "Ingeniero",
-      "Doctorado",
-            "Masterado"
-    ]
-  },
-  {
-    "id": "150",
-    "name": "Ingeniero000151",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad11"
-    ],
-    "edad": "6′7″ (2.01m)",
-    "facultad": "facultad001",
-    "abilities": [
-      "Pressure",
-      "Unnerve"
-    ],
-    "stats": {
-      "st1": 106,
-      "st2": 110,
-      "st3": 90,
-      "sp.st4": 154,
-      "sp.st5": 90,
-      "st6": 140,
-      "total": 680
-    },
-    "evolution": []
-  },
-  {
-    "id": "151",
-    "name": "Ingeniero000151",
-    "ingenieria": "Ingenieria001",
-    "type": [
-      "Facultad11"
-    ],
-    "edad": "1′4″ (0.41m)",
-    "facultad": "8.8 lbs (4.0 kg)",
-    "abilities": [
-      "habilidad24"
-    ],
-    "stats": {
-      "st1": 100,
-      "st2": 100,
-      "st3": 100,
-      "sp.st4": 100,
-      "sp.st5": 100,
-      "st6": 100,
-      "total": 600
-    },
-    "evolution": []
+  {"ci": "201534823",
+  "apellidos" : "Ballesteros Trujillo ",
+  "name" : "Lenin Antonio",
+  "correo" : "laballesteros@uce.edu.ec",
+  "programa" : "Doctorado en Administración",
+  "financiamiento" : "Autofinanciado ",
+  "pais" : "Argentina",
+  "universidad" : "Universidad Nacional de Rosario",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctor en Administración"
+  },
+  {"ci": "1001779923",
+  "apellidos" : "Dávila Pinto ",
+  "name" : "Pablo Giovanny",
+  "correo" : "pgdp@1968yahoo.com",
+  "programa" : "Doctorado en Economía Empresarial",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Extremadura",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctor en Economía Empresarial"
+  },
+  {"ci": "1709540684",
+  "apellidos" : "Galárraga Carvajal ",
+  "name" : "Mercedes Fabiola",
+  "correo" : "mfgalarraga@uce.edu.ec",
+  "programa" : "Doctorado en Administración",
+  "financiamiento" : "Autofinanciado ",
+  "pais" : "Argentina",
+  "universidad" : "Universidad Nacional de Rosario",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctor en Administración"
+  },
+  {"ci": "1710471150",
+  "apellidos" : "Jimbo Santana",
+  "name" : "Mónica de Jesús",
+  "correo" : "monicajimbo@yahoo,com",
+  "programa" : "Doctorado en Ciencias Administrativas",
+  "financiamiento" : "Autofinanciado ",
+  "pais" : "Argentina",
+  "universidad" : "Universidad de Cuyo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctora en Ciencias Administrativas"
+  },
+  {"ci": "1708527377",
+  "apellidos" : "Osejos Domínguez ",
+  "name" : "Edgar Efraín",
+  "correo" : "eosejo@uce.edu.ec",
+  "programa" : "Doctorado en Administración de Empresas",
+  "financiamiento" : "Autofinanciado ",
+  "pais" : "España",
+  "universidad" : "Universidad de Extremadura",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctor en Administración de Empresas"
+  },
+  {"ci": "1707992259",
+  "apellidos" : "Pazmiño Linzan ",
+  "name" : "Jhony Fabián",
+  "correo" : "globalservicelge@gmail.com",
+  "programa" : "Doctorado en Sistemas de Información Aplicadas a las TIC´s",
+  "financiamiento" : "Autofinanciado ",
+  "pais" : "Reino Unido",
+  "universidad" : "Universidad de Salford Manchester",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctor en Sistemas de Información Aplicadas a las TIC´s"
+  },
+  {"ci": "1710212430",
+  "apellidos" : "Pazmiño Santacruz ",
+  "name" : "Mauro Roberto",
+  "correo" : "mpazmino@uce.edu.ec",
+  "programa" : "Doctorado en Administración",
+  "financiamiento" : "Autofinanciado ",
+  "pais" : "Perú",
+  "universidad" : "Pontificia Universidad Católica del Perú",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctor en Administración"
+  },
+  {"ci": "1706562400",
+  "apellidos" : "Quintanilla Romero ",
+  "name" : "Marco Antonio",
+  "correo" : "quintanillamarco@hotmail.com",
+  "programa" : "Doctorado en Computación",
+  "financiamiento" : "Autofinanciado ",
+  "pais" : "Venezuela",
+  "universidad" : "Universidad Simón Bolívar",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctoren Computación"
+  },
+  {"ci": "1800028415",
+  "apellidos" : "Salazar Pazmiño ",
+  "name" : "Wilson Heriberto",
+  "correo" : "wsalazar@uce.edu.ec",
+  "programa" : "Doctorado en Educación con Especialidad en Investigación",
+  "financiamiento" : "Autofinanciado ",
+  "pais" : "México",
+  "universidad" : "Universidad Internacional Iberoamericana - UNINI México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctoren Educación con Especialidad en Investigación"
+  },
+  {"ci": "1706492293",
+  "apellidos" : "Salazar Villegas ",
+  "name" : "Carlos Aníbal",
+  "correo" : "casalazar@uce.edu.ec",
+  "programa" : "Doctorado en Administración de Empresas",
+  "financiamiento" : "Autofinanciado ",
+  "pais" : "Perú",
+  "universidad" : "Universidad Mayor de San Marcos",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctor en Administración de Empresas"
+  },
+  {"ci": "0200036721",
+  "apellidos" : "Vega Figueroa ",
+  "name" : "Jaime Oswaldo",
+  "correo" : "osvegaf@gmail.com",
+  "programa" : "Doctorado en Ciencias Pedagógicas",
+  "financiamiento" : "Autofinanciado ",
+  "pais" : "Cuba",
+  "universidad" : "Universidad Oriente de Santiago de Cuba",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctor en Ciencias Pedagógicas"
+  },
+  {"ci": "1706376934",
+  "apellidos" : "Cabanilla Vasconez",
+  "name" : "Enrique Armando",
+  "correo" : "eacabanilla@uce.edu.ec",
+  "programa" : "Doctorado en Geografía",
+  "financiamiento" : "Autofinanciado ",
+  "pais" : "Argentina",
+  "universidad" : "Universidad Bahía Sur",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Agrícolas",
+  "titulo" : "Doctoren Geografía"
+  },
+  {"ci": "0200800845",
+  "apellidos" : "Alban Perez",
+  "name" : "Guido Germán",
+  "correo" : "guidoalban62@hotmail.com",
+  "programa" : "Doctorado en Psicología",
+  "financiamiento" : "Beca/gobierno Mexicano*1",
+  "pais" : "México",
+  "universidad" : "Universidades Guadalajara ",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Psicológicas",
+  "titulo" : "Doctor en Psicología"
+  },
+  {"ci": "1703896652",
+  "apellidos" : "León Navarrete",
+  "name" : "Marco Marcelo",
+  "correo" : "mleon@uce.edu.ec",
+  "programa" : "Doctorado en Psicología",
+  "financiamiento" : "Beca/gobierno Mexicano*1",
+  "pais" : "México",
+  "universidad" : "Universidade de Guadalajara ",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Psicológicas",
+  "titulo" : "Doctor en Psicología"
+  },
+  {"ci": "1723046155",
+  "apellidos" : "Mantilla Herrera ",
+  "name" : "Álvaro Martino",
+  "correo" : "ammantilla@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Sociales - Mención Estudios Latinoamericanos",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Psicológicas",
+  "titulo" : "Doctor  en Ciencias Sociales - Mención Estudios Latinoamericanos"
+  },
+  {"ci": "1801907070",
+  "apellidos" : "Sarabia López",
+  "name" : "Luis Edmundo",
+  "correo" : "lucho.sarabia@hotmail.com",
+  "programa" : "Doctorado en Psicología",
+  "financiamiento" : "Beca/gobierno Mexicano*1",
+  "pais" : "México",
+  "universidad" : "Universidades Guadalajara",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Psicológicas",
+  "titulo" : "Doctor en Psicología"
+  },
+  {"ci": "1709888240",
+  "apellidos" : "Bonilla Valladares ",
+  "name" : "Pablo Mauricio",
+  "correo" : "mbonilla@uce.edu.ec",
+  "programa" : "Docotorado en Innovación y Desarrollo de Fármacos",
+  "financiamiento" : "Autofinanciado",
+  "pais" : "España",
+  "universidad" : "Universidad de Barcelona",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Químicas",
+  "titulo" : "Doctor en Innovación y Desarrollo de Fármacos"
+  },
+  {"ci": "1707242838",
+  "apellidos" : "Suárez Heredia ",
+  "name" : "Martha Azucena",
+  "correo" : "marthasuarez2002@yahoo.es",
+  "programa" : "Doctorado en Ciencias",
+  "financiamiento" : "Autofinanciado",
+  "pais" : "Estados Unidos",
+  "universidad" : "Universidad Atlantic",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Químicas",
+  "titulo" : "Doctor en Ciencias"
+  },
+  {"ci": "1102754262",
+  "apellidos" : "Abad Ordoñez ",
+  "name" : "Gustavo Ramiro",
+  "correo" : "grabad@uce.edu.ec",
+  "programa" : "Doctorado en Literatura Latinoamericana",
+  "financiamiento" : "Autofinanciado *2",
+  "pais" : "Ecuador",
+  "universidad" : "Universidad Andina Simón Bolívar",
+  "nivel" : "Cuarto nivel",
+  "area" : "Comunicación Social",
+  "titulo" : "Doctor en Literatura Latinoamericana"
+  },
+  {"ci": "1704860863",
+  "apellidos" : "Aguirre Salas ",
+  "name" : "Alejandro",
+  "correo" : "asalas@uce.edu.ec",
+  "programa" : "Doctorado en Historia Latinoamericana",
+  "financiamiento" : "Autofinanciado",
+  "pais" : "Ecuador",
+  "universidad" : "Universidad Andina Simón Bolívar",
+  "nivel" : "Cuarto nivel",
+  "area" : "Comunicación Social",
+  "titulo" : "Doctor en Historia Latinoamericana"
+  },
+  {"ci": "1704859675",
+  "apellidos" : "Aguirre Salas ",
+  "name" : "Andrea Vanessa",
+  "correo" : "vaguirre@uce.edu.ec",
+  "programa" : "Doctorado en Historia Latinoamericana",
+  "financiamiento" : "Autofinanciado",
+  "pais" : "Ecuador",
+  "universidad" : "Universidad Andina Simón Bolívar",
+  "nivel" : "Cuarto nivel",
+  "area" : "Comunicación Social",
+  "titulo" : "Doctor en Historia Latinoamericana"
+  },
+  {"ci": "1710109891",
+  "apellidos" : "Castro Rodas ",
+  "name" : "Juan Pablo",
+  "correo" : "pbonilla@uce.edu.ec",
+  "programa" : "Doctorado en Literatura Latinoamericana",
+  "financiamiento" : "Autofinanciado *2",
+  "pais" : "Ecuador",
+  "universidad" : "Universidad Andina Simón Bolívar",
+  "nivel" : "Cuarto nivel",
+  "area" : "Comunicación Social",
+  "titulo" : "Doctor en Literatura Latinoamericana"
+  },
+  {"ci": "1713865150",
+  "apellidos" : "Rosero Duque ",
+  "name" : "Milton Fernando",
+  "correo" : "ferchoferos@hotmail.com",
+  "programa" : "Doctorado en Actividades Físicas y Artísticas",
+  "financiamiento" : "Autofinanciado",
+  "pais" : "España",
+  "universidad" : "Universidad de Extremadura",
+  "nivel" : "Cuarto nivel",
+  "area" : "Cultura Física",
+  "titulo" : "Doctor en Actividades Físicas y Artísticas"
+  },
+  {"ci": "1715365407",
+  "apellidos" : "Rhea Almeida ",
+  "name" : "María Madgalena",
+  "correo" : "magui.rhea@gmail.com",
+  "programa" : "Doctorado en Lingüística y Lenguas",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Argentina",
+  "universidad" : "Universidad Nacional Rosario ",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Lingüística y Lenguas"
+  },
+  {"ci": "1710015254",
+  "apellidos" : "Araujo Granda ",
+  "name" : "Pablo Alejandro",
+  "correo" : "paraujo@uce.edu.ec",
+  "programa" : "Doctorado en Tecnología Agroalimentaria y Biotecnología",
+  "financiamiento" : "SENESCYT *1",
+  "pais" : "España",
+  "universidad" : "Universitad Politecnica de Catalunya",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería Química",
+  "titulo" : "Doctor en Tecnología Agroalimentaria y Biotecnología"
+  },
+  {"ci": "1712019288",
+  "apellidos" : "Arroyo Morocho ",
+  "name" : "Flavio Roberto",
+  "correo" : "frarroyo@uce.edu.ec",
+  "programa" : "Doctorado en Ingeniería Industrial",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Valladolid",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Ingeniería Industrial"
+  },
+  {"ci": "1001880259",
+  "apellidos" : "Beltran Morales ",
+  "name" : "Jefferson Tarciso",
+  "correo" : "jtbeltran@uce.edu.ec",
+  "programa" : "Doctorado en Tecnologias Informáticas y Comunicaciones",
+  "financiamiento" : "Autofinanciado",
+  "pais" : "España",
+  "universidad" : "Universidad Extremadura",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1707862486",
+  "apellidos" : "Benalcázar Villamar",
+  "name" : "Pedro Alberto",
+  "correo" : "titobv@yahoo.com",
+  "programa" : "Doctorado en Ciencias Informáticas",
+  "financiamiento" : "Autofinanciado",
+  "pais" : "Argentina",
+  "universidad" : "Universidad de la Plata",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Ciencias Informáticas"
+  },
+  {"ci": "1709140378",
+  "apellidos" : "Carrillo Flores",
+  "name" : "Rene Alfonso",
+  "correo" : "renealfonso@hotmail.com",
+  "programa" : "Doctorado en Ciencias Informáticas",
+  "financiamiento" : "Autofinanciado",
+  "pais" : "Argentina",
+  "universidad" : "Universidad de la Plata",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Ciencias Informáticas"
+  },
+  {"ci": "1704434537",
+  "apellidos" : "Cevallos Ponce",
+  "name" : "Juan Pablo",
+  "correo" : "juanpacevallos@hotmail.com",
+  "programa" : "Doctorado en Economía del Desarrollo",
+  "financiamiento" : "Autofinanciado",
+  "pais" : "Ecuador",
+  "universidad" : "Flacso",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Economía del Desarrollo"
+  },
+  {"ci": "1707743587",
+  "apellidos" : "Mafla Terán ",
+  "name" : "Gabriela Lorena",
+  "correo" : "gmafla@uce.edu.ec",
+  "programa" : "Doctorado en Humanidades y Artes",
+  "financiamiento" : "Autofinanciado",
+  "pais" : "Argentina",
+  "universidad" : "Universidad de Rosario",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Humanidades y Artes"
+  },
+  {"ci": "1710332832",
+  "apellidos" : "Navarro Bustos ",
+  "name" : "Jairo René",
+  "correo" : "jnavarro@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Informáticas",
+  "financiamiento" : "Autofinanciado",
+  "pais" : "Argentina",
+  "universidad" : "Univesidad de la Plata",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Ciencias Informáticas"
+  },
+  {"ci": "1709971814",
+  "apellidos" : "Pérez Suasnavas",
+  "name" : "Ana Lucía",
+  "correo" : "alperezs@uce.edu.ec",
+  "programa" : "Doctorado en Informátiva",
+  "financiamiento" : "Autofinanciado",
+  "pais" : "Ecuador",
+  "universidad" : "Escuela Politécnica Nacional",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informátiva"
+  },
+  {"ci": "1706795703",
+  "apellidos" : "Ríos Paredes ",
+  "name" : "Ramiro Augusto",
+  "correo" : "rrios@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Informáticas",
+  "financiamiento" : "Autofinanciado",
+  "pais" : "Argentina",
+  "universidad" : "Universidad de la Plata",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Ciencias Informáticas"
+  },
+  {"ci": "0400693461",
+  "apellidos" : "Vásquez Iturralde ",
+  "name" : "William Fernando",
+  "correo" : "wvasquez@uce.edu.ec",
+  "programa" : "Doctorado en Ingeniería Eléctrica",
+  "financiamiento" : "Autofinanciado *2",
+  "pais" : "Ecuador",
+  "universidad" : "Escuela Politécnica Nacional",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Ingeniería Eléctrica"
+  },
+  {"ci": "1802628782",
+  "apellidos" : "Villalobos Pozo ",
+  "name" : "Andrea Cristina",
+  "correo" : "acvillalobos@uce.edu.ec",
+  "programa" : "Doctorado en Diseño",
+  "financiamiento" : "Autofinanciado",
+  "pais" : "Argentina",
+  "universidad" : "Universidad de Palermo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Diseño"
+  },
+  {"ci": "0602373144",
+  "apellidos" : "Garbay Macheno ",
+  "name" : "Susy Alexandra",
+  "correo" : "susygarvay@yahoo.com",
+  "programa" : "Docotorado en Derecho",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Ecuador",
+  "universidad" : "Universidad Andina Simón Bolívar",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctor  en Derecho"
+  },
+  {"ci": "1716262462",
+  "apellidos" : "Muñoz Vaca",
+  "name" : "Katty Mishel",
+  "correo" : "kattymunioz@gmail.com",
+  "programa" : "Doctorado en Derecho",
+  "financiamiento" : "Autofinanciado",
+  "pais" : "Argentina",
+  "universidad" : "Universidad de Buenos Aires",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctora en Derecho"
+  },
+  {"ci": "1712210630",
+  "apellidos" : "Del Pozo Sánchez",
+  "name" : "Franz Eduardo",
+  "correo" : "fedelpozo@uce.edu.ec",
+  "programa" : "Doctorado en Educación",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Venezuela",
+  "universidad" : "Universidad Católica Andres Bello ",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Educación"
+  },
+  {"ci": "1710499573",
+  "apellidos" : "Estrella Cobo",
+  "name" : "Lisseth Mireya",
+  "correo" : "estrellacobo@yahoo.com.mx",
+  "programa" : "Doctorado en Arquitectónicos Avanzados",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "España",
+  "universidad" : "Universidad Politécnica de Madrid",
+  "nivel" : "Cuarto nivel",
+  "area" : "Arquitectura y Urbanismo",
+  "titulo" : "Doctor en Arquitectura Avanzada"
+  },
+  {"ci": "1716055981",
+  "apellidos" : "Freire Castro ",
+  "name" : "Úrsula Belén",
+  "correo" : "ufreire@uce.edu.ec",
+  "programa" : "Doctorado en Estudios Latinoamericanos - Arquitectura, Planeamiento, Geografía y Medio Ambiente",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Universidad de Nuevo México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Arquitectura y Urbanismo",
+  "titulo" : "Doctor en Estudios Latinoamericanos - Arquitectura, Planeamiento, Geografía y Medio Ambiente"
+  },
+  {"ci": "1706923081",
+  "apellidos" : "Granja Bastidas ",
+  "name" : "María Belen",
+  "correo" : "mgranja@uce.edu.ec",
+  "programa" : "Doctorado en Proyectos Arquitectónicos Avanzados",
+  "financiamiento" : "SENESCYT *1",
+  "pais" : "España",
+  "universidad" : "Universidad Politécnica de Madrid",
+  "nivel" : "Cuarto nivel",
+  "area" : "Arquitectura y Urbanismo",
+  "titulo" : "Doctor en Proyectos Arquitectónicos Avanzados"
+  },
+  {"ci": "1717702961",
+  "apellidos" : "Mafla Sánchez ",
+  "name" : "Diego Fernando",
+  "correo" : "diegomafla.urb.arq@hotmail.com",
+  "programa" : "Doctorado en Ordenamiento Territorial, Riesgos y Políticas Públicas ",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Portugal",
+  "universidad" : "Universidad de Lisboa",
+  "nivel" : "Cuarto nivel",
+  "area" : "Arquitectura y Urbanismo",
+  "titulo" : "Doctor en Ordenamiento Territorial, Riesgos y Políticas Públicas "
+  },
+  {"ci": "1711926277",
+  "apellidos" : "Nuñez Basantes ",
+  "name" : "Alba Cristina",
+  "correo" : "anunez@uce.edu.ec",
+  "programa" : "Doctorado en Sostenibilidad y Regeneración Urbana",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "España",
+  "universidad" : "Universidad Politécnica de Madrid",
+  "nivel" : "Cuarto nivel",
+  "area" : "Arquitectura y Urbanismo",
+  "titulo" : "Dcotor en Sostenibilidad y Regeneración Urbana"
+  },
+  {"ci": "1707556724",
+  "apellidos" : "Prado Vasquez ",
+  "name" : "María Luisa",
+  "correo" : "mlp_audio@yahoo.com ",
+  "programa" : "Doctorado en Ingeniería Acústica",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "España",
+  "universidad" : "Universidad Politécnica de Madrid",
+  "nivel" : "Cuarto nivel",
+  "area" : "Arquitectura y Urbanismo",
+  "titulo" : "Doctor en Ingeniería Acústica"
+  },
+  {"ci": "1709617912",
+  "apellidos" : "Sandoval Vásquez ",
+  "name" : "Juan Carlos",
+  "correo" : "csandoval@uce.edu.ec",
+  "programa" : "Doctorado en Urbanismo",
+  "financiamiento" : "SENESCYT *1",
+  "pais" : "España",
+  "universidad" : "Universidad Politécnica de Cataluña",
+  "nivel" : "Cuarto nivel",
+  "area" : "Arquitectura y Urbanismo",
+  "titulo" : "Doctor en Urbanismo"
+  },
+  {"ci": "1000947315",
+  "apellidos" : "Vásquez Guzmán ",
+  "name" : "José Eliecer",
+  "correo" : "josevasquez@andinanet.net",
+  "programa" : "Doctorado Plant Sciences",
+  "financiamiento" : "SENESCYT *1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Universidad Estatal de Dakota del Norte",
+  "nivel" : "Cuarto nivel",
+  "area" : "Idiomas",
+  "titulo" : "Doctor en Plant Sciences"
+  },
+  {"ci": "1706868542",
+  "apellidos" : "Gallardo Carrillo ",
+  "name" : "Galo Fernando",
+  "correo" : "galo _gallardo@hotmail,com",
+  "programa" : "Doctorado en Economía Agroalimentaria",
+  "financiamiento" : "SENESCYT *1",
+  "pais" : "España",
+  "universidad" : "Universidad Politécnica de Valencia",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctor en Economía Agroalimentaria"
+  },
+  {"ci": "1714564216",
+  "apellidos" : "Molina Velásquez ",
+  "name" : "Edison Ruben",
+  "correo" : "edisonmolina10@yahoo.es",
+  "programa" : "Doctorado en Geografía",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Argentina",
+  "universidad" : "Universidad Bahía Sur",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Agrícolas",
+  "titulo" : "Doctor en Geografía"
+  },
+  {"ci": "1710539287",
+  "apellidos" : "Camacho Dillon ",
+  "name" : "Francisco Rafael",
+  "correo" : "fcamacho@uce.edu.ec",
+  "programa" : "Doctorado en Economía",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Argentina",
+  "universidad" : "Universidad de Rosario",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Económicas",
+  "titulo" : "Doctor en Economía"
+  },
+  {"ci": "1707565238",
+  "apellidos" : "Medina Carranco ",
+  "name" : "Nancy Clara María",
+  "correo" : "nmedina@uce.edu.ec",
+  "programa" : "Doctorado en Economía",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Ecuador",
+  "universidad" : "FLASCO ",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Económicas",
+  "titulo" : "Doctorado en Economía"
+  },
+  {"ci": "0400958872",
+  "apellidos" : "Rosero Enríquez ",
+  "name" : "Robertho Miguel",
+  "correo" : "robertho_ros@hotmail.com",
+  "programa" : "Doctorado en Economía",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Argentina",
+  "universidad" : "Universidad de Rosario",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Económicas",
+  "titulo" : "Doctor en Economía"
+  },
+  {"ci": "1002397550",
+  "apellidos" : "Manosalvas Cornejo ",
+  "name" : "Giovanny Manuel",
+  "correo" : "giovamalvs@yahoo.com",
+  "programa" : "Doctorado en Economía",
+  "financiamiento" : "SENESCYT *1",
+  "pais" : "España",
+  "universidad" : "Universidad Complutense de Madrid",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Económicas",
+  "titulo" : "Doctor en Economía"
+  },
+  {"ci": "1706791736",
+  "apellidos" : "Guerra Procel ",
+  "name" : "Franciso Javier",
+  "correo" : "fguerra@uce.edu.ec",
+  "programa" : "Doctorado en Economía",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Jaume I en Castellón de la Plata España",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Económicas",
+  "titulo" : "Doctor en Economía"
+  },
+  {"ci": "1707216527",
+  "apellidos" : "Novillo Logroño ",
+  "name" : "Fernando Augusto",
+  "correo" : "fnovillo@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Químicas",
+  "financiamiento" : "SENESCYT *1",
+  "pais" : "México",
+  "universidad" : "Universidad Nacional Autónoma de México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Químicas",
+  "titulo" : "Doctor en Ciencias Químicas"
+  },
+  {"ci": "1713479903",
+  "apellidos" : "Angulo Moncayo",
+  "name" : "Natalia Alexandra",
+  "correo" : "naangulo@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Sociales con mención en Comunicación",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Argentina",
+  "universidad" : "Universidad Nacional del Cuyo Mendoza",
+  "nivel" : "Cuarto nivel",
+  "area" : "Comunicación Social",
+  "titulo" : "Doctor en Ciencias Sociales con mención en Comunicación"
+  },
+  {"ci": "1711948727",
+  "apellidos" : "Jurado Reina ",
+  "name" : "Juan Carlos",
+  "correo" : "jjurado@uce.edu.ec",
+  "programa" : "Doctorado en Teología Dogmática",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Grecia",
+  "universidad" : "Universidad de Tesalónica",
+  "nivel" : "Cuarto nivel",
+  "area" : "Comunicación Social",
+  "titulo" : "Doctor en Teología Dogmática"
+  },
+  {"ci": "1712040433",
+  "apellidos" : "Llerena Borja ",
+  "name" : "Oscar Alejandro",
+  "correo" : "oallerena@uce.edu.ec",
+  "programa" : "Doctorado en Filosofía",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "España",
+  "universidad" : "Universidad Complutense de Madrid",
+  "nivel" : "Cuarto nivel",
+  "area" : "Comunicación Social",
+  "titulo" : "Doctor en Filosofía"
+  },
+  {"ci": "0907196869",
+  "apellidos" : "Rodríguez Albán ",
+  "name" : "Martha Cecilia",
+  "correo" : "mcrodriguez@uce.edu.ec",
+  "programa" : "Doctorado en Literatura Latinoamericana",
+  "financiamiento" : "Autofinanciado *2",
+  "pais" : "Ecuador",
+  "universidad" : "Universidad Andina Simón Bolívar",
+  "nivel" : "Cuarto nivel",
+  "area" : "Comunicación Social",
+  "titulo" : "Doctor en Literatura Latinoamericana"
+  },
+  {"ci": "1711701167",
+  "apellidos" : "Vivas Vivas ",
+  "name" : "Rocío del Carmen",
+  "correo" : "rvivas@uce.edu.ec",
+  "programa" : "Doctorado en Artes",
+  "financiamiento" : "SENESCYT *1",
+  "pais" : "Chile",
+  "universidad" : "Universidad Pontificcia Católica de Chile",
+  "nivel" : "Cuarto nivel",
+  "area" : "Comunicación Social",
+  "titulo" : "Doctora en Arte"
+  },
+  {"ci": "1715276570",
+  "apellidos" : "Ayala Plazarte",
+  "name" : "Freddy Leonardo",
+  "correo" : "freddyayalapfg@hotmail.com",
+  "programa" : "Doctorado en Estudios Artísticos Literiarios y Cultura",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "España",
+  "universidad" : "Universidad Autónoma de Madrid",
+  "nivel" : "Cuarto nivel",
+  "area" : "Comunicación Social",
+  "titulo" : "Doctor Estudios Artísticos Literiarios y de La Cultura"
+  },
+  {"ci": "1707074132",
+  "apellidos" : "Ávila Jácome ",
+  "name" : "Andrea Cecilia",
+  "correo" : "acavila@uce.edu.ec",
+  "programa" : "Doctorado en Comunicación",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Argentina",
+  "universidad" : "Universidad de Buenos Aires",
+  "nivel" : "Cuarto nivel",
+  "area" : "Comunicación Social",
+  "titulo" : "Doctor en Comunicación"
+  },
+  {"ci": "1706950266",
+  "apellidos" : "Rodriguez Pazmiño ",
+  "name" : "Elena Pasionaria",
+  "correo" : "e_pasio@hotmail.com",
+  "programa" : "Doctorado en Historia del Arte",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Canada",
+  "universidad" : "Universidad de Montreal",
+  "nivel" : "Cuarto nivel",
+  "area" : "Facultad de Artes",
+  "titulo" : "Doctora en Historia del Arte"
+  },
+  {"ci": "0401060389",
+  "apellidos" : "Ruiz Paspuel ",
+  "name" : "Andrés Gorki",
+  "correo" : "gorkiruiz@hotmail.com",
+  "programa" : "Doctorado en Geodesia y Geofísica",
+  "financiamiento" : "SENESCYT *1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Universidad Estatal de Pensilvania",
+  "nivel" : "Cuarto nivel",
+  "area" : "Figempa",
+  "titulo" : "Doctor en Geodesia y Geofísica"
+  },
+  {"ci": "1751118769",
+  "apellidos" : "Bibauw ",
+  "name" : "Serge",
+  "correo" : "sbibauw@gmail.com",
+  "programa" : "Doctorado en Linguística ",
+  "financiamiento" : "SENESCYT *1",
+  "pais" : "Bélgica",
+  "universidad" : "Universidad Católica de Leuven",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Linguística "
+  },
+  {"ci": "1717661316",
+  "apellidos" : "Pante Quishpe ",
+  "name" : "Marco Ricardo",
+  "correo" : "ricardo1716-marp@live.com",
+  "programa" : "Doctorado en Lingüística y Lenguas",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Argentina",
+  "universidad" : "Universidad Nacional de Rosario",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Lingüística y Lenguas"
+  },
+  {"ci": "1708261449",
+  "apellidos" : "Guerrero Suárez ",
+  "name" : "Geovanni Fabián",
+  "correo" : "guerrerogiovanny@hotmail.com",
+  "programa" : "Doctorado en Matermática",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Sevilla",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Matermática"
+  },
+  {"ci": "0101361079",
+  "apellidos" : "Vega Ugalde ",
+  "name" : "Silvia Katalina",
+  "correo" : "scvega@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Sociales Especialización en Estudios Andinos",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Ecuador",
+  "universidad" : "Flacso",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctora en Ciencias Sociales Especialización en Estudios Andinos"
+  },
+  {"ci": "1711011518",
+  "apellidos" : "García Falconí",
+  "name" : "Ramiro José",
+  "correo" : "rgarciaf@uce.edu.ec",
+  "programa" : "Doctorado en Derecho",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Sevilla",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctorado en Derecho"
+  },
+  {"ci": "1710320621",
+  "apellidos" : "Cevallos Almeida ",
+  "name" : "María Belen",
+  "correo" : "mb_ceval@hotmail.com",
+  "programa" : "Doctoradoen Ciencias de  la Vida",
+  "financiamiento" : "SENESCYT *1",
+  "pais" : "Francia",
+  "universidad" : "Universidad de Rennes 1, Programa Vie - Agro - Sante (Vas)",
+  "nivel" : "Cuarto nivel",
+  "area" : "Medicina Veterinaria y Zootecnia",
+  "titulo" : "Doctor en Ciencias de  la Vida"
+  },
+  {"ci": "1708552342",
+  "apellidos" : "Cisneros Tamayo ",
+  "name" : "Maarco Vinicio",
+  "correo" : "ve_cisne@hotmail.com",
+  "programa" : "Doctoradoen Ciencias de  la Vida",
+  "financiamiento" : "SENESCYT *1",
+  "pais" : "Francia",
+  "universidad" : "Universidad de Rennes 1, Programa Vie - Agro - Sante (Vas)",
+  "nivel" : "Cuarto nivel",
+  "area" : "Medicina Veterinaria y Zootecnia",
+  "titulo" : "Doctor en Ciencias de  la Vida"
+  },
+  {"ci": "1713266227",
+  "apellidos" : "Vinueza Burgos ",
+  "name" : "Christian Vinicio",
+  "correo" : "chrisvinue@gmail.com",
+  "programa" : "Doctorado en Ciencias Veterinarias",
+  "financiamiento" : "SENESCYT *1",
+  "pais" : "Bélgica",
+  "universidad" : "Universidad de Gante (Universidad Gent), Faculteit Diergeneeskunde, Merelbeke, Ghent",
+  "nivel" : "Cuarto nivel",
+  "area" : "Medicina Veterinaria y Zootecnia",
+  "titulo" : "Doctor  en Ciencias Veterinarias"
+  },
+  {"ci": "1708350267",
+  "apellidos" : "Martínez Benítez ",
+  "name" : "Jenny Esmeralda",
+  "correo" : "jemarb2000@yahoo.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Cultura Física",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1702450550",
+  "apellidos" : "Muñoz Simba ",
+  "name" : "Guillermo Manuel",
+  "correo" : "gmunozs@uce.edu.ec",
+  "programa" : "Doctorado en Estudios Latinoamericanos - Arquitectura, Planeamiento, Geografía y Medio Ambiente",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Universidad de Nuevo México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Arquitectura y Urbanismo",
+  "titulo" : "Doctor en Estudios Latinoamericanos - Arquitectura, Planeamiento, Geografía y Medio Ambiente"
+  },
+  {"ci": "1714076427",
+  "apellidos" : "Almeida García ",
+  "name" : "Évelyn Verónica",
+  "correo" : "evealmeida_28@hotmail.com",
+  "programa" : "Doctorado en Language, Literacy and Sociocultural Studies-English as a Second Lenguage",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Universidad de Nuevo México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Idiomas",
+  "titulo" : "Doctor en Language, Literacy and Sociocultural Studies-English as a Second Lenguage"
+  },
+  {"ci": "1718225681",
+  "apellidos" : "Nebbiai ",
+  "name" : "Martina",
+  "correo" : "martinanebbiai@hotmail.com",
+  "programa" : "Doctorado en Comunicación",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Universidad de Nuevo México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Idiomas",
+  "titulo" : "Doctor en Comunicación"
+  },
+  {"ci": "0602116741",
+  "apellidos" : "Cadena Vela ",
+  "name" : "Susana Graciela",
+  "correo" : "sgcadena@hotmail.com",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1711003309",
+  "apellidos" : "De La Torre Lascano",
+  "name" : "Carlos Mauricio",
+  "correo" : "cdelatorre@uce.edu.ec",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "1713386140",
+  "apellidos" : "Lugmania Egas ",
+  "name" : "Fabio Luis",
+  "correo" : "flugmania@uce.edu.ec",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "1704266749",
+  "apellidos" : "Toscano Vizcaino ",
+  "name" : "Silvio Alejandro",
+  "correo" : "stoscano@uce.edu.ec",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Administrativas",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "1710013143",
+  "apellidos" : "Ávila Salem",
+  "name" : "María Eugenia",
+  "correo" : "mariuavila@hotmail.com",
+  "programa" : "Doctorado en Ciencias de Recursos Naturales",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "Universidad de La Frontera",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Agrícolas",
+  "titulo" : "Doctor en Ciencias de Recursos Naturales"
+  },
+  {"ci": "1710543446",
+  "apellidos" : "Ayala Ayala ",
+  "name" : "Michael",
+  "correo" : "venan99@hotmail.com",
+  "programa" : "Doctorado en Estudios Latinoamericanos",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Universidad de Nuevo México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Agrícolas",
+  "titulo" : "Doctor en Estudios Latinoamericanos"
+  },
+  {"ci": "1801893940",
+  "apellidos" : "Cáceres Acosta ",
+  "name" : "Edwin Alfredo",
+  "correo" : "edwincaceresacosta@gmail.com",
+  "programa" : "Doctorado en Ciencias de Recursos Naturales",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "Universidad de La Frontera",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Agrícolas",
+  "titulo" : "Doctor en Ciencias de Recursos Naturales"
+  },
+  {"ci": "1711187631",
+  "apellidos" : "Cáceres Arteaga ",
+  "name" : "Dinka Nataly",
+  "correo" : "caceresnatali@hotmail.com",
+  "programa" : "Doctorado en Geografía y Estudios de Medio Ambiente",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Universidad de Nuevo México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Agrícolas",
+  "titulo" : "Doctora en Geografía y Estudios de Medio Ambiente"
+  },
+  {"ci": "1720463874",
+  "apellidos" : "Castro Muñoz",
+  "name" : "Eloy ",
+  "correo" : "ecastro@uce.edu.ec",
+  "programa" : "Doctoado en Producción Animal",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Perú",
+  "universidad" : "Universidad La Molina",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Agrícolas",
+  "titulo" : "Doctor en Producción Animal"
+  },
+  {"ci": "1801624873",
+  "apellidos" : "Montesdeoca Montesdeoca",
+  "name" : "Fabián Homero Salomón",
+  "correo" : "montesdeoca@fpapa.org.ec",
+  "programa" : "Doctorado en Ciencias de Recursos Naturales",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "Universidad de La Frontera",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Agrícolas",
+  "titulo" : "Doctor en Ciencias de Recursos Naturales"
+  },
+  {"ci": "1709501587",
+  "apellidos" : "Aceldo Gualli ",
+  "name" : "Edwin Armando",
+  "correo" : "eaceldo@uce.edu.ec",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Económicas",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "1001213931",
+  "apellidos" : "Almeida Guzmán ",
+  "name" : "Patricio Marcelino",
+  "correo" : "palmeida@uce.edu.ec",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Económicas",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "1713248258",
+  "apellidos" : "Duque Suárez ",
+  "name" : "Guido Vinicio",
+  "correo" : "gduque@uce.edu.ec",
+  "programa" : "Doctorado en Economía",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Universidad de Nuevo México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Económicas",
+  "titulo" : "Doctor en Economía"
+  },
+  {"ci": "1714945704",
+  "apellidos" : "Mejía Madrid ",
+  "name" : "Gina Susana",
+  "correo" : "ginamejiam@yahoo.es",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Económicas",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1711621563",
+  "apellidos" : "Meza Bolaños ",
+  "name" : "Doris Verónica",
+  "correo" : "dmeza@uce.edu.ec",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Económicas",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1712156684",
+  "apellidos" : "Valverde Alulema ",
+  "name" : "Francisco Xavier",
+  "correo" : "fvalverde@uce.edu.ec",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Económicas",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1707339162",
+  "apellidos" : "Calderón Layedra ",
+  "name" : "Lilian Rebeca",
+  "correo" : "lcalderon@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Programa Salud de la Comunidad",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Programa Salud de la Comunidad"
+  },
+  {"ci": "0400564779",
+  "apellidos" : "Caballero Narváez ",
+  "name" : "Henry Marcelo",
+  "correo" : "hmcaballero@uce.edu.ec",
+  "programa" : "Doctorado en Salud y Desarrollo en los Trópicos",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor Salud y Desarrollo en los Trópicos"
+  },
+  {"ci": "0101232379",
+  "apellidos" : "Carpio Sacoto ",
+  "name" : "Pablo Fernando",
+  "correo" : "pcarpio@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Programa Salud de la Comunidad",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Programa Salud de la Comunidad"
+  },
+  {"ci": "1709896292",
+  "apellidos" : "Cevallos Trujillo ",
+  "name" : "William Fernado",
+  "correo" : "wcevallos@uce.edu.ec",
+  "programa" : "Doctorado en Salud y Desarrollo en los Trópicos",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Salud y Desarrollo en los Trópicos"
+  },
+  {"ci": "1706667951",
+  "apellidos" : "Cevallos Barrera",
+  "name" : "Edwin Efren",
+  "correo" : "ecevallos@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Cirugía",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Cirugía"
+  },
+  {"ci": "1709793549",
+  "apellidos" : "Chang Huang Palacios",
+  "name" : "Victoria Nohemi",
+  "correo" : "vnchanghuang@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Clínica Médica",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Clínica Médica"
+  },
+  {"ci": "0502164817",
+  "apellidos" : "Durán Chávez ",
+  "name" : "José Augusto",
+  "correo" : "jaduran@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas -Ginecología y Obstetricia ",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas -Ginecología y Obstetricia "
+  },
+  {"ci": "1705149548",
+  "apellidos" : "Dueñas Matute ",
+  "name" : "Susana Eulalia",
+  "correo" : "seduenas@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Programa Salud de la Comunidad",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Programa Salud de la Comunidad"
+  },
+  {"ci": "0200379212",
+  "apellidos" : "Espinoza Del Pozo ",
+  "name" : "Patricio Héctor Aurelio",
+  "correo" : "hespinosa@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Clínica Médica",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Clínica Médica"
+  },
+  {"ci": "0500907845",
+  "apellidos" : "Espín Villamarín ",
+  "name" : "Luis Gerardo",
+  "correo" : "lespin@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Morfológicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "Universidad La Frontera",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Morfológicas"
+  },
+  {"ci": "0501072862",
+  "apellidos" : "Fonseca",
+  "name" : "Milton",
+  "correo" : "rfonseca@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas"
+  },
+  {"ci": "1705901799",
+  "apellidos" : "Fuen Mayor ",
+  "name" : "Guillermo",
+  "correo" : "gfuenmayor@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Cirugía",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Cirugía"
+  },
+  {"ci": "1709640518",
+  "apellidos" : "Galarza Altamirano Ivan Wladimir",
+  "name" : "Ivan Wladimir",
+  "correo" : "igalarza@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas"
+  },
+  {"ci": "1710803998",
+  "apellidos" : "Galarza Pérez ",
+  "name" : "Jorge",
+  "correo" : "jmperez@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Inmunología",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Inmunología"
+  },
+  {"ci": "1101941837",
+  "apellidos" : "Guamán Gualpa ",
+  "name" : "William Milian",
+  "correo" : "wguaman@uce.edu.ec",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "0501865117",
+  "apellidos" : "Guanotasig Villamarín ",
+  "name" : "José Alexandro",
+  "correo" : "jguanotasig@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Clínica Médica",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Clínica Médica"
+  },
+  {"ci": "0400579553",
+  "apellidos" : "Guerrero Figueroa ",
+  "name" : "Marco Aurelio",
+  "correo" : "aguerrero@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Morfológicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "Universidad La Frontera",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Morfológicas"
+  },
+  {"ci": "0102935392",
+  "apellidos" : "Larriva Villareal ",
+  "name" : "Fabiola Elizabeth",
+  "correo" : "felarriva@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Clínica Médica",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Clínica Médica"
+  },
+  {"ci": "1709687642",
+  "apellidos" : "León Valdivieso ",
+  "name" : "Wilfrido",
+  "correo" : "wleon@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas: Programa Ginecología y Obstetricia",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas: Programa Ginecología y Obstetricia"
+  },
+  {"ci": "1707160998",
+  "apellidos" : "Luzuriaga Morejón ",
+  "name" : "Sandra Irina",
+  "correo" : "sluzuriaga@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Clínica Médica",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Clínica Médica"
+  },
+  {"ci": "1709765430",
+  "apellidos" : "Maldonado Dávila",
+  "name" : "Fernando Xavier",
+  "correo" : "elxavito72@hotmail.com",
+  "programa" : "Doctorado en Ciencias Médicas - Programa Salud de la Comunidad",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Programa Salud de la Comunidad"
+  },
+  {"ci": "1717600157",
+  "apellidos" : "Mena Ayala ",
+  "name" : "María Belén",
+  "correo" : "mbmena@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Programa Salud de la Comunidad",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Programa Salud de la Comunidad"
+  },
+  {"ci": "1708390990",
+  "apellidos" : "Mendoza Orquera ",
+  "name" : "Alicia Guadalupe",
+  "correo" : "amendoza@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto - Cirugía",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas"
+  },
+  {"ci": "1708224025",
+  "apellidos" : "Oviedo Ramirez",
+  "name" : "Marlon Alexis",
+  "correo" : "marlonoviedo68@hotmail.com",
+  "programa" : "Doctorado en Ciencias Médicas: Genética",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas: Genética"
+  },
+  {"ci": "1707783641",
+  "apellidos" : "Zúñiga Carrasco",
+  "name" : "Washington Vicente",
+  "correo" : "wzuñiga@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas: Otorrinolaringología",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas: Otorrinolaringología"
+  },
+  {"ci": "1719843839",
+  "apellidos" : "Pereira Olmos ",
+  "name" : "Hugo ",
+  "correo" : "hugo.pereira.olmos@gmail.com",
+  "programa" : "Doctorado en Ciencias Médicas: Programa Salud en la Comunidad",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctoren Ciencias Médicas: Programa Salud en la Comunidad"
+  },
+  {"ci": "1708065097",
+  "apellidos" : "Perez Galarza ",
+  "name" : "Jorge Manuel",
+  "correo" : "jorgempgalarza@msn.com",
+  "programa" : "Doctorado en Ciencias Médicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas"
+  },
+  {"ci": "1708065097",
+  "apellidos" : "Ponce Jarrín ",
+  "name" : "Fredy Alberto",
+  "correo" : "fponce@uce.edu.ec",
+  "programa" : "Doctorado en Salud y Desarrollo en los Trópicos",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Salud y Desarrollo en los Trópicos"
+  },
+  {"ci": "1707312995",
+  "apellidos" : "Rivera Buse",
+  "name" : "José Estefano",
+  "correo" : "jerivera@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Programa Clínica Médica",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Programa Clínica Médica"
+  },
+  {"ci": "1718027053",
+  "apellidos" : "Rojas Velasco ",
+  "name" : "Giovanny Wladimir",
+  "correo" : "drgiovannirojas@hotmail.com",
+  "programa" : "Doctorado en Ciencias Médicas Programa Salud en la Comunidad",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas Programa Salud en la Comunidad"
+  },
+  {"ci": "1801139351",
+  "apellidos" : "Romo Castillo ",
+  "name" : "Hugo Fernado",
+  "correo" : "hfromo@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Clínica Médica",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Clínica Médica"
+  },
+  {"ci": "1706944848",
+  "apellidos" : "Rosero Escalante ",
+  "name" : "Annabelle Mireya Alexandra",
+  "correo" : "amrosero@uce.edu.ec",
+  "programa" : "Doctorado en Salud y Desarrollo en los Trópicos",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Salud y Desarrollo en los Trópicos"
+  },
+  {"ci": "1002039574",
+  "apellidos" : "Salazar Lozano ",
+  "name" : "Hugo Esteban",
+  "correo" : "hsalazar@uce.edu.ec",
+  "programa" : "Doctorado en Salud y Desarrollo en los Trópicos",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Salud y Desarrollo en los Trópicos"
+  },
+  {"ci": "1706289004",
+  "apellidos" : "Torres Guaicha",
+  "name" : "Máximo Vicente",
+  "correo" : "vtorres@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto - Cirugía",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor  en Ciencias Médicas"
+  },
+  {"ci": "1710986348",
+  "apellidos" : "Torres Noboa ",
+  "name" : "Nidian Judith",
+  "correo" : "njtorres@uce.edu.ec",
+  "programa" : "Doctorado en Salud y Desarrollo en los Trópicos",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Salud y Desarrollo en los Trópicos"
+  },
+  {"ci": "1706581954",
+  "apellidos" : "Torres Serrano ",
+  "name" : "Carlos Wladimir",
+  "correo" : "ctorres@uce.edu.ec",
+  "programa" : "Doctorado en Salud y Desarrollo en los Trópicos",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Salud y Desarrollo en los Trópicos"
+  },
+  {"ci": "1713037602",
+  "apellidos" : "Vasco Morales ",
+  "name" : "Santiago Noe",
+  "correo" : "svasco@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Programa Pediatría",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Programa Pediatría"
+  },
+  {"ci": "1705879565",
+  "apellidos" : "Vega Villalba ",
+  "name" : "Blanca Yolanda",
+  "correo" : "bvega@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas"
+  },
+  {"ci": "1705627204",
+  "apellidos" : "Vélez ",
+  "name" : "Jorge Washington",
+  "correo" : "jvelez@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Pediatría",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Pediatría"
+  },
+  {"ci": "1705404679",
+  "apellidos" : "Villa Rosero",
+  "name" : "Carmen Yolanda ",
+  "correo" : "cvilla@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Ginecología y Obstetricia",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctorado en Ciencias Médicas - Ginecología y Obstetricia"
+  },
+  {"ci": "1707581441",
+  "apellidos" : "Yajamin Guanoluisa ",
+  "name" : "Roberto Eduardo",
+  "correo" : "reyajamin@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Programa Salud de la Comunidad",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Programa Salud de la Comunidad"
+  },
+  {"ci": "1713450003",
+  "apellidos" : "Yánez Marcayata ",
+  "name" : "Pablo Andrés",
+  "correo" : "pyanez@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Médicas - Ginecología y Obstetricia",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidad de Riberao Preto",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Médicas",
+  "titulo" : "Doctor en Ciencias Médicas - Ginecología y Obstetricia"
+  },
+  {"ci": "1717480246",
+  "apellidos" : "Álvarez Lalvay ",
+  "name" : "Eddy Jhonny",
+  "correo" : "ejalvarez@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Odontológicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Ciencias Odontológicas"
+  },
+  {"ci": "1713108783",
+  "apellidos" : "Álvarez Velasco",
+  "name" : "Patricia de Lourdes",
+  "correo" : "pattyluav@hotmail.com",
+  "programa" : "Doctorado en Ciencias Odontológicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Ciencias Odontológicas"
+  },
+  {"ci": "1713718656",
+  "apellidos" : "Balseca Ibarra ",
+  "name" : "Eliana Guadalupe",
+  "correo" : "elianis56@hotmail.com",
+  "programa" : "Doctorado en Ciencias Odontológicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Ciencias Odontológicas"
+  },
+  {"ci": "1713718664",
+  "apellidos" : "Balseca Ibarra ",
+  "name" : "Mariela Cumandá",
+  "correo" : "marielabalsecai@yahoo.com",
+  "programa" : "Doctorado en Ciencias Odontológicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Ciencias Odontológicas"
+  },
+  {"ci": "0602310377",
+  "apellidos" : "Cascante Calderón ",
+  "name" : "Marcelo Gevanny",
+  "correo" : "cascantemarcelo@yahoo.com",
+  "programa" : "Doctorado en Biomateriales/Biología Oral",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Biomateriales/Biología Oral"
+  },
+  {"ci": "603440199",
+  "apellidos" : "Cepeda Inca ",
+  "name" : "Héctor Eduardo",
+  "correo" : "educepeda@hotmail.com",
+  "programa" : "Doctorado en  Dentística",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Dentística"
+  },
+  {"ci": "1711885333",
+  "apellidos" : "Cevallos González ",
+  "name" : "Fabricio Marcelo",
+  "correo" : "faceg78@hotmail.com",
+  "programa" : "Doctorado en  Dentística",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctorado en Dentista"
+  },
+  {"ci": "1706944301",
+  "apellidos" : "Coloma Valverde ",
+  "name" : "Alba Narcisa de Jesús",
+  "correo" : "narcicoloma@yahoo.com",
+  "programa" : "Doctorado en Ciencias Odontológicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Ciencias Odontológicas"
+  },
+  {"ci": "1712746823",
+  "apellidos" : "Espinosa Torres ",
+  "name" : "Erika Elizabeth",
+  "correo" : "endo_erika@hotmail.com",
+  "programa" : "Doctorado en Dentistica",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Dentista"
+  },
+  {"ci": "1706727649",
+  "apellidos" : "García Merino ",
+  "name" : "Ivan Ricardo",
+  "correo" : "ivangarch@punto.net.ec",
+  "programa" : "Doctorado en Ciencias Odontológicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor  en Ciencias Odontológicas"
+  },
+  {"ci": "1311645095",
+  "apellidos" : "Garrido Cisneros",
+  "name" : "Ángel Eduardo",
+  "correo" : "edugarric@hotmail.com",
+  "programa" : "Doctorado en Biomateriales/Biología Oral",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Biomateriales/Biología Oral"
+  },
+  {"ci": "1311645095",
+  "apellidos" : "Garrido Villavicencio ",
+  "name" : "Pablo Rubén ",
+  "correo" : "pgv41986@hotmail.com",
+  "programa" : "Doctorado en Dentistica",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Dentista"
+  },
+  {"ci": "1714465976",
+  "apellidos" : "Guillen Guillen ",
+  "name" : "Raquel Esmeralda",
+  "correo" : "kela78@hotmail.com",
+  "programa" : "Doctorado en Dentística",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Dentística"
+  },
+  {"ci": "1717344566",
+  "apellidos" : "Hidalgo Araujo ",
+  "name" : "Paola Daniela",
+  "correo" : "danielahidalgoaraujo@yahoo.com",
+  "programa" : "Doctorado en Dentística",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Dentística"
+  },
+  {"ci": "1708044639",
+  "apellidos" : "Lanas Terán ",
+  "name" : "Guillermo Alberto",
+  "correo" : "guillermolanas@gmail.com",
+  "programa" : "Doctorado en Ciencias Odontológicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Ciencias Odontológicas"
+  },
+  {"ci": "1801752526",
+  "apellidos" : "López Ríos ",
+  "name" : "Edisson Fernando",
+  "correo" : "edilopez33@hotmail.com",
+  "programa" : "Doctorado en Ciencias Odontológicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Ciencias Odontológicas"
+  },
+  {"ci": "1707810972",
+  "apellidos" : "Medina Vega ",
+  "name" : "Marco Vinicio",
+  "correo" : "marcomedina@yahoo.es",
+  "programa" : "Doctorado en Ciencias Odontológicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Ciencias Odontológicas"
+  },
+  {"ci": "104147137",
+  "apellidos" : "Moreno Puente ",
+  "name" : "María Monserratte",
+  "correo" : "monsemoreno75@hotmail.com",
+  "programa" : "Doctorado en Dentística",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Rentística"
+  },
+  {"ci": "1704539756",
+  "apellidos" : "Navarrete Angulo ",
+  "name" : "Nilda Eugenia",
+  "correo" : "nildan@uio.telconet.net",
+  "programa" : "Doctorado en Dentistica",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Dentista"
+  },
+  {"ci": "1713292041",
+  "apellidos" : "Paltas Miranda ",
+  "name" : "Mayra Elizabeth",
+  "correo" : "mayelhy9@hotmail.com",
+  "programa" : "Doctorado en Ciencias Odontológicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Ciencias Odontológicas"
+  },
+  {"ci": "1711720019",
+  "apellidos" : "Quel Carlosama ",
+  "name" : "Franklin Eduardo",
+  "correo" : "franklinquelc@hotmail.com",
+  "programa" : "Doctorado en Dentistica",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Dentista"
+  },
+  {"ci": "1102985262",
+  "apellidos" : "Quezada Conde ",
+  "name" : "Maritza Del Carmen",
+  "correo" : "maritzaqc@hotmail.com",
+  "programa" : "Doctorado en Ciencias Odontológicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Ciencias Odontológicas"
+  },
+  {"ci": "1803111416",
+  "apellidos" : "Real López ",
+  "name" : "Blanca Emperatriz",
+  "correo" : "blanquereal@hotmail.com",
+  "programa" : "Doctorado en Biomateriales/Biología Oral",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Biomateriales/Biología Oral"
+  },
+  {"ci": "1714332382",
+  "apellidos" : "Romero Cazares ",
+  "name" : "Roberto Xavier",
+  "correo" : "roberto_romero@hotmail.com",
+  "programa" : "Doctorado en Dentististica",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Dentista"
+  },
+  {"ci": "1716604440",
+  "apellidos" : "Sigcho López",
+  "name" : "Diego Antonio",
+  "correo" : "diegosigcho@usp.br",
+  "programa" : "Doctorado en Ciencias Odontológicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Ciencias Odontológicas"
+  },
+  {"ci": "1711361871",
+  "apellidos" : "Vallejo Rosero ",
+  "name" : "Kléver Arturo",
+  "correo" : "eduardoaragon@yahoo.com",
+  "programa" : "Doctorado en Ciencias Odontológicas",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Ciencias Odontológicas"
+  },
+  {"ci": "1713984076",
+  "apellidos" : "Villacís Altamirano ",
+  "name" : "Inés María",
+  "correo" : "inehadadelosdientes@gmail.com",
+  "programa" : "Doctorado en Biomateriales y Biología Oral",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor en Biomateriales y Biología Oral"
+  },
+  {"ci": "1708118854",
+  "apellidos" : "Zurita Solís ",
+  "name" : "Myriam Katherine",
+  "correo" : "kathy1zurita@hotmail.com",
+  "programa" : "Doctorado en Biomateriales/Biología Oral",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Brasil",
+  "universidad" : "Universidd de Sao Paulo",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Odontológicas",
+  "titulo" : "Doctor  en Biomateriales/Biología Oral"
+  },
+  {"ci": "1001714953",
+  "apellidos" : "Landeta Bejarano ",
+  "name" : "Luis Gonzalo",
+  "correo" : "luislandeta2000@hotmail.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ciencias Psicológicas",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1710938158",
+  "apellidos" : "Fernández Vela ",
+  "name" : "Monserrat Anrea",
+  "correo" : "mafernandez@uce.edu.ec",
+  "programa" : "Doctorado en Estudios Latinoamericanos con Especialidad en Comunicación",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Universidad de Nuevo México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Comunicación Social",
+  "titulo" : "Doctor en Estudios Latinoamericanos con Especialidad en Comunicación"
+  },
+  {"ci": "0601865561",
+  "apellidos" : "López Milan ",
+  "name" : "Fernando Marcelo",
+  "correo" : "flopez@uce.edu.ec",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Comunicación Social",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "1710104629",
+  "apellidos" : "Andrade Torres ",
+  "name" : "Marco Xavier",
+  "correo" : "xavier.andrade@hotmail.es",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "0501876957",
+  "apellidos" : "Arias Balarezo ",
+  "name" : "Ana Lucía ",
+  "correo" : "al_arias_b@yahoo.es",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "0801551052",
+  "apellidos" : "Barreno Freire ",
+  "name" : "Segundo Napoleón",
+  "correo" : "segbarr70@hotmail.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1706272521",
+  "apellidos" : "Cadena Villota ",
+  "name" : "Juan Ramón",
+  "correo" : "juanrc777@gmail.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "0501399380",
+  "apellidos" : "Caizapanta Puruncajas ",
+  "name" : "Cristóbal Geovanny",
+  "correo" : "wgeovac@hotmail.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1707037477",
+  "apellidos" : "Calderón Guevara ",
+  "name" : "Carlos Manuel",
+  "correo" : "chekalberto@yahoo.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1708511090",
+  "apellidos" : "Cargua García ",
+  "name" : "Nancy Isabel",
+  "correo" : "ncarguag@yahoo.es",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "0401370416",
+  "apellidos" : "Cazares Valdivieso ",
+  "name" : "José Luis",
+  "correo" : "jlcazares@uce.edu.ec",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1711570554",
+  "apellidos" : "Cobos Velasco ",
+  "name" : "Juan Carlos",
+  "correo" : "carlos_uce11@hotmail.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1708260763",
+  "apellidos" : "Haro Jácome ",
+  "name" : "Oswaldo Fabián",
+  "correo" : "osfaroja@gmail.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "0400627170",
+  "apellidos" : "Jiménez Ayala ",
+  "name" : "Carlos Édison",
+  "correo" : "cjimeneza@hotmail.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "0601530199",
+  "apellidos" : "Logroño",
+  "name" : "Mercy Julieta",
+  "correo" : "mjlogrono@uce.edu.ec",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1704893765",
+  "apellidos" : "Naranjo Pinto",
+  "name" : "Jorge Alberto",
+  "correo" : "narjorge@gmail.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1704288040",
+  "apellidos" : "Ortega Sandoval ",
+  "name" : "Virginia Narcisa",
+  "correo" : "virortsan@hotmail.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1707768204",
+  "apellidos" : "Palacios Terán ",
+  "name" : "Galo Alejandro",
+  "correo" : "galopalacios78@gmail.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1712427879",
+  "apellidos" : "Pérez Narváez ",
+  "name" : "Hamilton Omar",
+  "correo" : "hamioperezn@hotmail.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "0501019756",
+  "apellidos" : "Reinoso Pacheco ",
+  "name" : "Ramiro Alberto",
+  "correo" : "ramiroreinosopacheco@gmail.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "0501105464",
+  "apellidos" : "Rojas Avilés",
+  "name" : "Héctor Francisco",
+  "correo" : "panchito602003@yahoo.es",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1713764841",
+  "apellidos" : "Rojas Viteri ",
+  "name" : "Juan Carlos",
+  "correo" : "jrojas@uce.edu.ec",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1711518090",
+  "apellidos" : "Romo Maroto ",
+  "name" : "Pablo Eduardo",
+  "correo" : "promo@uce.edu.ec",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1710449768",
+  "apellidos" : "Sierra Pazmiño ",
+  "name" : "Diego Xavier",
+  "correo" : "xavierscompudex@gmail.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1710732767",
+  "apellidos" : "Simbaña Cabrera ",
+  "name" : "Héctor Alfonso",
+  "correo" : "hector-1969@hotmail.es",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1711768224",
+  "apellidos" : "Taramuel Villacreces ",
+  "name" : "James Alduber",
+  "correo" : "jtaramuel@uce.edu.ec",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1711699593",
+  "apellidos" : "Delgado Araujo ",
+  "name" : "Alejandro Javier",
+  "correo" : "alejjavierdelgado@yahoo.com",
+  "programa" : "Doctorado en Ingeniería",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Universidad de Nuevo México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería Química",
+  "titulo" : "Doctor en Ingeniería"
+  },
+  {"ci": "1712454063",
+  "apellidos" : "Albuja Proaño ",
+  "name" : "Guillermo Alexis",
+  "correo" : "gaalbuja@uce.edu.ec",
+  "programa" : "Doctorado en Matemática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "La Fronteta",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Matemática"
+  },
+  {"ci": "1306194810",
+  "apellidos" : "Andrade Bazurto ",
+  "name" : "Alicia Lorena",
+  "correo" : "aandrade@uce.edu.ec",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1704736261",
+  "apellidos" : "Arroba Rimassa ",
+  "name" : "Jorge Luciana",
+  "correo" : "jarroba@uce.edu.ec",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1713049862",
+  "apellidos" : "Atarihuana Ayala",
+  "name" : "Yasmina Fernanda",
+  "correo" : "jatarihuana@uce.edu.ec",
+  "programa" : "Doctorado en Matemática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "La Fronteta",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Matemática"
+  },
+  {"ci": "1711916088",
+  "apellidos" : "Borja Borja ",
+  "name" : "Luis Felipe",
+  "correo" : "lborja@uce.edu.ec",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1803221389",
+  "apellidos" : "Caina Aysabucha ",
+  "name" : "Darwin Rodolfo",
+  "correo" : "dcaina@uce.edu.ec",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1708459118",
+  "apellidos" : "Campuzano Gonzalo ",
+  "name" : "Gonzalo Bayardo",
+  "correo" : "gcampuzano@uce.edu.ec",
+  "programa" : "Doctorado en Matemática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "La Fronteta",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor  en Matemática"
+  },
+  {"ci": "1710215573",
+  "apellidos" : "Chicaiza Imbago ",
+  "name" : "Vicente Ramiro",
+  "correo" : "vrchi@yahoo.com",
+  "programa" : "Doctorado en Matemática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "La Fronteta",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Matemática"
+  },
+  {"ci": "1708600240",
+  "apellidos" : "Enriquez Reyes ",
+  "name" : "Robert Arturo",
+  "correo" : "renriquez@uce.edu.ec",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1001714177",
+  "apellidos" : "García Navas ",
+  "name" : "Juan Carlos",
+  "correo" : "jgarcian@uce.edu.ec",
+  "programa" : "Doctorado en Matemática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "La Fronteta",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Matemática"
+  },
+  {"ci": "1711999704",
+  "apellidos" : "González Hernandez",
+  "name" : "Galo Javier",
+  "correo" : "gjgonzalez@uce.edu.ec",
+  "programa" : "Doctorado en Matemática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "La Fronteta",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Matemática"
+  },
+  {"ci": "1708977796",
+  "apellidos" : "Guerrero Gallardo ",
+  "name" : "Héctor Ivan",
+  "correo" : "hectorguerrerog@hotmail.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1712874963",
+  "apellidos" : "Herrera Flores ",
+  "name" : "Boris Enrique",
+  "correo" : "herrera_boris@hotmail.com",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1710545813",
+  "apellidos" : "Izurieta Cabrera ",
+  "name" : "Carlos Fabián",
+  "correo" : "cizurieta@uce.edu.ec",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1704858941",
+  "apellidos" : "Ledesma Silva ",
+  "name" : "Yolanda Eperanza",
+  "correo" : "yledesma@uce.edu.ec",
+  "programa" : "Doctorado en Estudios Latinoamericanos con Concentración en Administración Internacional y Economía",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Nuevo México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor  en Estudios Latinoamericanos con Concentración en Administración Internacional y Economía"
+  },
+  {"ci": "1714444245",
+  "apellidos" : "Lima Guamán ",
+  "name" : "Paulina Rosana",
+  "correo" : "prlima@uce.edu.ec",
+  "programa" : "Doctorado en Ingeniería Civil",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Nuevo México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Ingeniería Civil"
+  },
+  {"ci": "0802110353",
+  "apellidos" : "Mendoza Tello ",
+  "name" : "Julio César",
+  "correo" : "jcesarmendoza@hotmail.com",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1707979934",
+  "apellidos" : "Morales Cardoso ",
+  "name" : "Santiago Leonardo",
+  "correo" : "smorales@uce.edu.ec",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "0801578121",
+  "apellidos" : "Naula Reina ",
+  "name" : "Ivan Cristian",
+  "correo" : "icnaula@uce.edu.ec",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1712440658",
+  "apellidos" : "Rodríguez Bravo ",
+  "name" : "Fausto Alejandro",
+  "correo" : "faustoarodriguez@hotmail.com",
+  "programa" : "Doctorado en Transportes, Ingeniería Civil",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Universidad de Nuevo México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Transportes, Ingeniería Civil"
+  },
+  {"ci": "1711642965",
+  "apellidos" : "Rosas Lara",
+  "name" : "Mauro Leonardo",
+  "correo" : "mrosas@uce.edu.ec",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1711926558",
+  "apellidos" : "Ruiz Chavez ",
+  "name" : "Zoila de Lourdes",
+  "correo" : "zruiz@uce.edu.ec",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1002437521",
+  "apellidos" : "Salvador Meneses ",
+  "name" : "Jaime Oswaldo",
+  "correo" : "jsalvador@uce.edu.ec",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1709825606",
+  "apellidos" : "Santamaría Carrera ",
+  "name" : "Jorge Luis",
+  "correo" : "jsantamaria@uce.edu.ec",
+  "programa" : "Doctorado en Ingeniería Civil",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Universidad de Nuevo México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Ingeniería Civil"
+  },
+  {"ci": "1305260265",
+  "apellidos" : "Toala Sanchez ",
+  "name" : "Glenda Marilu",
+  "correo" : "gtoala@uce.edu.ec",
+  "programa" : "Doctorado en Informática",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Informática"
+  },
+  {"ci": "1704418662",
+  "apellidos" : "Albornoz Jaime  ",
+  "name" : "César Alfaro",
+  "correo" : "cesaralbornozj@yahoo.com",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "1802543601",
+  "apellidos" : "Almeida Lema ",
+  "name" : "Laddy Karina",
+  "correo" : "palzamora@cablemodem.com.ec",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "0400630596",
+  "apellidos" : "Argoti Reyes ",
+  "name" : "Edwin Manuel",
+  "correo" : "eargoti@uce.edu.ec",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "0400554606",
+  "apellidos" : "Benavides Benalcazar ",
+  "name" : "Merck Milko",
+  "correo" : "merck58@yahoo.es",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "0201287513",
+  "apellidos" : "Cáliz Ramos ",
+  "name" : "Henry Mardoqueo",
+  "correo" : "calizasociados@hotmail.com",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "0400472973",
+  "apellidos" : "Castro Orbe ",
+  "name" : "Rubén Darío",
+  "correo" : "rcastro@uce.edu.ec",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "1715365936",
+  "apellidos" : "Córdova Alarcon ",
+  "name" : "Luis Carlos",
+  "correo" : "lucordova777@gmail.com",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "1707334098",
+  "apellidos" : "Gavilánez Ron ",
+  "name" : "Luis Patricio",
+  "correo" : "patogavilanes@hotmail.com",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctor  en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "1706882980",
+  "apellidos" : "Reyes Merizalde ",
+  "name" : "Lenin Fidel",
+  "correo" : "leninfreyes@hotmail.com",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctor  en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "0400667515",
+  "apellidos" : "Rivadeneira Guijarro",
+  "name" : "Jaime Giovanny",
+  "correo" : "grivadeneirag@yahoo.com.mx",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "1001041571",
+  "apellidos" : "Sánchez Padilla ",
+  "name" : "Edwin Patricio",
+  "correo" : "psanchez@uce.edu.ec",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "1001335445",
+  "apellidos" : "Terán Suarez",
+  "name" : "Roman José Luis",
+  "correo" : "jostersua@hotmail.com",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctor en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "0102342573",
+  "apellidos" : "Zapata Carpio ",
+  "name" : "Hugo Alexander",
+  "correo" : "hazapata@uce.edu.ec",
+  "programa" : "Doctorado en Estado, Derecho y Gobernanza Global",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Salamanca",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctor  en Estado, Derecho y Gobernanza Global"
+  },
+  {"ci": "1708977796",
+  "apellidos" : "Guerrero Gallardo ",
+  "name" : "Héctor Ivan",
+  "correo" : "hectorguerrerog@hotmail.com",
+  "programa" : "Doctorado en Investigación Educativa",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Alicante",
+  "nivel" : "Cuarto nivel",
+  "area" : "Cultura Física",
+  "titulo" : "Doctor en Investigación Educativa"
+  },
+  {"ci": "1710234509",
+  "apellidos" : "Yánez García",
+  "name" : "Sofia Catalina",
+  "correo" : "scyanez@uce.edu.ec",
+  "programa" : "Doctorado en Literatura",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Ecuador",
+  "universidad" : "Universidad Andina Simón Bolívar",
+  "nivel" : "Cuarto nivel",
+  "area" : "Comunicación Social",
+  "titulo" : "Doctor en Literatura"
+  },
+  {"ci": "1103688394",
+  "apellidos" : "Carrión Saanchez",
+  "name" : "Diego Alejandro",
+  "correo" : "dcarrionrn@gmail.com",
+  "programa" : "Doctorado en Ciencias Sociales",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Argentina",
+  "universidad" : "Universidad Nacional de la Plata",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctor en Ciencias Sociales "
+  },
+  {"ci": "0602360216",
+  "apellidos" : "Cevallos Moscoso",
+  "name" : "Liliana Monserrath",
+  "correo" : "lilylinda76@hotmail.com",
+  "programa" : "Doctorado en Educación",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Venezuela",
+  "universidad" : "Universidad Católica Andrés Bello",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctora en educación"
+  },
+  {"ci": "501455711",
+  "apellidos" : "Racines Cabrera",
+  "name" : "Martha Germania",
+  "correo" : "martha_r65@hotmail.com",
+  "programa" : "Doctorado en Eduación",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Venezuela",
+  "universidad" : "Universidad Católica Andrés Bello",
+  "nivel" : "Cuarto nivel",
+  "area" : "Jurisprudencia, Ciencias Políticas y Sociales",
+  "titulo" : "Doctora en educación"
+  },
+  {"ci": "1716588023",
+  "apellidos" : "Velasco Rivera",
+  "name" : "Carmen Adela",
+  "correo" : "carmen_adela@hotmail.com",
+  "programa" : "Doctorado en Ingeniería Civil y Ambiental",
+  "financiamiento" : "Beca/gobierno Mexicano*1",
+  "pais" : "Estados Unidos",
+  "universidad" : "Universidad de Nuevo México",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctora en Ingeniería civil y ambiental"
+  },
+  {"ci": "701596140",
+  "apellidos" : "Moncada Landeta",
+  "name" : "Néstor Raúl",
+  "correo" : "nrmoncada@uce.edu.ec",
+  "programa" : "Doctorado en Ciencias Sociales",
+  "financiamiento" : "FLACSO *2",
+  "pais" : "Ecuador",
+  "universidad" : "Facultad Latinoamericana de Ciencias Sociales",
+  "nivel" : "Cuarto nivel",
+  "area" : "Comunicación Social",
+  "titulo" : "Doctor en Ciencias Sociales"
+  },
+  {"ci": "1708183593",
+  "apellidos" : "Benalcazar Galarza",
+  "name" : "Milton Eduardo",
+  "correo" : "benalcazarmilton@gmail.com",
+  "programa" : "Doctorado en Educación",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Venezuela",
+  "universidad" : "Universidad Católica Andrés Bello",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Educación"
+  },
+  {"ci": "1713405767",
+  "apellidos" : "Borja López",
+  "name" : "Yolanda Azucena",
+  "correo" : "yoli.borja@gmail.com",
+  "programa" : "Doctorado en Educación",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Venezuela",
+  "universidad" : "Universidad Católica Andrés Bello",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctora en Educación"
+  },
+  {"ci": "1706830617",
+  "apellidos" : "Cevallos Mejía",
+  "name" : "Jazmín Adriana",
+  "correo" : "yacevallos@uce.edu.ec",
+  "programa" : "Doctorado en Educación",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Venezuela",
+  "universidad" : "Universidad Católica Andrés Bello",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctora en Educación"
+  },
+  {"ci": "1713552147",
+  "apellidos" : "Figueroa Cepeda",
+  "name" : "Helen Iveth",
+  "correo" : "elenaisable75@gmail.com",
+  "programa" : "Doctorado en Educación",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Venezuela",
+  "universidad" : "Universidad Católica Andrés Bello",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctora en Educación"
+  },
+  {"ci": "502359722",
+  "apellidos" : "Gutierrez Constante",
+  "name" : "Gonzalo Federico",
+  "correo" : "gutierrezconstante@yahoo.com",
+  "programa" : "Doctorado en Educación",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Venezuela",
+  "universidad" : "Universidad Católica Andrés Bello",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Educación"
+  },
+  {"ci": "1710258524",
+  "apellidos" : "Intriago Ugalde",
+  "name" : "Bismarck Nelson",
+  "correo" : "bismarckintriago@gmail.com",
+  "programa" : "Doctorado en Educación",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Venezuela",
+  "universidad" : "Universidad Católica Andrés Bello",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Educación"
+  },
+  {"ci": "1001353505",
+  "apellidos" : "Meza Bolaños ",
+  "name" : "Reinaldo Elías",
+  "correo" : "cdiciem@hotmail.com",
+  "programa" : "Doctorado en Educación",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Venezuela",
+  "universidad" : "Universidad Católica Andrés Bello",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Educación"
+  },
+  {"ci": "1716296783",
+  "apellidos" : "Muñoz Correa",
+  "name" : "Karlita Elizabeth",
+  "correo" : "kemc1980@hotmail.com",
+  "programa" : "Doctorado en Educación",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Venezuela",
+  "universidad" : "Universidad Católica Andrés Bello",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctora en Educación"
+  },
+  {"ci": "1703098895",
+  "apellidos" : "Paez Granja",
+  "name" : "Ruth Erriqueta",
+  "correo" : "repaez5g@hotmail.com",
+  "programa" : "Doctorado en Educación",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Venezuela",
+  "universidad" : "Universidad Católica Andrés Bello",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctora en Educación"
+  },
+  {"ci": "1712191103",
+  "apellidos" : "Zavala Urquizo",
+  "name" : "Diego Fernando",
+  "correo" : "diegofzabal@hotmail.com",
+  "programa" : "Doctorado en Educación",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Venezuela",
+  "universidad" : "Universidad Católica Andrés Bello",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctor en Educación"
+  },
+  {"ci": "1715366108",
+  "apellidos" : "León Navarrete",
+  "name" : "Marco Marcelo",
+  "correo" : "psiquemarcelo_ankara@outlook.es",
+  "programa" : "Doctorado en Psicología",
+  "financiamiento" : "Beca/gobierno Mexicano*1",
+  "pais" : "México",
+  "universidad" : "Universidad de Guadalajara",
+  "nivel" : "Cuarto nivel",
+  "area" : "Psicología",
+  "titulo" : "Doctor en Psicología"
+  },
+  {"ci": "1709300295",
+  "apellidos" : "Castillo Cabay",
+  "name" : "Luis Cornelio",
+  "correo" : "lcastillo@cimat.mx",
+  "programa" : "Doctorado en Matemática",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Sevilla",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctor en Matemática"
+  },
+  {"ci": "1756591846",
+  "apellidos" : "Almagro Blanco ",
+  "name" : "Pedro",
+  "correo" : "palmagroblanco@gmail.com",
+  "programa" : "Doctorado en Lógica Computación e inteligencia artificial ",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Sevilla",
+  "nivel" : "Cuarto nivel",
+  "area" : "Ingeniería, Ciencias Físicas y Matemática",
+  "titulo" : "Doctorado en Lógica Computación e inteligencia artificial "
+  },
+  {"ci": "1708608037",
+  "apellidos" : "Pachacama Mayorga",
+  "name" : "Sandra Elizabeth",
+  "correo" : "sandra.edu2012@hotmail.es",
+  "programa" : "Doctorado en Humanidades y Artes ",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Argentina",
+  "universidad" : "Universidad Nacional del Rosario ",
+  "nivel" : "Cuarto nivel",
+  "area" : "Filosofía, Letras y Ciencias de la Educación",
+  "titulo" : "Doctorado en Humanidades y Artes "
+  },
+  {"ci": "1708608037",
+  "apellidos" : "Farinango Cabezas",
+  "name" : "Luís Ernesto ",
+  "correo" : "lefarinango@hotmail.com",
+  "programa" : "Doctorado en Ciencias de la Educación ",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "España",
+  "universidad" : "Universidad de Madrid ",
+  "nivel" : "Cuarto nivel",
+  "area" : "Facultad de Comunicación Social ",
+  "titulo" : "Doctorado en Ciencias de la Educación "
+  },
+  {"ci": "1712255916",
+  "apellidos" : "Rosales Villacres",
+  "name" : "María de Lourdes ",
+  "correo" : "lurosales@gmail.com",
+  "programa" : "Doctorado en Psicología",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "Universidad de Concepción ",
+  "nivel" : "Cuarto nivel",
+  "area" : "Facultad de Psicología ",
+  "titulo" : "Doctorado en Psicología "
+  },
+  {"ci": "1714631304",
+  "apellidos" : "Gamboa Proaño ",
+  "name" : "Marco Antonio ",
+  "correo" : "mg_psclinico@hotmail.com",
+  "programa" : "Doctorado en Psicología",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "Universidad de Concepción ",
+  "nivel" : "Cuarto nivel",
+  "area" : "Facultad de Psicología ",
+  "titulo" : "Doctorado en Psicología "
+  },
+  {"ci": "1803158946",
+  "apellidos" : "Perez Calama ",
+  "name" : "Karla Gioconda ",
+  "correo" : "karlaperez1906@gmail.com",
+  "programa" : "Doctorado en Psicología",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "Universidad de Concepción ",
+  "nivel" : "Cuarto nivel",
+  "area" : "Facultad de Psicología ",
+  "titulo" : "Doctorado en Psicología "
+  },
+  {"ci": "1705813259",
+  "apellidos" : "Bravo Muñoz",
+  "name" : "Jhonny Cecilia ",
+  "correo" : "cecibravo@hotmail.com",
+  "programa" : "Doctorado en Psicología",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "Universidad de Concepción ",
+  "nivel" : "Cuarto nivel",
+  "area" : "Facultad de Psicología ",
+  "titulo" : "Doctorado en Psicología "
+  },
+  {"ci": "1708200132",
+  "apellidos" : "Carrera Viver ",
+  "name" : "Giovanny Javier ",
+  "correo" : "geovannicarrera@hotmail.es",
+  "programa" : "Doctorado en Psicología",
+  "financiamiento" : "UCE:Beca *1",
+  "pais" : "Chile",
+  "universidad" : "Universidad de Concepción ",
+  "nivel" : "Cuarto nivel",
+  "area" : "Facultad de Psicología ",
+  "titulo" : "Doctorado en Psicología "
+  },
+  {"ci": "1710510049",
+  "apellidos" : "Pacheco Jiménes",
+  "name" : "Jacquelyn Silvana",
+  "correo" : "jacquelynspj@yahoo.com",
+  "programa" : "Doctorado en Arquitectura ",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Perú",
+  "universidad" : "Universidad Agraria la Molina en Lima ",
+  "nivel" : "Cuarto nivel",
+  "area" : "Facultad de Ciencas Agricolas ",
+  "titulo" : "Doctorado en Arquitectura "
+  },
+  {"ci": "1707882641",
+  "apellidos" : "Marcillo ",
+  "name" : "Cecilia del Carmen ",
+  "correo" : "cemarcillo@yahoo.com",
+  "programa" : "Doctorado en Humanidades y Artes con Mensión en Ciencias de la Educación ",
+  "financiamiento" : "Autofinanciado *1",
+  "pais" : "Argentina",
+  "universidad" : "Universidad Nacional del Rosario ",
+  "nivel" : "Cuarto nivel",
+  "area" : "Facultad de Psicología ",
+  "titulo" : "Doctorado en Humanidades y Artes con Mensión en Ciencias de la Educación "
   }
 ]
