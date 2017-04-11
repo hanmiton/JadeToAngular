@@ -6,22 +6,22 @@ block contenido
 		thead
 			tr
 				th #
-				th Nombre
-				th Descripción
-				th Precio
+				th ci
+				th apellidos
+				th nombre
 				th Imágenes
 				th Acciones
 		tbody
-			each product in products
+			each inge in ingenieros
 				tr
-					td= product.id
-					td= product.title
-					td= product.description
-					td= product.pricing
+					td= inge.id
+					td= inge.ci
+					td= inge.apellidos
+					td= inge.name
 					td
-						a(href="#{product.imageUrl}" class="btn") Ver Imagen
+						a(href="#{inge.imageUrl}" class="btn") Ver Imagen
 					td
-						a(href="/menu/edit/#{product.id}") Editar
+						a(href="/menu/edit/#{inge.id}") Editar
 						=" - "
-						a(href="/menu/delete/#{product.id}") Eliminar
+						a(href="/menu/delete/#{inge.id}") Eliminar
 						
